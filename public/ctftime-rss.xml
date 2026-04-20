@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>CTFtime upcoming events (local cache)</title>
+  <description>Generated locally. In production a GitHub Action refreshes this file from https://ctftime.org/event/list/upcoming/rss/</description>
+  <link>https://ctftime.org/</link>
+  <item>
+    <title>SekaiCTF 2024</title>
+    <link>https://ctftime.org/event/2243</link>
+    <description>Annual jeopardy-style CTF hosted by Project Sekai. Web, pwn, crypto, reverse, misc.</description>
+    <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+    <category>jeopardy</category>
+    <weight>62.55</weight>
+    <format>Jeopardy</format>
+    <duration>48h</duration>
+  </item>
+  <item>
+    <title>CSAW CTF Qualification Round 2024</title>
+    <link>https://ctftime.org/event/2221</link>
+    <description>Entry-level quals for the CSAW finals. Great for students and newcomers.</description>
+    <pubDate>Fri, 13 Sep 2024 14:00:00 +0000</pubDate>
+    <category>jeopardy</category>
+    <weight>24.10</weight>
+    <format>Jeopardy</format>
+    <duration>36h</duration>
+  </item>
+  <item>
+    <title>HITCON CTF 2024 Quals</title>
+    <link>https://ctftime.org/event/2257</link>
+    <description>One of the most competitive quals of the year. Expect very hard web and pwn.</description>
+    <pubDate>Sat, 21 Sep 2024 02:00:00 +0000</pubDate>
+    <category>jeopardy</category>
+    <weight>97.00</weight>
+    <format>Jeopardy</format>
+    <duration>36h</duration>
+  </item>
+  <item>
+    <title>BlackHat MEA CTF Qualification</title>
+    <link>https://ctftime.org/event/2301</link>
+    <description>Gulf region quals with generous prize pool. Beginner-friendly web & forensics.</description>
+    <pubDate>Sat, 05 Oct 2024 12:00:00 +0000</pubDate>
+    <category>jeopardy</category>
+    <weight>30.00</weight>
+    <format>Jeopardy</format>
+    <duration>24h</duration>
+  </item>
+  <item>
+    <title>DefCamp CTF 2024 Quals</title>
+    <link>https://ctftime.org/event/2290</link>
+    <description>European CTF organized alongside DefCamp Bucharest.</description>
+    <pubDate>Sat, 12 Oct 2024 09:00:00 +0000</pubDate>
+    <category>jeopardy</category>
+    <weight>54.20</weight>
+    <format>Jeopardy</format>
+    <duration>24h</duration>
+  </item>
+  <item>
+    <title>Hack.lu CTF 2024</title>
+    <link>https://ctftime.org/event/2312</link>
+    <description>Legendary European CTF. Hard reverse and web, signature style.</description>
+    <pubDate>Fri, 25 Oct 2024 18:00:00 +0000</pubDate>
+    <category>jeopardy</category>
+    <weight>80.40</weight>
+    <format>Jeopardy</format>
+    <duration>48h</duration>
+  </item>
+  <item>
+    <title>DamCTF 2024</title>
+    <link>https://ctftime.org/event/2278</link>
+    <description>OSU Security Club’s flagship event. Friendly, high-quality challenges.</description>
+    <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+    <category>jeopardy</category>
+    <weight>45.00</weight>
+    <format>Jeopardy</format>
+    <duration>24h</duration>
+  </item>
+</channel>
+</rss>

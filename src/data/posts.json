@@ -1,0 +1,46 @@
+[
+  {
+    "id": "melody-way-deadface-2025",
+    "title": "Melody Way — Write-Up [DeadFace 2025]",
+    "date": "2025-10-27",
+    "author": "HyPn0s",
+    "event": "DeadFace CTF 2025",
+    "category": "OSINT",
+    "summary": "A classic geolocation challenge: from a single rainy photograph to a specific building name in Seoul. Paris Baguette, a Korean blog about braised pork trotters, and D-Cube City.",
+    "tags": ["OSINT", "Geolocation", "DeadFace", "Write-up"],
+    "readingTime": 2,
+    "cover": "/assets/img/post-melody-way.svg",
+    "flag": "DEADFACE{D-Cube_City}",
+    "content": [
+      { "type": "h2", "text": "The Challenge" },
+      { "type": "quote", "text": "Tilon is a mysterious figure who enjoys his poetic life. Mirveal has discovered an image from one of Tilon's trips. Apparently he goes often there. Now all that's left is to get the name of the building." },
+      { "type": "kv", "k": "Flag format", "v": "DEADFACE{building_name_across_the_road}" },
+
+      { "type": "h2", "text": "The Evidence" },
+      { "type": "p", "text": "We were provided with a single image of a rainy courtyard — no EXIF, no metadata, no obvious landmarks. Just shops, a wet sidewalk, and two vertical signs in the distance." },
+
+      { "type": "h2", "text": "Initial analysis & language identification" },
+      { "type": "p", "text": "My first instinct was a reverse image search on the full photo, but it returned generic results for \"rainy city streets\" and \"covered walkways\". I needed specific text or landmarks to pivot from." },
+      { "type": "p", "text": "I zoomed in on the shop signs. Two stood out: a small orange sign on the right reading \"OROT\", and a taller vertical neon sign on the left." },
+      { "type": "p", "text": "\"OROT\" alone was not very useful. But the vertical neon sign was more promising — the characters were Korean." },
+      { "type": "kv", "k": "파리바게뜨", "v": "Paris Baguette" },
+      { "type": "p", "text": "Despite its very French-sounding name (and, as a Frenchman, the mild offense it causes me), Paris Baguette is actually a massive bakery chain headquartered in South Korea. Add the high-rise architecture and the density of the block, and it was highly probable we were in Seoul." },
+
+      { "type": "h2", "text": "Narrowing the search" },
+      { "type": "p", "text": "Knowing we were in Seoul was a start, but there are thousands of Paris Baguette locations there. I couldn't just search for the chain — I needed this specific courtyard configuration." },
+      { "type": "p", "text": "I went back to reverse image searching, this time focusing on crop-outs: the architectural features, the arrangement of the covered walkway, the combination of shops at that specific corner." },
+      { "type": "p", "text": "That led me to the breakthrough — a Korean blog post (on Naver) featuring a very similar-looking location. The post wasn't about the bakery at all, but about a restaurant called Sindorim Chamjokbal (신도림 참족발), famous for braised pork trotters." },
+      { "type": "p", "text": "Translating the blog gave me a precise address:" },
+      { "type": "code", "text": "Seoul, Guro-gu, Gyeongin-ro 661, Sindorim 1-cha Prugio" },
+
+      { "type": "h2", "text": "Pinpointing the target" },
+      { "type": "p", "text": "I plugged the address into Google Maps to verify. The layout matched perfectly — I could see the exact walkway where the original photo was taken." },
+      { "type": "p", "text": "The challenge asked for \"the name of the building across the road\". Standing at the location, right across the street, there is a massive glass complex that houses a theater and a mall. Checking the map and the building's facade, the complex is D-Cube City." },
+
+      { "type": "h2", "text": "Flag" },
+      { "type": "flag", "text": "DEADFACE{D-Cube_City}" },
+
+      { "type": "p", "text": "Really nice challenge — loved it. Took some time at first, but the satisfaction of landing on that exact courtyard from a single rainy photo was fantastic." }
+    ]
+  }
+]

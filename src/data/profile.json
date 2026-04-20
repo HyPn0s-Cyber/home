@@ -1,0 +1,17 @@
+{
+  "handle": "Hypn0s",
+  "realName": "Ги́пн0с",
+  "role": "Ethical Hacker / CTF Player",
+  "bio": "I break things on purpose, then write down how. Learning offensive security through CTFs — web exploitation, pwn, OSINT and anything that leaks a flag. Competing solo and with various teams.",
+  "location": "France",
+  "availability": "Open to opportunities",
+  "socials": [
+    { "label": "github", "url": "#" },
+    { "label": "linkedin", "url": "#" }
+  ],
+  "stats": {
+    "bestTeamRank": 12,
+    "bestIndividualRank": 188,
+    "bestPoints": 3570
+  }
+}

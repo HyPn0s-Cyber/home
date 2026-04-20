@@ -1,0 +1,118 @@
+[
+  {
+    "id": "deadface-2025",
+    "name": "DeadFace CTF 2025",
+    "date": "2025-10-28",
+    "team": "SummerJedi",
+    "mode": "team",
+    "teamRank": 43,
+    "teamTotal": 987,
+    "individualRank": 484,
+    "individualTotal": 2067,
+    "categories": ["OSINT", "Web", "Pwn"],
+    "badge": "DEADFACE CTF 2025 Competitor",
+    "badgeDate": "2025-10-28",
+    "notes": "Awarded: 10/28/2025"
+  },
+  {
+    "id": "polypwn-2025",
+    "name": "Polypwn 2025",
+    "date": "2025-03-29",
+    "mode": "team"
+  },
+  {
+    "id": "hackday-2025",
+    "name": "HackDay 2025",
+    "date": "2025-03-28",
+    "dateEnd": "2025-03-29",
+    "mode": "team"
+  },
+  {
+    "id": "hackfinity-battle-2025",
+    "name": "HackFinity Battle",
+    "date": "2025-03-20",
+    "mode": "solo",
+    "individualRank": 745,
+    "points": 300
+  },
+  {
+    "id": "hack-concordia-2025",
+    "name": "@Hack Concordia",
+    "date": "2025-03-01",
+    "dateEnd": "2025-03-02",
+    "mode": "team"
+  },
+  {
+    "id": "cattheflag-2024",
+    "name": "CatTheFlag",
+    "date": "2024-07-01",
+    "team": "N00B$",
+    "mode": "team",
+    "teamRank": 30,
+    "individualRank": 188,
+    "points": 169
+  },
+  {
+    "id": "bcactf-2024",
+    "name": "BCACTF 5.0",
+    "date": "2024-06-01",
+    "team": "N00B$",
+    "mode": "team",
+    "points": 310
+  },
+  {
+    "id": "n0psctf-2024",
+    "name": "N0PSctf",
+    "date": "2024-06-15",
+    "team": "N00B$",
+    "mode": "team",
+    "teamRank": 168,
+    "points": 778
+  },
+  {
+    "id": "btctf-2024",
+    "name": "BTCTF 2024",
+    "date": "2024-05-01",
+    "team": "N00B$",
+    "mode": "team",
+    "teamRank": 34,
+    "points": 3570
+  },
+  {
+    "id": "404ctf-2024",
+    "name": "404CTF 2024",
+    "date": "2024-05-01",
+    "dateEnd": "2024-05-31",
+    "mode": "solo",
+    "individualRank": 411,
+    "points": 2210,
+    "notes": "April – May 2024"
+  },
+  {
+    "id": "fcsc-2024",
+    "name": "FCSC 2024",
+    "fullName": "France CyberSecurity Challenge 2024",
+    "date": "2024-04-28",
+    "mode": "solo",
+    "individualRank": 360,
+    "points": 502
+  },
+  {
+    "id": "ec2-2024",
+    "name": "European Cyber Cup (EC2)",
+    "date": "2024-03-01",
+    "team": "Hackday",
+    "mode": "team",
+    "teamRank": 12,
+    "teamTotal": 20,
+    "notes": "In Cyber Forum (Lille)"
+  },
+  {
+    "id": "hackday-2024-quals",
+    "name": "HackDay 2024 Qualifications",
+    "date": "2024-01-15",
+    "dateEnd": "2024-01-21",
+    "team": "GateKeepr",
+    "mode": "team"
+  }
+]

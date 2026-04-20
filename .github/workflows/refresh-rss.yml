@@ -1,0 +1,48 @@
+name: Refresh CTFtime RSS
+
+# Every 6 hours, download the latest upcoming-CTFs RSS feed into
+# public/ctftime-rss.xml and commit it. The push triggers deploy.yml,
+# which redeploys the site automatically.
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'   # every 6 hours, at :17 to avoid the hour rush
+  workflow_dispatch:          # manual button in the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch CTFtime RSS
+        run: |
+          mkdir -p public
+          curl -sSL \
+            --retry 3 --retry-delay 5 \
+            -H "User-Agent: hypn0s-portfolio-bot/1.0" \
+            "https://ctftime.org/event/list/upcoming/rss/" \
+            -o public/ctftime-rss.xml
+
+      - name: Sanity-check
+        run: |
+          if ! grep -q "<rss" public/ctftime-rss.xml; then
+            echo "::error::Fetched file is not valid RSS — aborting commit"
+            head -c 400 public/ctftime-rss.xml
+            exit 1
+          fi
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/ctftime-rss.xml
+          if git diff --cached --quiet; then
+            echo "No changes in the RSS feed."
+          else
+            git commit -m "chore(rss): refresh CTFtime upcoming feed"
+            git push
+          fi
