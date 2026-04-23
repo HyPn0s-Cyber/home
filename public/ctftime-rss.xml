@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 22 Apr 2026 19:39:47 -0000</lastBuildDate><item><title>TRX CTF 2026</title><link>https://ctftime.org/event/3141</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 23 Apr 2026 03:47:52 -0000</lastBuildDate><item><title>TRX CTF 2026</title><link>https://ctftime.org/event/3141</link><description>
 Name: TRX CTF 2026 (an &lt;a href="/ctf/1238"&gt;TRX CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: April 24, 2026, 7 p.m. &amp;mdash; 26 April 2026, 19:00 UTC &amp;nbsp;&lt;a href="/event/3141.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -237,7 +237,21 @@ Event organizers:
 &lt;a href="/team/427740"&gt;PawnGuard&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3256</guid><start_date>20260509T190000</start_date><finish_date>20260510T020000</finish_date><logo_url>/media/events/hack2dawn-logo.jpg</logo_url><url>https://hack.pawnguard.org/</url><ctftime_url>/event/3256</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>México, Guadalajara</location><onsite>True</onsite><organizers>[{"id": 427740, "name": "PawnGuard"}]</organizers><ctf_id>1576</ctf_id><ctf_name>Hack2Dawn CTF</ctf_name></item><item><title>TJCTF 2026</title><link>https://ctftime.org/event/3195</link><description>
+</description><guid>https://ctftime.org/event/3256</guid><start_date>20260509T190000</start_date><finish_date>20260510T020000</finish_date><logo_url>/media/events/hack2dawn-logo.jpg</logo_url><url>https://hack.pawnguard.org/</url><ctftime_url>/event/3256</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>México, Guadalajara</location><onsite>True</onsite><organizers>[{"id": 427740, "name": "PawnGuard"}]</organizers><ctf_id>1576</ctf_id><ctf_name>Hack2Dawn CTF</ctf_name></item><item><title>NorthSec 2026</title><link>https://ctftime.org/event/3258</link><description>
+Name: NorthSec 2026 (an &lt;a href="/ctf/38"&gt;NorthSec CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 15, 2026, midnight &amp;mdash; 17 May 2026, 23:00 UTC &amp;nbsp;&lt;a href="/event/3258.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Hack quest&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Canada%2C%20Montreal"&gt;Canada, Montreal&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://nsec.io/competition/" rel="nofollow"&gt;https://nsec.io/competition/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/2492"&gt;NorthSec Organizers&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3258</guid><start_date>20260515T000000</start_date><finish_date>20260517T230000</finish_date><logo_url>/media/events/NSEC_Avatar_Socials.png</logo_url><url>https://nsec.io/competition/</url><ctftime_url>/event/3258</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Canada, Montreal</location><onsite>True</onsite><organizers>[{"id": 2492, "name": "NorthSec Organizers"}]</organizers><ctf_id>38</ctf_id><ctf_name>NorthSec CTF</ctf_name></item><item><title>TJCTF 2026</title><link>https://ctftime.org/event/3195</link><description>
 Name: TJCTF 2026 (an &lt;a href="/ctf/144"&gt;TJCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 15, 2026, 4 p.m. &amp;mdash; 17 May 2026, 16:00 UTC &amp;nbsp;&lt;a href="/event/3195.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -321,7 +335,21 @@ Event organizers:
 &lt;a href="/team/274600"&gt;Hardware CTF by Quarkslab&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3174</guid><start_date>20260529T170000</start_date><finish_date>20260530T205000</finish_date><logo_url>/media/events/logohwcolor_17.png</logo_url><url>https://hwc.tf/</url><ctftime_url>/event/3174</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>US, Santa Clara</location><onsite>True</onsite><organizers>[{"id": 274600, "name": "Hardware CTF"}]</organizers><ctf_id>1021</ctf_id><ctf_name>Hardware CTF</ctf_name></item><item><title>Pwn2Play Open CTF</title><link>https://ctftime.org/event/3220</link><description>
+</description><guid>https://ctftime.org/event/3174</guid><start_date>20260529T170000</start_date><finish_date>20260530T205000</finish_date><logo_url>/media/events/logohwcolor_17.png</logo_url><url>https://hwc.tf/</url><ctftime_url>/event/3174</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>US, Santa Clara</location><onsite>True</onsite><organizers>[{"id": 274600, "name": "Hardware CTF"}]</organizers><ctf_id>1021</ctf_id><ctf_name>Hardware CTF</ctf_name></item><item><title>BYUCTF 2026</title><link>https://ctftime.org/event/3247</link><description>
+Name: BYUCTF 2026 (an &lt;a href="/ctf/768"&gt;BYUCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 30, 2026, midnight &amp;mdash; 31 May 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3247.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctfd.cyberjousting.com/" rel="nofollow"&gt;https://ctfd.cyberjousting.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 53.29&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/155711"&gt;BYU Cyberia&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3247</guid><start_date>20260530T000000</start_date><finish_date>20260531T000000</finish_date><logo_url>/media/events/cougar.png</logo_url><url>https://ctfd.cyberjousting.com/</url><ctftime_url>/event/3247</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>53.29</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 155711, "name": "BYU Cyberia"}]</organizers><ctf_id>768</ctf_id><ctf_name>BYUCTF</ctf_name></item><item><title>Pwn2Play Open CTF</title><link>https://ctftime.org/event/3220</link><description>
 Name: Pwn2Play Open CTF (an &lt;a href="/ctf/1556"&gt;Pwn2Play Open CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 30, 2026, 9 a.m. &amp;mdash; 30 May 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3220.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -701,7 +729,21 @@ Event organizers:
 &lt;a href="/team/17058"&gt;K17&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3145</guid><start_date>20260911T100000</start_date><finish_date>20260913T100000</finish_date><logo_url>/media/events/20848837627a0ae11a820f3c9ed4fabc.png</logo_url><url>https://k17ctf.secso.cc/</url><ctftime_url>/event/3145</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.83</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 17058, "name": "K17"}]</organizers><ctf_id>1385</ctf_id><ctf_name>K17 CTF</ctf_name></item><item><title>Pointer Overflow CTF - 2026</title><link>https://ctftime.org/event/3020</link><description>
+</description><guid>https://ctftime.org/event/3145</guid><start_date>20260911T100000</start_date><finish_date>20260913T100000</finish_date><logo_url>/media/events/20848837627a0ae11a820f3c9ed4fabc.png</logo_url><url>https://k17ctf.secso.cc/</url><ctftime_url>/event/3145</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.83</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 17058, "name": "K17"}]</organizers><ctf_id>1385</ctf_id><ctf_name>K17 CTF</ctf_name></item><item><title>H7CTF 2026 Quals</title><link>https://ctftime.org/event/3093</link><description>
+Name: H7CTF 2026 Quals (an &lt;a href="/ctf/1169"&gt;H7CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Sept. 26, 2026, 3:30 a.m. &amp;mdash; 27 Sept. 2026, 15:30 UTC &amp;nbsp;&lt;a href="/event/3093.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://2026.h7tex.com/" rel="nofollow"&gt;https://2026.h7tex.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 27.49&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/281844"&gt;H7Tex&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3093</guid><start_date>20260926T033000</start_date><finish_date>20260927T153000</finish_date><logo_url>/media/events/IMG-20251015-WA0045.jpg</logo_url><url>https://2026.h7tex.com/</url><ctftime_url>/event/3093</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>27.49</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 281844, "name": "H7Tex"}]</organizers><ctf_id>1169</ctf_id><ctf_name>H7CTF</ctf_name></item><item><title>Pointer Overflow CTF - 2026</title><link>https://ctftime.org/event/3020</link><description>
 Name: Pointer Overflow CTF - 2026 (an &lt;a href="/ctf/963"&gt;Pointer Overflow CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 27, 2026, 2 p.m. &amp;mdash; 06 Dec. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3020.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
