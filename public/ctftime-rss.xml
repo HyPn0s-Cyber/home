@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 24 Apr 2026 08:23:54 -0000</lastBuildDate><item><title>TRX CTF 2026</title><link>https://ctftime.org/event/3141</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 24 Apr 2026 14:08:55 -0000</lastBuildDate><item><title>TRX CTF 2026</title><link>https://ctftime.org/event/3141</link><description>
 Name: TRX CTF 2026 (an &lt;a href="/ctf/1238"&gt;TRX CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: April 24, 2026, 7 p.m. &amp;mdash; 26 April 2026, 19:00 UTC &amp;nbsp;&lt;a href="/event/3141.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -69,21 +69,7 @@ Event organizers:
 &lt;a href="/team/276942"&gt;UPT-CTF&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3192</guid><start_date>20260425T070000</start_date><finish_date>20260426T070000</finish_date><logo_url>/media/events/CTFAC26.png</logo_url><url>https://ctf.ac.upt.ro/</url><ctftime_url>/event/3192</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.53</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 276942, "name": "UPT-CTF"}]</organizers><ctf_id>1337</ctf_id><ctf_name>CTF@AC</ctf_name></item><item><title>Midnight Sun CTF 2026 Quals</title><link>https://ctftime.org/event/2773</link><description>
-Name: Midnight Sun CTF 2026 Quals (an &lt;a href="/ctf/246"&gt;Midnight Sun CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: April 25, 2026, 10 a.m. &amp;mdash; 26 April 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/2773.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://play.midnightsunctf.com/" rel="nofollow"&gt;https://play.midnightsunctf.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 48.17&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/3208"&gt;HackingForSoju&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/2773</guid><start_date>20260425T100000</start_date><finish_date>20260426T100000</finish_date><logo_url>/media/events/midnightsun_2024_log_TRIMMEDo.png</logo_url><url>https://play.midnightsunctf.com/</url><ctftime_url>/event/2773</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>48.17</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 3208, "name": "HackingForSoju"}]</organizers><ctf_id>246</ctf_id><ctf_name>Midnight Sun CTF</ctf_name></item><item><title>MCTF 5.0</title><link>https://ctftime.org/event/3168</link><description>
+</description><guid>https://ctftime.org/event/3192</guid><start_date>20260425T070000</start_date><finish_date>20260426T070000</finish_date><logo_url>/media/events/CTFAC26.png</logo_url><url>https://ctf.ac.upt.ro/</url><ctftime_url>/event/3192</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.53</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 276942, "name": "UPT-CTF"}]</organizers><ctf_id>1337</ctf_id><ctf_name>CTF@AC</ctf_name></item><item><title>MCTF 5.0</title><link>https://ctftime.org/event/3168</link><description>
 Name: MCTF 5.0 (an &lt;a href="/ctf/1521"&gt;MCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: April 30, 2026, 7 p.m. &amp;mdash; 02 May 2026, 07:00 UTC &amp;nbsp;&lt;a href="/event/3168.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -139,7 +125,21 @@ Event organizers:
 &lt;a href="/team/214520"&gt;UVT-CTF&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3244</guid><start_date>20260502T080000</start_date><finish_date>20260503T150000</finish_date><logo_url>/media/events/8214e0b3661f119e06c811dd7538cc0d.jpg</logo_url><url></url><ctftime_url>/event/3244</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Timisoara, Romania</location><onsite>True</onsite><organizers>[{"id": 214520, "name": "UVT-CTF"}]</organizers><ctf_id>1267</ctf_id><ctf_name>UniVsThreats CTF </ctf_name></item><item><title>RAZER CTF 2026</title><link>https://ctftime.org/event/3241</link><description>
+</description><guid>https://ctftime.org/event/3244</guid><start_date>20260502T080000</start_date><finish_date>20260503T150000</finish_date><logo_url>/media/events/8214e0b3661f119e06c811dd7538cc0d.jpg</logo_url><url></url><ctftime_url>/event/3244</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Timisoara, Romania</location><onsite>True</onsite><organizers>[{"id": 214520, "name": "UVT-CTF"}]</organizers><ctf_id>1267</ctf_id><ctf_name>UniVsThreats CTF </ctf_name></item><item><title>Midnight Sun CTF 2026 Quals</title><link>https://ctftime.org/event/2773</link><description>
+Name: Midnight Sun CTF 2026 Quals (an &lt;a href="/ctf/246"&gt;Midnight Sun CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 2, 2026, 10 a.m. &amp;mdash; 03 May 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/2773.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://play.midnightsunctf.com/" rel="nofollow"&gt;https://play.midnightsunctf.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 48.17&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/3208"&gt;HackingForSoju&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/2773</guid><start_date>20260502T100000</start_date><finish_date>20260503T100000</finish_date><logo_url>/media/events/midnightsun_2024_log_TRIMMEDo.png</logo_url><url>https://play.midnightsunctf.com/</url><ctftime_url>/event/2773</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>48.17</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 3208, "name": "HackingForSoju"}]</organizers><ctf_id>246</ctf_id><ctf_name>Midnight Sun CTF</ctf_name></item><item><title>RAZER CTF 2026</title><link>https://ctftime.org/event/3241</link><description>
 Name: RAZER CTF 2026 (an &lt;a href="/ctf/1568"&gt;Razer CTF &lt;/a&gt; event.)&lt;br/&gt;
 Date: May 5, 2026, 6:30 a.m. &amp;mdash; 06 May 2026, 06:30 UTC &amp;nbsp;&lt;a href="/event/3241.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
