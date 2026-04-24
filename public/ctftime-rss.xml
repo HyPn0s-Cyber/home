@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 24 Apr 2026 14:08:55 -0000</lastBuildDate><item><title>TRX CTF 2026</title><link>https://ctftime.org/event/3141</link><description>
-Name: TRX CTF 2026 (an &lt;a href="/ctf/1238"&gt;TRX CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: April 24, 2026, 7 p.m. &amp;mdash; 26 April 2026, 19:00 UTC &amp;nbsp;&lt;a href="/event/3141.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.theromanxpl0.it/" rel="nofollow"&gt;https://ctf.theromanxpl0.it/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 24.16&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/46516"&gt;TheRomanXpl0it&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3141</guid><start_date>20260424T190000</start_date><finish_date>20260426T190000</finish_date><logo_url>/media/events/TRX_smooth_1.png</logo_url><url>https://ctf.theromanxpl0.it/</url><ctftime_url>/event/3141</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.16</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 46516, "name": "TheRomanXpl0it"}]</organizers><ctf_id>1238</ctf_id><ctf_name>TRX CTF</ctf_name></item><item><title>UMDCTF 2026</title><link>https://ctftime.org/event/3056</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 24 Apr 2026 19:13:35 -0000</lastBuildDate><item><title>UMDCTF 2026</title><link>https://ctftime.org/event/3056</link><description>
 Name: UMDCTF 2026 (an &lt;a href="/ctf/444"&gt;UMDCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: April 24, 2026, 10 p.m. &amp;mdash; 26 April 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3056.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
