@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 25 Apr 2026 03:32:52 -0000</lastBuildDate><item><title>Alfa CTF 2026</title><link>https://ctftime.org/event/3250</link><description>
-Name: Alfa CTF 2026 (an &lt;a href="/ctf/1418"&gt;Alfa CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: April 25, 2026, 6 a.m. &amp;mdash; 25 April 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3250.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://alfactf.ru/" rel="nofollow"&gt;https://alfactf.ru/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 21.67&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/30003"&gt;SPbCTF&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3250</guid><start_date>20260425T060000</start_date><finish_date>20260425T180000</finish_date><logo_url>/media/events/IMG_0149.jpeg</logo_url><url>https://alfactf.ru/</url><ctftime_url>/event/3250</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>21.67</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 30003, "name": "SPbCTF"}]</organizers><ctf_id>1418</ctf_id><ctf_name>Alfa CTF</ctf_name></item><item><title>CTF@AC26 - Quals</title><link>https://ctftime.org/event/3192</link><description>
-Name: CTF@AC26 - Quals (an &lt;a href="/ctf/1337"&gt;CTF@AC&lt;/a&gt; event.)&lt;br/&gt;
-Date: April 25, 2026, 7 a.m. &amp;mdash; 26 April 2026, 07:00 UTC &amp;nbsp;&lt;a href="/event/3192.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.ac.upt.ro/" rel="nofollow"&gt;https://ctf.ac.upt.ro/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 24.53&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/276942"&gt;UPT-CTF&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3192</guid><start_date>20260425T070000</start_date><finish_date>20260426T070000</finish_date><logo_url>/media/events/CTFAC26.png</logo_url><url>https://ctf.ac.upt.ro/</url><ctftime_url>/event/3192</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.53</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 276942, "name": "UPT-CTF"}]</organizers><ctf_id>1337</ctf_id><ctf_name>CTF@AC</ctf_name></item><item><title>MCTF 5.0</title><link>https://ctftime.org/event/3168</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 25 Apr 2026 07:46:16 -0000</lastBuildDate><item><title>MCTF 5.0</title><link>https://ctftime.org/event/3168</link><description>
 Name: MCTF 5.0 (an &lt;a href="/ctf/1521"&gt;MCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: April 30, 2026, 7 p.m. &amp;mdash; 02 May 2026, 07:00 UTC &amp;nbsp;&lt;a href="/event/3168.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
