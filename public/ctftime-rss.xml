@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 24 Apr 2026 19:13:35 -0000</lastBuildDate><item><title>UMDCTF 2026</title><link>https://ctftime.org/event/3056</link><description>
-Name: UMDCTF 2026 (an &lt;a href="/ctf/444"&gt;UMDCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: April 24, 2026, 10 p.m. &amp;mdash; 26 April 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3056.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://umdctf.io/" rel="nofollow"&gt;https://umdctf.io/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 85.48&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/87711"&gt;UMDCSEC&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3056</guid><start_date>20260424T220000</start_date><finish_date>20260426T220000</finish_date><logo_url>/media/events/logo-2026-cropped.png</logo_url><url>https://umdctf.io/</url><ctftime_url>/event/3056</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>85.48</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 87711, "name": "UMDCSEC"}]</organizers><ctf_id>444</ctf_id><ctf_name>UMDCTF</ctf_name></item><item><title>HACKTHEON SEJONG 2026 Qualifier</title><link>https://ctftime.org/event/3199</link><description>
-Name: HACKTHEON SEJONG 2026 Qualifier (an &lt;a href="/ctf/903"&gt;HACKTHEON SEJONG&lt;/a&gt; event.)&lt;br/&gt;
-Date: April 25, 2026, 1 a.m. &amp;mdash; 25 April 2026, 08:00 UTC &amp;nbsp;&lt;a href="/event/3199.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Sejong"&gt;Sejong&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://hacktheon.org/" rel="nofollow"&gt;https://hacktheon.org/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/214900"&gt;Sejong City Hall&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3199</guid><start_date>20260425T010000</start_date><finish_date>20260425T080000</finish_date><logo_url>/media/events/2026_HACKTHEON_SEJONG.png</logo_url><url>https://hacktheon.org/</url><ctftime_url>/event/3199</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Academic</restrictions><location>Sejong</location><onsite>False</onsite><organizers>[{"id": 214900, "name": "Sejong City Hall"}]</organizers><ctf_id>903</ctf_id><ctf_name>HACKTHEON SEJONG</ctf_name></item><item><title>Alfa CTF 2026</title><link>https://ctftime.org/event/3250</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 25 Apr 2026 03:32:52 -0000</lastBuildDate><item><title>Alfa CTF 2026</title><link>https://ctftime.org/event/3250</link><description>
 Name: Alfa CTF 2026 (an &lt;a href="/ctf/1418"&gt;Alfa CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: April 25, 2026, 6 a.m. &amp;mdash; 25 April 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3250.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
