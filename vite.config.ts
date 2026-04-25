@@ -20,5 +20,6 @@ export default defineConfig(async () => {
   return {
     base: REPO_BASE,
     plugins,
+    assetsInclude: ['**/*.md'],
   };
 })

@@ -5,28 +5,19 @@ import { Calendar, Clock, ArrowLeft, Flag, User, Award, Copy, Check } from 'luci
 import { useState } from 'react';
 import PageTransition from '../components/PageTransition';
 import LazyImage from '../components/LazyImage';
-import rawPosts from '../data/posts.json';
+//import rawPosts from '../data/posts.json';
+import { getAllPosts, type Post } from '../lib/posts';
+import PostContent from '../components/PostContent';
+
 
 type Block =
   | { type: 'h2' | 'h3' | 'p' | 'quote' | 'code' | 'flag'; text: string }
   | { type: 'kv'; k: string; v: string };
 
-type Post = {
-  id: string;
-  title: string;
-  date: string;
-  author?: string;
-  event?: string;
-  category?: string;
-  summary: string;
-  tags: string[];
-  readingTime: number;
-  cover: string;
-  flag?: string;
-  content?: Block[];
-};
 
-const posts = rawPosts as Post[];
+
+//const posts = rawPosts as Post[];
+const posts = getAllPosts();
 
 function Flagline({ value }: { value: string }) {
   const [copied, setCopied] = useState(false);
@@ -108,7 +99,7 @@ function renderBlock(b: Block, i: number) {
 
 export default function PostPage() {
   const { id } = useParams();
-  const post = useMemo(() => posts.find((p) => p.id === id), [id]);
+  const post = useMemo(() => posts.find((p) => p.slug === id), [id]);
 
   if (!post) {
     return (
@@ -196,12 +187,11 @@ export default function PostPage() {
           {post.summary}
         </p>
 
-        {post.content?.map((b, i) => renderBlock(b, i))}
+        
+        {post.content && <PostContent content={post.content} />}
 
         {/* final flag if defined and not already in content */}
-        {post.flag && !post.content?.some((b) => b.type === 'flag') && (
-          <Flagline value={post.flag} />
-        )}
+       {post.flag && <Flagline value={post.flag} />}
 
         <footer className="mt-12 pt-6 border-t border-[#1a222d] flex items-center justify-between font-mono text-[11px] text-[#8a96a3]">
           <Link to="/blog" className="hover:text-[#22ff9c] transition-colors">

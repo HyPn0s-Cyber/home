@@ -5,7 +5,10 @@ import { Calendar, Clock, Search, ArrowUpRight } from 'lucide-react';
 import PageTransition from '../components/PageTransition';
 import SectionTitle from '../components/SectionTitle';
 import LazyImage from '../components/LazyImage';
-import posts from '../data/posts.json';
+//import posts from '../data/posts.json';
+import { getAllPosts,  type Post } from '../lib/posts';
+import PostContent from '../components/PostContent';
+const posts = getAllPosts();
 
 export default function BlogPage() {
   const [query, setQuery] = useState('');
@@ -66,13 +69,13 @@ export default function BlogPage() {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
         {filtered.map((p, i) => (
           <motion.div
-            key={p.id}
+            key={p.slug}
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: i * 0.05 }}
           >
           <Link
-            to={`/blog/${p.id}`}
+            to={`/blog/${p.slug}`}
             className="group block bg-[#0b0f14] border border-[#1a222d] rounded-md overflow-hidden hover:border-[#22ff9c]/60 hover:shadow-[0_0_0_1px_rgba(34,255,156,0.4),0_0_24px_rgba(34,255,156,0.2)] transition-all"
           >
             <LazyImage src={p.cover} alt={p.title} aspect="16/9" />
