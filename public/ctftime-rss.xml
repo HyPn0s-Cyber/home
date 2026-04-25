@@ -1,78 +1,774 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-<channel>
-  <title>CTFtime upcoming events (local cache)</title>
-  <description>Generated locally. In production a GitHub Action refreshes this file from https://ctftime.org/event/list/upcoming/rss/</description>
-  <link>https://ctftime.org/</link>
-  <item>
-    <title>SekaiCTF 2024</title>
-    <link>https://ctftime.org/event/2243</link>
-    <description>Annual jeopardy-style CTF hosted by Project Sekai. Web, pwn, crypto, reverse, misc.</description>
-    <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-    <category>jeopardy</category>
-    <weight>62.55</weight>
-    <format>Jeopardy</format>
-    <duration>48h</duration>
-  </item>
-  <item>
-    <title>CSAW CTF Qualification Round 2024</title>
-    <link>https://ctftime.org/event/2221</link>
-    <description>Entry-level quals for the CSAW finals. Great for students and newcomers.</description>
-    <pubDate>Fri, 13 Sep 2024 14:00:00 +0000</pubDate>
-    <category>jeopardy</category>
-    <weight>24.10</weight>
-    <format>Jeopardy</format>
-    <duration>36h</duration>
-  </item>
-  <item>
-    <title>HITCON CTF 2024 Quals</title>
-    <link>https://ctftime.org/event/2257</link>
-    <description>One of the most competitive quals of the year. Expect very hard web and pwn.</description>
-    <pubDate>Sat, 21 Sep 2024 02:00:00 +0000</pubDate>
-    <category>jeopardy</category>
-    <weight>97.00</weight>
-    <format>Jeopardy</format>
-    <duration>36h</duration>
-  </item>
-  <item>
-    <title>BlackHat MEA CTF Qualification</title>
-    <link>https://ctftime.org/event/2301</link>
-    <description>Gulf region quals with generous prize pool. Beginner-friendly web & forensics.</description>
-    <pubDate>Sat, 05 Oct 2024 12:00:00 +0000</pubDate>
-    <category>jeopardy</category>
-    <weight>30.00</weight>
-    <format>Jeopardy</format>
-    <duration>24h</duration>
-  </item>
-  <item>
-    <title>DefCamp CTF 2024 Quals</title>
-    <link>https://ctftime.org/event/2290</link>
-    <description>European CTF organized alongside DefCamp Bucharest.</description>
-    <pubDate>Sat, 12 Oct 2024 09:00:00 +0000</pubDate>
-    <category>jeopardy</category>
-    <weight>54.20</weight>
-    <format>Jeopardy</format>
-    <duration>24h</duration>
-  </item>
-  <item>
-    <title>Hack.lu CTF 2024</title>
-    <link>https://ctftime.org/event/2312</link>
-    <description>Legendary European CTF. Hard reverse and web, signature style.</description>
-    <pubDate>Fri, 25 Oct 2024 18:00:00 +0000</pubDate>
-    <category>jeopardy</category>
-    <weight>80.40</weight>
-    <format>Jeopardy</format>
-    <duration>48h</duration>
-  </item>
-  <item>
-    <title>DamCTF 2024</title>
-    <link>https://ctftime.org/event/2278</link>
-    <description>OSU Security Club’s flagship event. Friendly, high-quality challenges.</description>
-    <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-    <category>jeopardy</category>
-    <weight>45.00</weight>
-    <format>Jeopardy</format>
-    <duration>24h</duration>
-  </item>
-</channel>
-</rss>
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 25 Apr 2026 19:12:28 -0000</lastBuildDate><item><title>MCTF 5.0</title><link>https://ctftime.org/event/3168</link><description>
+Name: MCTF 5.0 (an &lt;a href="/ctf/1521"&gt;MCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: April 30, 2026, 7 p.m. &amp;mdash; 02 May 2026, 07:00 UTC &amp;nbsp;&lt;a href="/event/3168.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Algeria%2C%20Algiers"&gt;Algeria, Algiers&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://mctf.microclub.info/" rel="nofollow"&gt;https://mctf.microclub.info/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/425393"&gt;Micro Club&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3168</guid><start_date>20260430T190000</start_date><finish_date>20260502T070000</finish_date><logo_url>/media/events/logo_3d_version_2.png</logo_url><url>https://mctf.microclub.info/</url><ctftime_url>/event/3168</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Algeria, Algiers</location><onsite>True</onsite><organizers>[{"id": 425393, "name": "Micro Club"}]</organizers><ctf_id>1521</ctf_id><ctf_name>MCTF</ctf_name></item><item><title>KubSTU CTF</title><link>https://ctftime.org/event/3177</link><description>
+Name: KubSTU CTF (an &lt;a href="/ctf/1499"&gt;KubSTU CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 1, 2026, 7 a.m. &amp;mdash; 02 May 2026, 19:00 UTC &amp;nbsp;&lt;a href="/event/3177.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://kubstu-ctf.online/" rel="nofollow"&gt;https://kubstu-ctf.online/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/223931"&gt;Capybaras&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3177</guid><start_date>20260501T070000</start_date><finish_date>20260502T190000</finish_date><logo_url>/media/events/1233.png</logo_url><url>https://kubstu-ctf.online/</url><ctftime_url>/event/3177</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 223931, "name": "Capybaras"}]</organizers><ctf_id>1499</ctf_id><ctf_name>KubSTU CTF</ctf_name></item><item><title>THEM?!CTF 2026</title><link>https://ctftime.org/event/3209</link><description>
+Name: THEM?!CTF 2026 (an &lt;a href="/ctf/1536"&gt;THEM?!CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 1, 2026, 6 p.m. &amp;mdash; 03 May 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3209.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://themctf.com/" rel="nofollow"&gt;https://themctf.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/387399"&gt;THEM?&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3209</guid><start_date>20260501T180000</start_date><finish_date>20260503T180000</finish_date><logo_url>/media/events/THEMCTF_2026_logo_black.png</logo_url><url>https://themctf.com/</url><ctftime_url>/event/3209</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 387399, "name": "THEM?!"}]</organizers><ctf_id>1536</ctf_id><ctf_name>THEM?!CTF</ctf_name></item><item><title>UniVsThreats 26 Finals CTF</title><link>https://ctftime.org/event/3244</link><description>
+Name: UniVsThreats 26 Finals CTF (an &lt;a href="/ctf/1267"&gt;UniVsThreats CTF &lt;/a&gt; event.)&lt;br/&gt;
+Date: May 2, 2026, 8 a.m. &amp;mdash; 03 May 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3244.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Timisoara%2C%20Romania"&gt;Timisoara, Romania&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/214520"&gt;UVT-CTF&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3244</guid><start_date>20260502T080000</start_date><finish_date>20260503T150000</finish_date><logo_url>/media/events/8214e0b3661f119e06c811dd7538cc0d.jpg</logo_url><url></url><ctftime_url>/event/3244</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Timisoara, Romania</location><onsite>True</onsite><organizers>[{"id": 214520, "name": "UVT-CTF"}]</organizers><ctf_id>1267</ctf_id><ctf_name>UniVsThreats CTF </ctf_name></item><item><title>Midnight Sun CTF 2026 Quals</title><link>https://ctftime.org/event/2773</link><description>
+Name: Midnight Sun CTF 2026 Quals (an &lt;a href="/ctf/246"&gt;Midnight Sun CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 2, 2026, 10 a.m. &amp;mdash; 03 May 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/2773.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://play.midnightsunctf.com/" rel="nofollow"&gt;https://play.midnightsunctf.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 48.17&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/3208"&gt;HackingForSoju&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/2773</guid><start_date>20260502T100000</start_date><finish_date>20260503T100000</finish_date><logo_url>/media/events/midnightsun_2024_log_TRIMMEDo.png</logo_url><url>https://play.midnightsunctf.com/</url><ctftime_url>/event/2773</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>48.17</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 3208, "name": "HackingForSoju"}]</organizers><ctf_id>246</ctf_id><ctf_name>Midnight Sun CTF</ctf_name></item><item><title>RAZER CTF 2026</title><link>https://ctftime.org/event/3241</link><description>
+Name: RAZER CTF 2026 (an &lt;a href="/ctf/1568"&gt;Razer CTF &lt;/a&gt; event.)&lt;br/&gt;
+Date: May 5, 2026, 6:30 a.m. &amp;mdash; 06 May 2026, 06:30 UTC &amp;nbsp;&lt;a href="/event/3241.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=India"&gt;India&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="http://ctf.droidecks.sbs/" rel="nofollow"&gt;http://ctf.droidecks.sbs/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/430693"&gt;Droidex&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3241</guid><start_date>20260505T063000</start_date><finish_date>20260506T063000</finish_date><logo_url>/media/events/logo_125.png</logo_url><url>http://ctf.droidecks.sbs/</url><ctftime_url>/event/3241</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>India</location><onsite>False</onsite><organizers>[{"id": 430693, "name": "Droidex"}]</organizers><ctf_id>1568</ctf_id><ctf_name>Razer CTF </ctf_name></item><item><title>THCon 2K26 CTF</title><link>https://ctftime.org/event/3186</link><description>
+Name: THCon 2K26 CTF (an &lt;a href="/ctf/181"&gt;THCon CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 7, 2026, 11 a.m. &amp;mdash; 08 May 2026, 11:00 UTC &amp;nbsp;&lt;a href="/event/3186.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://thcon.party/" rel="nofollow"&gt;https://thcon.party/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 34.67&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/20769"&gt;pony7&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3186</guid><start_date>20260507T110000</start_date><finish_date>20260508T110000</finish_date><logo_url>/media/events/logo_123.png</logo_url><url>https://thcon.party/</url><ctftime_url>/event/3186</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>34.67</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 20769, "name": "pony7"}]</organizers><ctf_id>181</ctf_id><ctf_name>THCon CTF</ctf_name></item><item><title>PHONIX VIPER NOVA CTF#2</title><link>https://ctftime.org/event/3018</link><description>
+Name: PHONIX VIPER NOVA CTF#2 (an &lt;a href="/ctf/1374"&gt;PH03N1X V1P3R N0V4 CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 8, 2026, 10 a.m. &amp;mdash; 10 May 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3018.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Romania%2C%20Bucharest"&gt;Romania, Bucharest&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="http://pwnctf.ro/" rel="nofollow"&gt;http://pwnctf.ro/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/395369"&gt;PH03N1X V1P3R N0V4 CTF&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3018</guid><start_date>20260508T100000</start_date><finish_date>20260510T170000</finish_date><logo_url>/media/events/0b084a17fe379613dd5be4f540c64249.png</logo_url><url>http://pwnctf.ro/</url><ctftime_url>/event/3018</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Romania, Bucharest</location><onsite>True</onsite><organizers>[{"id": 395369, "name": "PH03N1X V1P3R N0V4 CTF"}]</organizers><ctf_id>1374</ctf_id><ctf_name>PH03N1X V1P3R N0V4 CTF</ctf_name></item><item><title>Break The Syntax CTF 2026</title><link>https://ctftime.org/event/3137</link><description>
+Name: Break The Syntax CTF 2026 (an &lt;a href="/ctf/558"&gt;Break the Syntax CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 8, 2026, 4 p.m. &amp;mdash; 10 May 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3137.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Wroc%C5%82aw%2C%20Poland"&gt;Wrocław, Poland&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://bts2026.wh.edu.pl/" rel="nofollow"&gt;https://bts2026.wh.edu.pl/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 56.25&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/88205"&gt;PWr Synt@x Err0r&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3137</guid><start_date>20260508T160000</start_date><finish_date>20260510T100000</finish_date><logo_url>/media/events/Logo_15.png</logo_url><url>https://bts2026.wh.edu.pl/</url><ctftime_url>/event/3137</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>56.25</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Wrocław, Poland</location><onsite>False</onsite><organizers>[{"id": 88205, "name": "PWr Synt@x Err0r"}]</organizers><ctf_id>558</ctf_id><ctf_name>Break the Syntax CTF</ctf_name></item><item><title>DAMCTF 2026</title><link>https://ctftime.org/event/3124</link><description>
+Name: DAMCTF 2026 (an &lt;a href="/ctf/423"&gt;DamCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 9, 2026, midnight &amp;mdash; 11 May 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3124.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://damctf.xyz/" rel="nofollow"&gt;https://damctf.xyz/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 33.42&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/12858"&gt;OSUSEC&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3124</guid><start_date>20260509T000000</start_date><finish_date>20260511T000000</finish_date><logo_url>/media/events/damctf.png</logo_url><url>https://damctf.xyz/</url><ctftime_url>/event/3124</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>33.42</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 12858, "name": "OSUSEC"}]</organizers><ctf_id>423</ctf_id><ctf_name>DamCTF</ctf_name></item><item><title>From Dusk Till Dawn Quals</title><link>https://ctftime.org/event/3111</link><description>
+Name: From Dusk Till Dawn Quals (an &lt;a href="/ctf/880"&gt;VettoCon&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 9, 2026, 9 a.m. &amp;mdash; 10 May 2026, 09:00 UTC &amp;nbsp;&lt;a href="/event/3111.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://romhack.io/romhack-camp-ctf/" rel="nofollow"&gt;https://romhack.io/romhack-camp-ctf/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/117538"&gt;fibonhack&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3111</guid><start_date>20260509T090000</start_date><finish_date>20260510T090000</finish_date><logo_url>/media/events/From_Dusk_Till_Dawn_-_pixel_-_square.jpg</logo_url><url>https://romhack.io/romhack-camp-ctf/</url><ctftime_url>/event/3111</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 117538, "name": "fibonhack"}]</organizers><ctf_id>880</ctf_id><ctf_name>VettoCon</ctf_name></item><item><title>Hack2Dawn 2026</title><link>https://ctftime.org/event/3256</link><description>
+Name: Hack2Dawn 2026 (an &lt;a href="/ctf/1576"&gt;Hack2Dawn CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 9, 2026, 7 p.m. &amp;mdash; 10 May 2026, 02:00 UTC &amp;nbsp;&lt;a href="/event/3256.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Hack quest&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=M%C3%A9xico%2C%20Guadalajara"&gt;México, Guadalajara&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://hack.pawnguard.org/" rel="nofollow"&gt;https://hack.pawnguard.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/427740"&gt;PawnGuard&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3256</guid><start_date>20260509T190000</start_date><finish_date>20260510T020000</finish_date><logo_url>/media/events/hack2dawn-logo.jpg</logo_url><url>https://hack.pawnguard.org/</url><ctftime_url>/event/3256</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>México, Guadalajara</location><onsite>True</onsite><organizers>[{"id": 427740, "name": "PawnGuard"}]</organizers><ctf_id>1576</ctf_id><ctf_name>Hack2Dawn CTF</ctf_name></item><item><title>NorthSec 2026</title><link>https://ctftime.org/event/3258</link><description>
+Name: NorthSec 2026 (an &lt;a href="/ctf/38"&gt;NorthSec CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 15, 2026, midnight &amp;mdash; 17 May 2026, 23:00 UTC &amp;nbsp;&lt;a href="/event/3258.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Hack quest&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Canada%2C%20Montreal"&gt;Canada, Montreal&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://nsec.io/competition/" rel="nofollow"&gt;https://nsec.io/competition/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/2492"&gt;NorthSec Organizers&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3258</guid><start_date>20260515T000000</start_date><finish_date>20260517T230000</finish_date><logo_url>/media/events/NSEC_Avatar_Socials.png</logo_url><url>https://nsec.io/competition/</url><ctftime_url>/event/3258</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Canada, Montreal</location><onsite>True</onsite><organizers>[{"id": 2492, "name": "NorthSec Organizers"}]</organizers><ctf_id>38</ctf_id><ctf_name>NorthSec CTF</ctf_name></item><item><title>TJCTF 2026</title><link>https://ctftime.org/event/3195</link><description>
+Name: TJCTF 2026 (an &lt;a href="/ctf/144"&gt;TJCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 15, 2026, 4 p.m. &amp;mdash; 17 May 2026, 16:00 UTC &amp;nbsp;&lt;a href="/event/3195.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://tjctf.org/" rel="nofollow"&gt;https://tjctf.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 65.05&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/53812"&gt;tjcsc&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3195</guid><start_date>20260515T160000</start_date><finish_date>20260517T160000</finish_date><logo_url>/media/events/logo_96_1_1.png</logo_url><url>https://tjctf.org/</url><ctftime_url>/event/3195</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>65.05</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 53812, "name": "tjcsc"}]</organizers><ctf_id>144</ctf_id><ctf_name>TJCTF</ctf_name></item><item><title>DaVinciCTF 2026</title><link>https://ctftime.org/event/3132</link><description>
+Name: DaVinciCTF 2026 (an &lt;a href="/ctf/582"&gt;DaVinciCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 16, 2026, 8 a.m. &amp;mdash; 16 May 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3132.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://dvc.tf/" rel="nofollow"&gt;https://dvc.tf/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 32.59&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/112645"&gt;DaVinciCode&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3132</guid><start_date>20260516T080000</start_date><finish_date>20260516T170000</finish_date><logo_url>/media/events/davincictf_2026_2.png</logo_url><url>https://dvc.tf/</url><ctftime_url>/event/3132</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>32.59</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 112645, "name": "DaVinciCode"}]</organizers><ctf_id>582</ctf_id><ctf_name>DaVinciCTF</ctf_name></item><item><title>UralCUP 2026</title><link>https://ctftime.org/event/3214</link><description>
+Name: UralCUP 2026 (an &lt;a href="/ctf/1417"&gt;UralCUP&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 17, 2026, 5 a.m. &amp;mdash; 17 May 2026, 13:00 UTC &amp;nbsp;&lt;a href="/event/3214.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Russia"&gt;Russia&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://uralctf.org/" rel="nofollow"&gt;https://uralctf.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/380152"&gt;TyumGUard&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3214</guid><start_date>20260517T050000</start_date><finish_date>20260517T130000</finish_date><logo_url>/media/events/2876b94b571c4f41b7a235d7d6050a8c_1.jpg</logo_url><url>https://uralctf.org/</url><ctftime_url>/event/3214</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Academic</restrictions><location>Russia</location><onsite>False</onsite><organizers>[{"id": 380152, "name": "TyumGUard"}]</organizers><ctf_id>1417</ctf_id><ctf_name>UralCUP</ctf_name></item><item><title>DEF CON CTF Qualifier 2026</title><link>https://ctftime.org/event/3205</link><description>
+Name: DEF CON CTF Qualifier 2026 (an &lt;a href="/ctf/1"&gt;DEF CON CTF Qualifier&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 22, 2026, 9 p.m. &amp;mdash; 24 May 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3205.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://bbbirds.org/" rel="nofollow"&gt;https://bbbirds.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 63.22&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/425757"&gt;Benevolent Bureau of Birds&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3205</guid><start_date>20260522T210000</start_date><finish_date>20260524T210000</finish_date><logo_url></logo_url><url>https://bbbirds.org/</url><ctftime_url>/event/3205</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>63.22</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 425757, "name": "Benevolent Bureau of Birds"}]</organizers><ctf_id>1</ctf_id><ctf_name>DEF CON CTF Qualifier</ctf_name></item><item><title>SecLeaf Q2 CTF 2026</title><link>https://ctftime.org/event/3136</link><description>
+Name: SecLeaf Q2 CTF 2026 (an &lt;a href="/ctf/1509"&gt;SecLeaf CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 23, 2026, 2 p.m. &amp;mdash; 24 May 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3136.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=International"&gt;International&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.secleaf.tech/" rel="nofollow"&gt;https://ctf.secleaf.tech/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/421974"&gt;SecLeaf&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3136</guid><start_date>20260523T140000</start_date><finish_date>20260524T140000</finish_date><logo_url>/media/events/CTF_3.png</logo_url><url>https://ctf.secleaf.tech/</url><ctftime_url>/event/3136</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Individual</restrictions><location>International</location><onsite>False</onsite><organizers>[{"id": 421974, "name": "SecLeaf"}]</organizers><ctf_id>1509</ctf_id><ctf_name>SecLeaf CTF</ctf_name></item><item><title>Hardwear.io USA 2026 Hardware CTF</title><link>https://ctftime.org/event/3174</link><description>
+Name: Hardwear.io USA 2026 Hardware CTF (an &lt;a href="/ctf/1021"&gt;Hardware CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 29, 2026, 5 p.m. &amp;mdash; 30 May 2026, 20:50 UTC &amp;nbsp;&lt;a href="/event/3174.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=US%2C%20Santa%20Clara"&gt;US, Santa Clara&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://hwc.tf/" rel="nofollow"&gt;https://hwc.tf/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/274600"&gt;Hardware CTF by Quarkslab&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3174</guid><start_date>20260529T170000</start_date><finish_date>20260530T205000</finish_date><logo_url>/media/events/logohwcolor_17.png</logo_url><url>https://hwc.tf/</url><ctftime_url>/event/3174</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>US, Santa Clara</location><onsite>True</onsite><organizers>[{"id": 274600, "name": "Hardware CTF"}]</organizers><ctf_id>1021</ctf_id><ctf_name>Hardware CTF</ctf_name></item><item><title>BYUCTF 2026</title><link>https://ctftime.org/event/3247</link><description>
+Name: BYUCTF 2026 (an &lt;a href="/ctf/768"&gt;BYUCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 30, 2026, midnight &amp;mdash; 31 May 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3247.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctfd.cyberjousting.com/" rel="nofollow"&gt;https://ctfd.cyberjousting.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 53.29&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/155711"&gt;BYU Cyberia&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3247</guid><start_date>20260530T000000</start_date><finish_date>20260531T000000</finish_date><logo_url>/media/events/cougar.png</logo_url><url>https://ctfd.cyberjousting.com/</url><ctftime_url>/event/3247</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>53.29</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 155711, "name": "BYU Cyberia"}]</organizers><ctf_id>768</ctf_id><ctf_name>BYUCTF</ctf_name></item><item><title>Pwn2Play Open CTF</title><link>https://ctftime.org/event/3220</link><description>
+Name: Pwn2Play Open CTF (an &lt;a href="/ctf/1556"&gt;Pwn2Play Open CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 30, 2026, 9 a.m. &amp;mdash; 30 May 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3220.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=DMU%20Leicester%20%26%20Online"&gt;DMU Leicester &amp;amp; Online&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://pwn2play.biterra.co/" rel="nofollow"&gt;https://pwn2play.biterra.co/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/392860"&gt;DMUHackers26&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3220</guid><start_date>20260530T090000</start_date><finish_date>20260530T180000</finish_date><logo_url>/media/events/2025.png</logo_url><url>https://pwn2play.biterra.co/</url><ctftime_url>/event/3220</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed>https://ctftime.org/live/3220/</live_feed><restrictions>Casual</restrictions><location>DMU Leicester &amp; Online</location><onsite>False</onsite><organizers>[{"id": 392860, "name": "DMUHackers26"}]</organizers><ctf_id>1556</ctf_id><ctf_name>Pwn2Play Open CTF</ctf_name></item><item><title>WhiteHats TrojanCTF 2026</title><link>https://ctftime.org/event/3243</link><description>
+Name: WhiteHats TrojanCTF 2026 (an &lt;a href="/ctf/1103"&gt;TrojanCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 30, 2026, 9 a.m. &amp;mdash; 30 May 2026, 19:00 UTC &amp;nbsp;&lt;a href="/event/3243.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Netherlands%2C%20Eindhoven"&gt;Netherlands, Eindhoven&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://eshatrojan.nl/trojanctf" rel="nofollow"&gt;https://eshatrojan.nl/trojanctf&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/248605"&gt;E.S.H.A. Trojan&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3243</guid><start_date>20260530T090000</start_date><finish_date>20260530T190000</finish_date><logo_url></logo_url><url>https://eshatrojan.nl/trojanctf</url><ctftime_url>/event/3243</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Netherlands, Eindhoven</location><onsite>True</onsite><organizers>[{"id": 248605, "name": "E.S.H.A. Trojan"}]</organizers><ctf_id>1103</ctf_id><ctf_name>TrojanCTF</ctf_name></item><item><title>Grey Cat The Flag 2026 Qualifiers</title><link>https://ctftime.org/event/3178</link><description>
+Name: Grey Cat The Flag 2026 Qualifiers (an &lt;a href="/ctf/778"&gt;Grey Cat The Flag&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 31, 2026, noon &amp;mdash; 01 June 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3178.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Singapore"&gt;Singapore&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.nusgreyhats.org/" rel="nofollow"&gt;https://ctf.nusgreyhats.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 47.50&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/16740"&gt;NUSGreyhats&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3178</guid><start_date>20260531T120000</start_date><finish_date>20260601T120000</finish_date><logo_url>/media/events/73c9081878a4571d117439fc4a8e934d.png</logo_url><url>https://ctf.nusgreyhats.org/</url><ctftime_url>/event/3178</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>47.50</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Singapore</location><onsite>False</onsite><organizers>[{"id": 16740, "name": "NUS GreyHats"}]</organizers><ctf_id>778</ctf_id><ctf_name>Grey Cat The Flag</ctf_name></item><item><title>GPN CTF 2026</title><link>https://ctftime.org/event/3041</link><description>
+Name: GPN CTF 2026 (an &lt;a href="/ctf/854"&gt;GPN CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: June 5, 2026, 10 a.m. &amp;mdash; 06 June 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3041.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://gpn24.ctf.kitctf.de/" rel="nofollow"&gt;https://gpn24.ctf.kitctf.de/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 69.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/7221"&gt;KITCTF&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3041</guid><start_date>20260605T100000</start_date><finish_date>20260606T220000</finish_date><logo_url>/media/events/gulash_1.png</logo_url><url>https://gpn24.ctf.kitctf.de/</url><ctftime_url>/event/3041</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>69.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 7221, "name": "KITCTF"}]</organizers><ctf_id>854</ctf_id><ctf_name>GPN CTF</ctf_name></item><item><title>SAS CTF 2026 Quals</title><link>https://ctftime.org/event/3109</link><description>
+Name: SAS CTF 2026 Quals (an &lt;a href="/ctf/1081"&gt;SAS CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: June 6, 2026, noon &amp;mdash; 07 June 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3109.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.thesascon.com/" rel="nofollow"&gt;https://ctf.thesascon.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 31.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/210132"&gt;Drovosec&lt;/a&gt; 
+
+&lt;a href="/team/283057"&gt;SAS CREW&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3109</guid><start_date>20260606T120000</start_date><finish_date>20260607T120000</finish_date><logo_url>/media/events/SAS26_temp.png</logo_url><url>https://ctf.thesascon.com/</url><ctftime_url>/event/3109</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>31.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 210132, "name": "Drovosec"}, {"id": 283057, "name": "SAS CREW"}]</organizers><ctf_id>1081</ctf_id><ctf_name>SAS CTF</ctf_name></item><item><title>SSMCTF 2026 Qualifiers</title><link>https://ctftime.org/event/2913</link><description>
+Name: SSMCTF 2026 Qualifiers (an &lt;a href="/ctf/1329"&gt;SSMCTF &lt;/a&gt; event.)&lt;br/&gt;
+Date: June 7, 2026, 10 a.m. &amp;mdash; 08 June 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/2913.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ssmct.org/ctf" rel="nofollow"&gt;https://ssmct.org/ctf&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/299075"&gt;yes but oh wait shit what&amp;#39;s our team name again&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/2913</guid><start_date>20260607T100000</start_date><finish_date>20260608T100000</finish_date><logo_url></logo_url><url>https://ssmct.org/ctf</url><ctftime_url>/event/2913</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 299075, "name": "Singapore Students Merger"}]</organizers><ctf_id>1329</ctf_id><ctf_name>SSMCTF </ctf_name></item><item><title>CyberSci Nationals 2025-2026</title><link>https://ctftime.org/event/3125</link><description>
+Name: CyberSci Nationals 2025-2026 (an &lt;a href="/ctf/643"&gt;CyberSci&lt;/a&gt; event.)&lt;br/&gt;
+Date: June 13, 2026, 1 p.m. &amp;mdash; 14 June 2026, 23:00 UTC &amp;nbsp;&lt;a href="/event/3125.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Ottawa%2C%20Canada"&gt;Ottawa, Canada&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://cybersecuritychallenge.ca/" rel="nofollow"&gt;https://cybersecuritychallenge.ca/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/157536"&gt;CyberSciOrganizers&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3125</guid><start_date>20260613T130000</start_date><finish_date>20260614T230000</finish_date><logo_url>/media/events/a6670ab6b53ad3924988790f984c0fc4.jpg</logo_url><url>https://cybersecuritychallenge.ca/</url><ctftime_url>/event/3125</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Ottawa, Canada</location><onsite>True</onsite><organizers>[{"id": 157536, "name": "CyberSciOrganizers"}]</organizers><ctf_id>643</ctf_id><ctf_name>CyberSci</ctf_name></item><item><title>Crypto CTF 2026</title><link>https://ctftime.org/event/3034</link><description>
+Name: Crypto CTF 2026 (an &lt;a href="/ctf/317"&gt;Crypto CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: June 13, 2026, 2 p.m. &amp;mdash; 14 June 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3034.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://cr.yp.toc.tf/" rel="nofollow"&gt;https://cr.yp.toc.tf/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 91.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/4140"&gt;ASIS&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3034</guid><start_date>20260613T140000</start_date><finish_date>20260614T140000</finish_date><logo_url>/media/events/cryptoctf_logo.jpg</logo_url><url>https://cr.yp.toc.tf/</url><ctftime_url>/event/3034</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>91.00</weight><live_feed>https://ctftime.org/live/3034/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 4140, "name": "ASIS"}]</organizers><ctf_id>317</ctf_id><ctf_name>Crypto CTF</ctf_name></item><item><title>BCACTF 7.0</title><link>https://ctftime.org/event/3246</link><description>
+Name: BCACTF 7.0 (an &lt;a href="/ctf/325"&gt;BCACTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: June 19, 2026, 10 a.m. &amp;mdash; 22 June 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3246.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://www.bcactf.com/" rel="nofollow"&gt;https://www.bcactf.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 65.05&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/283028"&gt;Bing Chilling Academies&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3246</guid><start_date>20260619T100000</start_date><finish_date>20260622T100000</finish_date><logo_url></logo_url><url>https://www.bcactf.com/</url><ctftime_url>/event/3246</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>65.05</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 283028, "name": "Bing Chilling Academies"}]</organizers><ctf_id>325</ctf_id><ctf_name>BCACTF</ctf_name></item><item><title>Google Capture The Flag 2026</title><link>https://ctftime.org/event/3222</link><description>
+Name: Google Capture The Flag 2026 (an &lt;a href="/ctf/141"&gt;Google Capture The Flag&lt;/a&gt; event.)&lt;br/&gt;
+Date: June 19, 2026, 6 p.m. &amp;mdash; 21 June 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3222.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://g.co/ctf" rel="nofollow"&gt;https://g.co/ctf&lt;/a&gt;&lt;br/&gt;
+Rating weight: 88.82&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/23929"&gt;Google CTF&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3222</guid><start_date>20260619T180000</start_date><finish_date>20260621T180000</finish_date><logo_url></logo_url><url>https://g.co/ctf</url><ctftime_url>/event/3222</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>88.82</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 23929, "name": "Google CTF"}]</organizers><ctf_id>141</ctf_id><ctf_name>Google Capture The Flag</ctf_name></item><item><title>V1T CTF 2026</title><link>https://ctftime.org/event/3249</link><description>
+Name: V1T CTF 2026 (an &lt;a href="/ctf/1403"&gt;V1t CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: June 27, 2026, 2 a.m. &amp;mdash; 28 June 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3249.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.v1t.site/" rel="nofollow"&gt;https://ctf.v1t.site/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 22.14&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/280950"&gt;R4wr&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3249</guid><start_date>20260627T020000</start_date><finish_date>20260628T140000</finish_date><logo_url>/media/events/Ban_sao_cua_V1T_1.png</logo_url><url>https://ctf.v1t.site/</url><ctftime_url>/event/3249</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>22.14</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 280950, "name": "V1t"}]</organizers><ctf_id>1403</ctf_id><ctf_name>V1t CTF</ctf_name></item><item><title>SekaiCTF 2026</title><link>https://ctftime.org/event/3113</link><description>
+Name: SekaiCTF 2026 (an &lt;a href="/ctf/769"&gt;SekaiCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: June 27, 2026, 8 a.m. &amp;mdash; 29 June 2026, 08:00 UTC &amp;nbsp;&lt;a href="/event/3113.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.sekai.team/" rel="nofollow"&gt;https://ctf.sekai.team/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 79.25&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/169557"&gt;Project Sekai&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3113</guid><start_date>20260627T080000</start_date><finish_date>20260629T080000</finish_date><logo_url>/media/events/sekai2_SEKAI_CTF_Square_Black_BG.r_1_1_1_1.png</logo_url><url>https://ctf.sekai.team/</url><ctftime_url>/event/3113</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>79.25</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 169557, "name": "Project Sekai"}]</organizers><ctf_id>769</ctf_id><ctf_name>SekaiCTF</ctf_name></item><item><title>Grey Cat The Flag 2026 Finals</title><link>https://ctftime.org/event/3173</link><description>
+Name: Grey Cat The Flag 2026 Finals (an &lt;a href="/ctf/778"&gt;Grey Cat The Flag&lt;/a&gt; event.)&lt;br/&gt;
+Date: June 28, 2026, 2 a.m. &amp;mdash; 29 June 2026, 02:00 UTC &amp;nbsp;&lt;a href="/event/3173.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Singapore"&gt;Singapore&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.nusgreyhats.org/" rel="nofollow"&gt;https://ctf.nusgreyhats.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/16740"&gt;NUSGreyhats&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3173</guid><start_date>20260628T020000</start_date><finish_date>20260629T020000</finish_date><logo_url></logo_url><url>https://ctf.nusgreyhats.org/</url><ctftime_url>/event/3173</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Singapore</location><onsite>True</onsite><organizers>[{"id": 16740, "name": "NUS GreyHats"}]</organizers><ctf_id>778</ctf_id><ctf_name>Grey Cat The Flag</ctf_name></item><item><title>No Hack No CTF 2026</title><link>https://ctftime.org/event/3180</link><description>
+Name: No Hack No CTF 2026 (an &lt;a href="/ctf/1199"&gt;No Hack No CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: July 4, 2026, midnight &amp;mdash; 06 July 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3180.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://nhnc.ic3dt3a.org/" rel="nofollow"&gt;https://nhnc.ic3dt3a.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 23.47&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/303514"&gt;ICEDTEA&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3180</guid><start_date>20260704T000000</start_date><finish_date>20260706T000000</finish_date><logo_url></logo_url><url>https://nhnc.ic3dt3a.org/</url><ctftime_url>/event/3180</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>23.47</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 303514, "name": "ICEDTEA"}]</organizers><ctf_id>1199</ctf_id><ctf_name>No Hack No CTF</ctf_name></item><item><title>R3CTF 2026</title><link>https://ctftime.org/event/3149</link><description>
+Name: R3CTF 2026 (an &lt;a href="/ctf/329"&gt;R3CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: July 4, 2026, 2 a.m. &amp;mdash; 06 July 2026, 02:00 UTC &amp;nbsp;&lt;a href="/event/3149.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf2026.r3kapig.com/" rel="nofollow"&gt;https://ctf2026.r3kapig.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 35.95&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/58979"&gt;r3kapig&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3149</guid><start_date>20260704T020000</start_date><finish_date>20260706T020000</finish_date><logo_url>/media/events/r3kapig.png</logo_url><url>https://ctf2026.r3kapig.com/</url><ctftime_url>/event/3149</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>35.95</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 58979, "name": "r3kapig"}]</organizers><ctf_id>329</ctf_id><ctf_name>R3CTF</ctf_name></item><item><title>L3akCTF 2026</title><link>https://ctftime.org/event/3061</link><description>
+Name: L3akCTF 2026 (an &lt;a href="/ctf/1077"&gt;L3akCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: July 10, 2026, 6 p.m. &amp;mdash; 12 July 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3061.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.l3ak.team/" rel="nofollow"&gt;https://ctf.l3ak.team/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 34.47&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/220336"&gt;L3ak&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3061</guid><start_date>20260710T180000</start_date><finish_date>20260712T180000</finish_date><logo_url>/media/events/6a9256e0b32707195ff9fe31b358a0e6.png</logo_url><url>https://ctf.l3ak.team/</url><ctftime_url>/event/3061</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>34.47</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 220336, "name": "L3ak"}]</organizers><ctf_id>1077</ctf_id><ctf_name>L3akCTF</ctf_name></item><item><title>OmniCTF 2026 Quals</title><link>https://ctftime.org/event/3104</link><description>
+Name: OmniCTF 2026 Quals (an &lt;a href="/ctf/1412"&gt;OmniCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: July 17, 2026, 3 p.m. &amp;mdash; 19 July 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3104.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://omnictf.com/" rel="nofollow"&gt;https://omnictf.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/383015"&gt;OmniCTF&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3104</guid><start_date>20260717T150000</start_date><finish_date>20260719T150000</finish_date><logo_url>/media/events/logo1024x1024_1.png</logo_url><url>https://omnictf.com/</url><ctftime_url>/event/3104</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 383015, "name": "OmniCYBR"}]</organizers><ctf_id>1412</ctf_id><ctf_name>OmniCTF</ctf_name></item><item><title>DownUnderCTF 2026</title><link>https://ctftime.org/event/3112</link><description>
+Name: DownUnderCTF 2026 (an &lt;a href="/ctf/481"&gt;DownUnderCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: July 17, 2026, 7:30 p.m. &amp;mdash; 19 July 2026, 19:30 UTC &amp;nbsp;&lt;a href="/event/3112.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://2026.duc.tf/" rel="nofollow"&gt;https://2026.duc.tf/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 94.99&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/126400"&gt;DownUnderCTF&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3112</guid><start_date>20260717T193000</start_date><finish_date>20260719T193000</finish_date><logo_url></logo_url><url>https://2026.duc.tf/</url><ctftime_url>/event/3112</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>94.99</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 126400, "name": "DownUnderCTF"}]</organizers><ctf_id>481</ctf_id><ctf_name>DownUnderCTF</ctf_name></item><item><title>UIUCTF 2026</title><link>https://ctftime.org/event/3148</link><description>
+Name: UIUCTF 2026 (an &lt;a href="/ctf/95"&gt;UIUCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: July 25, 2026, midnight &amp;mdash; 27 July 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3148.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://uiuc.tf/" rel="nofollow"&gt;https://uiuc.tf/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 69.35&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/27763"&gt;SIGPwny&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3148</guid><start_date>20260725T000000</start_date><finish_date>20260727T000000</finish_date><logo_url></logo_url><url>https://uiuc.tf/</url><ctftime_url>/event/3148</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>69.35</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 27763, "name": "SIGPwny"}]</organizers><ctf_id>95</ctf_id><ctf_name>UIUCTF</ctf_name></item><item><title>D^3CTF 2026</title><link>https://ctftime.org/event/3201</link><description>
+Name: D^3CTF 2026 (an &lt;a href="/ctf/387"&gt;D^3CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: July 25, 2026, noon &amp;mdash; 26 July 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3201.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://d3c.tf/" rel="nofollow"&gt;https://d3c.tf/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 69.22&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/91096"&gt;D^3CTF Organizers&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3201</guid><start_date>20260725T120000</start_date><finish_date>20260726T120000</finish_date><logo_url></logo_url><url>https://d3c.tf/</url><ctftime_url>/event/3201</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>69.22</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 91096, "name": "D^3CTF Organizers"}]</organizers><ctf_id>387</ctf_id><ctf_name>D^3CTF</ctf_name></item><item><title>Universal CTF</title><link>https://ctftime.org/event/3237</link><description>
+Name: Universal CTF (an &lt;a href="/ctf/1570"&gt;Universal CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Aug. 1, 2026, 7 a.m. &amp;mdash; 02 Aug. 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3237.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.uctf.io/" rel="nofollow"&gt;https://ctf.uctf.io/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/430827"&gt;U-CTF&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3237</guid><start_date>20260801T070000</start_date><finish_date>20260802T150000</finish_date><logo_url>/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png</logo_url><url>https://ctf.uctf.io/</url><ctftime_url>/event/3237</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3237/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 430827, "name": "U-CTF"}]</organizers><ctf_id>1570</ctf_id><ctf_name>Universal CTF</ctf_name></item><item><title>scriptCTF 2026</title><link>https://ctftime.org/event/3052</link><description>
+Name: scriptCTF 2026 (an &lt;a href="/ctf/1318"&gt;scriptCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Aug. 8, 2026, midnight &amp;mdash; 10 Aug. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3052.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.scriptsorcerers.xyz/" rel="nofollow"&gt;https://ctf.scriptsorcerers.xyz/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 24.70&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/284260"&gt;ScriptSorcerers&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3052</guid><start_date>20260808T000000</start_date><finish_date>20260810T000000</finish_date><logo_url>/media/events/final_logo_1.png</logo_url><url>https://ctf.scriptsorcerers.xyz/</url><ctftime_url>/event/3052</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.70</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 284260, "name": "ScriptSorcerers"}]</organizers><ctf_id>1318</ctf_id><ctf_name>scriptCTF</ctf_name></item><item><title>gaslightCTF 2026</title><link>https://ctftime.org/event/3181</link><description>
+Name: gaslightCTF 2026 (an &lt;a href="/ctf/1517"&gt;gaslightCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Aug. 14, 2026, noon &amp;mdash; 17 Aug. 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3181.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://gaslightctf.cooking/" rel="nofollow"&gt;https://gaslightctf.cooking/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/299906"&gt;gaslighting&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3181</guid><start_date>20260814T120000</start_date><finish_date>20260817T120000</finish_date><logo_url>/media/events/icon_9.png</logo_url><url>https://gaslightctf.cooking/</url><ctftime_url>/event/3181</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 299906, "name": "gaslighting"}]</organizers><ctf_id>1517</ctf_id><ctf_name>gaslightCTF</ctf_name></item><item><title>BrunnerCTF 2026</title><link>https://ctftime.org/event/3065</link><description>
+Name: BrunnerCTF 2026 (an &lt;a href="/ctf/1341"&gt;BrunnerCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Aug. 21, 2026, noon &amp;mdash; 23 Aug. 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3065.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.brunnerne.dk/" rel="nofollow"&gt;https://ctf.brunnerne.dk/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 24.66&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/155032"&gt;SDU&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3065</guid><start_date>20260821T120000</start_date><finish_date>20260823T120000</finish_date><logo_url>/media/events/Logo_-_2-7.png</logo_url><url>https://ctf.brunnerne.dk/</url><ctftime_url>/event/3065</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.66</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 155032, "name": "Brunnerne"}]</organizers><ctf_id>1341</ctf_id><ctf_name>BrunnerCTF</ctf_name></item><item><title>ASIS CTF Quals 2026</title><link>https://ctftime.org/event/3033</link><description>
+Name: ASIS CTF Quals 2026 (an &lt;a href="/ctf/55"&gt;ASIS CTF Quals &lt;/a&gt; event.)&lt;br/&gt;
+Date: Aug. 29, 2026, 2 p.m. &amp;mdash; 30 Aug. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3033.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://asisctf.com/" rel="nofollow"&gt;https://asisctf.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 90.53&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/4140"&gt;ASIS&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3033</guid><start_date>20260829T140000</start_date><finish_date>20260830T140000</finish_date><logo_url>/media/events/asis_logo_1.png</logo_url><url>https://asisctf.com/</url><ctftime_url>/event/3033</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>90.53</weight><live_feed>https://ctftime.org/live/3033/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 4140, "name": "ASIS"}]</organizers><ctf_id>55</ctf_id><ctf_name>ASIS CTF Quals </ctf_name></item><item><title>NNS CTF 2026</title><link>https://ctftime.org/event/3097</link><description>
+Name: NNS CTF 2026 (an &lt;a href="/ctf/1256"&gt;NNS CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Sept. 4, 2026, 4 p.m. &amp;mdash; 06 Sept. 2026, 16:00 UTC &amp;nbsp;&lt;a href="/event/3097.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://nnsc.tf/" rel="nofollow"&gt;https://nnsc.tf/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 25.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/222749"&gt;Norske Nøkkelsnikere&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3097</guid><start_date>20260904T160000</start_date><finish_date>20260906T160000</finish_date><logo_url>/media/events/Logo_D_1.png</logo_url><url>https://nnsc.tf/</url><ctftime_url>/event/3097</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 222749, "name": "Norske N\u00f8kkelsnikere"}]</organizers><ctf_id>1256</ctf_id><ctf_name>NNS CTF</ctf_name></item><item><title>K17 CTF 2026</title><link>https://ctftime.org/event/3145</link><description>
+Name: K17 CTF 2026 (an &lt;a href="/ctf/1385"&gt;K17 CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Sept. 11, 2026, 10 a.m. &amp;mdash; 13 Sept. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3145.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://k17ctf.secso.cc/" rel="nofollow"&gt;https://k17ctf.secso.cc/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 24.83&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/17058"&gt;K17&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3145</guid><start_date>20260911T100000</start_date><finish_date>20260913T100000</finish_date><logo_url>/media/events/20848837627a0ae11a820f3c9ed4fabc.png</logo_url><url>https://k17ctf.secso.cc/</url><ctftime_url>/event/3145</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.83</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 17058, "name": "K17"}]</organizers><ctf_id>1385</ctf_id><ctf_name>K17 CTF</ctf_name></item><item><title>H7CTF 2026 Quals</title><link>https://ctftime.org/event/3093</link><description>
+Name: H7CTF 2026 Quals (an &lt;a href="/ctf/1169"&gt;H7CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Sept. 26, 2026, 3:30 a.m. &amp;mdash; 27 Sept. 2026, 15:30 UTC &amp;nbsp;&lt;a href="/event/3093.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://2026.h7tex.com/" rel="nofollow"&gt;https://2026.h7tex.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 27.49&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/281844"&gt;H7Tex&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3093</guid><start_date>20260926T033000</start_date><finish_date>20260927T153000</finish_date><logo_url>/media/events/IMG-20251015-WA0045.jpg</logo_url><url>https://2026.h7tex.com/</url><ctftime_url>/event/3093</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>27.49</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 281844, "name": "H7Tex"}]</organizers><ctf_id>1169</ctf_id><ctf_name>H7CTF</ctf_name></item><item><title>Pointer Overflow CTF - 2026</title><link>https://ctftime.org/event/3020</link><description>
+Name: Pointer Overflow CTF - 2026 (an &lt;a href="/ctf/963"&gt;Pointer Overflow CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Sept. 27, 2026, 2 p.m. &amp;mdash; 06 Dec. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3020.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://pointeroverflowctf.com/" rel="nofollow"&gt;https://pointeroverflowctf.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/231536"&gt;UWSP Pointers&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3020</guid><start_date>20260927T140000</start_date><finish_date>20261206T140000</finish_date><logo_url>/media/events/logo-mini.png</logo_url><url>https://pointeroverflowctf.com/</url><ctftime_url>/event/3020</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 231536, "name": "UWSP Pointers"}]</organizers><ctf_id>963</ctf_id><ctf_name>Pointer Overflow CTF</ctf_name></item><item><title>Hack.lu CTF 2026</title><link>https://ctftime.org/event/3207</link><description>
+Name: Hack.lu CTF 2026 (an &lt;a href="/ctf/8"&gt;Hack.lu CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 23, 2026, 6 p.m. &amp;mdash; 25 Oct. 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3207.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://flu.xxx/" rel="nofollow"&gt;https://flu.xxx/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 94.74&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/551"&gt;FluxFingers&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3207</guid><start_date>20261023T180000</start_date><finish_date>20261025T180000</finish_date><logo_url>/media/events/hacklu25.jpg</logo_url><url>https://flu.xxx/</url><ctftime_url>/event/3207</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>94.74</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 551, "name": "FluxFingers"}]</organizers><ctf_id>8</ctf_id><ctf_name>Hack.lu CTF</ctf_name></item><item><title>BlackAlps CTF 2026</title><link>https://ctftime.org/event/3242</link><description>
+Name: BlackAlps CTF 2026 (an &lt;a href="/ctf/375"&gt;BlackAlps&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 6, 2026, 6:15 p.m. &amp;mdash; 06 Nov. 2026, 22:30 UTC &amp;nbsp;&lt;a href="/event/3242.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Switzerland%2C%20Yverdon-les-Bains"&gt;Switzerland, Yverdon-les-Bains&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://blackalps.ch/ba/" rel="nofollow"&gt;https://blackalps.ch/ba/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/89021"&gt;BlackAlps&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3242</guid><start_date>20261106T181500</start_date><finish_date>20261106T223000</finish_date><logo_url>/media/events/black-alps-v5-logo-black_HIGH-RES.png</logo_url><url>https://blackalps.ch/ba/</url><ctftime_url>/event/3242</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Switzerland, Yverdon-les-Bains</location><onsite>True</onsite><organizers>[{"id": 89021, "name": "BlackAlps"}]</organizers><ctf_id>375</ctf_id><ctf_name>BlackAlps</ctf_name></item><item><title>WolvCTF 2026</title><link>https://ctftime.org/event/3049</link><description>
+Name: WolvCTF 2026 (an &lt;a href="/ctf/766"&gt;WolvCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 13, 2026, 11 p.m. &amp;mdash; 15 Nov. 2026, 23:00 UTC &amp;nbsp;&lt;a href="/event/3049.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://wolvctf.io/" rel="nofollow"&gt;https://wolvctf.io/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/83621"&gt;w01verines&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3049</guid><start_date>20261113T230000</start_date><finish_date>20261115T230000</finish_date><logo_url>/media/events/wolverine-logo-square1_1.jpg</logo_url><url>https://wolvctf.io/</url><ctftime_url>/event/3049</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3049/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 83621, "name": "wolvsec"}]</organizers><ctf_id>766</ctf_id><ctf_name>WolvCTF</ctf_name></item><item><title>Platypwn 2026</title><link>https://ctftime.org/event/3082</link><description>
+Name: Platypwn 2026 (an &lt;a href="/ctf/979"&gt;Platypwn&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 14, 2026, 9 a.m. &amp;mdash; 15 Nov. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3082.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://platypwnies.de/events/platypwn/" rel="nofollow"&gt;https://platypwnies.de/events/platypwn/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 37.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/112550"&gt;Platypwnies&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3082</guid><start_date>20261114T090000</start_date><finish_date>20261115T210000</finish_date><logo_url>/media/events/platypwnies-512_1_1.png</logo_url><url>https://platypwnies.de/events/platypwn/</url><ctftime_url>/event/3082</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>37.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 112550, "name": "Platypwnies"}]</organizers><ctf_id>979</ctf_id><ctf_name>Platypwn</ctf_name></item><item><title>SwampCTF 2026</title><link>https://ctftime.org/event/3118</link><description>
+Name: SwampCTF 2026 (an &lt;a href="/ctf/241"&gt;SwampCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 20, 2026, 9 p.m. &amp;mdash; 22 Nov. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3118.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.swampctf.com/" rel="nofollow"&gt;https://ctf.swampctf.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/397"&gt;Kernel Sanders&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3118</guid><start_date>20261120T210000</start_date><finish_date>20261122T210000</finish_date><logo_url></logo_url><url>https://ctf.swampctf.com/</url><ctftime_url>/event/3118</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 397, "name": "Kernel Sanders"}]</organizers><ctf_id>241</ctf_id><ctf_name>SwampCTF</ctf_name></item><item><title>ASIS CTF Finals 2026</title><link>https://ctftime.org/event/3062</link><description>
+Name: ASIS CTF Finals 2026 (an &lt;a href="/ctf/59"&gt;ASIS CTF Finals&lt;/a&gt; event.)&lt;br/&gt;
+Date: Dec. 27, 2026, 2 p.m. &amp;mdash; 28 Dec. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3062.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://asisctf.com/" rel="nofollow"&gt;https://asisctf.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 99.38&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/4140"&gt;ASIS&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3062</guid><start_date>20261227T140000</start_date><finish_date>20261228T140000</finish_date><logo_url>/media/events/asis_logo_2.png</logo_url><url>https://asisctf.com/</url><ctftime_url>/event/3062</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>99.38</weight><live_feed>https://ctftime.org/live/3062/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 4140, "name": "ASIS"}]</organizers><ctf_id>59</ctf_id><ctf_name>ASIS CTF Finals</ctf_name></item></channel></rss>
