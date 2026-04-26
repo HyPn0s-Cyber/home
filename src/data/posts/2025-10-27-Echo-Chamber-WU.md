@@ -3,6 +3,9 @@ title : Echo Chamber Write Up [DeadFace 2025]
 date : 2025-10-27 16:00:00 -0500
 categories : [WriteUps]
 tags : [DeadFace 2025, pwn]
+cover: /assets/img/post-default.svg
+readingTime: 5
+summary: Echo Chamber Write Up - DeadFace 2025.
 ---
 
 
@@ -10,9 +13,7 @@ tags : [DeadFace 2025, pwn]
 
 ## Echo Chamber
 
-<p style="text-align: left;">
-  <img src="{{ '/assets/img/echo_chamber.png' | relative_url }}" alt="Picture of the rules of the chall">
-</p>
+![Picture of the challenge's rules](/assets/img/echo_chamber.png)
 
 This challenge involved a pwn task on a remote service. The description "echoes messages without sanitizing input" strongly suggested a format string vulnerability.
 
@@ -80,9 +81,8 @@ The script quickly found the flag:
 
 ## Flag
 
-<p style="text-align: left;">
-  <img src="{{ '/assets/img/flag_echo_chamber.png' | relative_url }}" alt="Picture of the flag returned by our Python script">
-</p>
+
+![Picture of the flag returned by our Python script](/assets/img/flag_echo_chamber.png)
 
 deadface{r3tr0_f0rm4t_L34k_3xp0s3d}
 

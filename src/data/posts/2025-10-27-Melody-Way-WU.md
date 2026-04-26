@@ -3,7 +3,9 @@ title : Melody Way Write Up [DeadFace 2025]
 date : 2025-10-27 22:00:00 -0500
 categories : [WriteUps]
 tags : [DeadFace 2025, osint]
----
+cover: /assets/img/post-default.svg
+readingTime: 7
+summary: Melody Way Write Up - DeadFace 2025.
 
 ---
 
@@ -19,9 +21,7 @@ This was a classic geolocation challenge that required moving from a single, rai
 **The Evidence:**
 We were provided with this image of a rainy courtyard:
 
-<p style="text-align: left;">
-  <img src="{{ '/assets/img/Melody_Way.jpg' | relative_url }}" alt="Rainy street view provided in the challenge">
-</p>
+![Rainy street view provided in the challenge](/assets/img/Melody_Way.jpg)
 
 
 ### Initial Analysis & Language Identification
@@ -30,15 +30,14 @@ My first instinct was to perform a reverse image search on the original photo, b
 
 I zoomed in on the shop signs. Two stood out. First, a small orange sign on the rigth side, reading "OROT".
 
-<p style="text-align: left;">
-  <img src="{{ '/assets/img/orot.png' | relative_url }}" alt="Zoom on OROT sign">
-</p>
+
+![Zoom on OROT sign](/assets/img/orot.png)
+
 
 Searching for "OROT" alone wasn't very helpful. However, the vertical neon sign on the left was more promising.
 
-<p style="text-align: left;">
-  <img src="{{ '/assets/img/melody_way_sign.png' | relative_url }}" alt="Vertical neon sign in Korean">
-</p>
+![Vertical neon sign in Korean](/assets/img/melody_way_sign.png)
+
 
 Translating the text on the vertical sign (**파리바게뜨**) revealed it says **"Paris Baguette"**. Same as on the store next to it :/
 
@@ -53,9 +52,10 @@ I went back to reverse image searching, this time focusing on crop-outs of the s
 
 This led to a breakthrough. I found a Korean blog post (on Naver) that featured a very similar location.
 
-<p style="text-align: left;">
-  <img src="{{ '/assets/img/Melody_way_blog.png' | relative_url }}" alt="Korean blog post discussing the location">
-</p>
+
+
+![Korean blog post discussing the location](/assets/img/Melody_way_blog.png)
+
 
 The blog wasn't about the bakery, but a restaurant called **Sindorim Chamjokbal (신도림 참족발)**—a place famous for braised pork trotters.
 
@@ -66,17 +66,15 @@ Translating the blog text using a wonderful AI provided a specific address:
 
 I plugged that address into Google Maps to verify the location. The layout matched perfectly. I could see the walkway where the original photo was taken.
 
-<p style="text-align: left;">
-  <img src="{{ '/assets/img/Melody_way_Maps.png' | relative_url }}" alt="Google Maps view of the location">
-</p>
+![Google Maps view of the location](/assets/img/Melody_way_Maps.png)
 
 The challenge text asked for the **"name of the building across the road."**
 
 Standing at the location of the there is a massive, distinctive glass complex which seems to hold a theater and a mall.
 
-<p style="text-align: left;">
-  <img src="{{ '/assets/img/D-cube_city.png' | relative_url }}" alt="The D-Cube City building across the street">
-</p>
+
+![The D-Cube City building across the street](/assets/img/D-cube_city.png)
+
 
 Checking the map and the building facade, the name of this complex is **D-Cube City**.
 

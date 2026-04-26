@@ -3,6 +3,9 @@ title : Create your Own Personalized Cyber Newsletter for Free
 date : 2025-09-07 15:29:00 -0500
 categories : [project,learn]
 tags : [project]
+cover: /assets/img/post-default.svg
+readingTime: 6
+summary: Creation of an automated daily cyber newsletter directly to mail inbox.
 ---
 
 This project is about building my own **cybersecurity newsletter**, automatically pulling content from RSS feeds, summarizing it with AI, and sending it to my email inbox every morning.  
