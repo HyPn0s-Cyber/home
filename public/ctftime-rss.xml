@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 28 Apr 2026 08:39:58 -0000</lastBuildDate><item><title>MCTF 5.0</title><link>https://ctftime.org/event/3168</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 28 Apr 2026 19:57:05 -0000</lastBuildDate><item><title>MCTF 5.0</title><link>https://ctftime.org/event/3168</link><description>
 Name: MCTF 5.0 (an &lt;a href="/ctf/1521"&gt;MCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: April 30, 2026, 7 p.m. &amp;mdash; 02 May 2026, 07:00 UTC &amp;nbsp;&lt;a href="/event/3168.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -33,7 +33,7 @@ Date: May 1, 2026, 6 p.m. &amp;mdash; 03 May 2026, 18:00 UTC &amp;nbsp;&lt;a hre
 Format: Jeopardy&lt;br/&gt;
 &lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
 
-Offical URL: &lt;a href="https://themctf.com/" rel="nofollow"&gt;https://themctf.com/&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.themctf.com/" rel="nofollow"&gt;https://ctf.themctf.com/&lt;/a&gt;&lt;br/&gt;
 Rating weight: 0.00&lt;br/&gt;
 
 Event organizers: 
@@ -41,7 +41,7 @@ Event organizers:
 &lt;a href="/team/387399"&gt;THEM?&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3209</guid><start_date>20260501T180000</start_date><finish_date>20260503T180000</finish_date><logo_url>/media/events/THEMCTF_2026_logo_black.png</logo_url><url>https://themctf.com/</url><ctftime_url>/event/3209</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 387399, "name": "THEM?!"}]</organizers><ctf_id>1536</ctf_id><ctf_name>THEM?!CTF</ctf_name></item><item><title>UniVsThreats 26 Finals CTF</title><link>https://ctftime.org/event/3244</link><description>
+</description><guid>https://ctftime.org/event/3209</guid><start_date>20260501T180000</start_date><finish_date>20260503T180000</finish_date><logo_url>/media/events/THEMCTF_2026_logo_black.png</logo_url><url>https://ctf.themctf.com/</url><ctftime_url>/event/3209</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 387399, "name": "THEM?!"}]</organizers><ctf_id>1536</ctf_id><ctf_name>THEM?!CTF</ctf_name></item><item><title>UniVsThreats 26 Finals CTF</title><link>https://ctftime.org/event/3244</link><description>
 Name: UniVsThreats 26 Finals CTF (an &lt;a href="/ctf/1267"&gt;UniVsThreats CTF &lt;/a&gt; event.)&lt;br/&gt;
 Date: May 2, 2026, 8 a.m. &amp;mdash; 03 May 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3244.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
