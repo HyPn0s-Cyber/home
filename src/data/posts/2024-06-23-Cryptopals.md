@@ -3,7 +3,7 @@ title : Learn Crypto With the Cryptopals Challenges
 date : 2024-06-23 15:13:00 +0200
 categories : [crypto,learn]
 tags : [crypto, writeup]
-cover: /assets/img/post-default.svg
+cover: /home/assets/img/Hypnos_Placeholder.png
 readingTime: 5
 summary: Let's start learning crypto from scratch in a fun way.
 ---

@@ -4,7 +4,7 @@ date: 2025-11-06
 author: HyPn0s
 categories: [project, hardware]
 tags: [rfid, nfc, reverse-engineering]
-cover: /assets/img/post-default.svg
+cover: /home/assets/img/Hypnos_Reverse.jpg
 readingTime: 8
 summary: How I reverse-engineered a MIFARE Classic 1k laundry card to understand its balance encoding.
 ---

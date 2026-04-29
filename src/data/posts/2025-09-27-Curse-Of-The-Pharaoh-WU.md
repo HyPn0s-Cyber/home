@@ -3,7 +3,7 @@ title : Curse of the Pharaoh 3 Write Up [United CTF 2025]
 date : 2025-09-27 16:00:00 -0500
 categories : [WriteUps]
 tags : [UnitedCTF 2025]
-cover: /assets/img/post-default.svg
+cover: /home/assets/img/Hypnos_Placeholder.png
 readingTime: 4
 summary: Curse of the Pharaoh 3 - United CTF 2025 Write Up.
 ---

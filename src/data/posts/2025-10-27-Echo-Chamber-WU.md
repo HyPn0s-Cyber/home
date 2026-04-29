@@ -3,7 +3,7 @@ title : Echo Chamber Write Up [DeadFace 2025]
 date : 2025-10-27 16:00:00 -0500
 categories : [WriteUps]
 tags : [DeadFace 2025, pwn]
-cover: /assets/img/post-default.svg
+cover: /home/assets/img/Hypnos_Placeholder.png
 readingTime: 5
 summary: Echo Chamber Write Up - DeadFace 2025.
 ---

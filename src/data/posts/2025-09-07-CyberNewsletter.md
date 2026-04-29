@@ -3,7 +3,7 @@ title : Create your Own Personalized Cyber Newsletter for Free
 date : 2025-09-07 15:29:00 -0500
 categories : [project,learn]
 tags : [project]
-cover: /assets/img/post-default.svg
+cover: /home/assets/img/Hypnos_Placeholder.png
 readingTime: 6
 summary: Creation of an automated daily cyber newsletter directly to mail inbox.
 ---

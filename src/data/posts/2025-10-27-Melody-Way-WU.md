@@ -3,7 +3,7 @@ title : Melody Way Write Up [DeadFace 2025]
 date : 2025-10-27 22:00:00 -0500
 categories : [WriteUps]
 tags : [DeadFace 2025, osint]
-cover: /assets/img/post-default.svg
+cover: /home/assets/img/Hypnos_OSINT.png
 readingTime: 7
 summary: Melody Way Write Up - DeadFace 2025.
 
