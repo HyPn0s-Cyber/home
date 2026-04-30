@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 30 Apr 2026 14:24:49 -0000</lastBuildDate><item><title>MCTF 5.0</title><link>https://ctftime.org/event/3168</link><description>
-Name: MCTF 5.0 (an &lt;a href="/ctf/1521"&gt;MCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: April 30, 2026, 7 p.m. &amp;mdash; 02 May 2026, 07:00 UTC &amp;nbsp;&lt;a href="/event/3168.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Algeria%2C%20Algiers"&gt;Algeria, Algiers&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://mctf.microclub.info/" rel="nofollow"&gt;https://mctf.microclub.info/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/425393"&gt;Micro Club&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3168</guid><start_date>20260430T190000</start_date><finish_date>20260502T070000</finish_date><logo_url>/media/events/logo_3d_version_2.png</logo_url><url>https://mctf.microclub.info/</url><ctftime_url>/event/3168</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Algeria, Algiers</location><onsite>True</onsite><organizers>[{"id": 425393, "name": "Micro Club"}]</organizers><ctf_id>1521</ctf_id><ctf_name>MCTF</ctf_name></item><item><title>KubSTU CTF</title><link>https://ctftime.org/event/3177</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 30 Apr 2026 19:50:55 -0000</lastBuildDate><item><title>KubSTU CTF</title><link>https://ctftime.org/event/3177</link><description>
 Name: KubSTU CTF (an &lt;a href="/ctf/1499"&gt;KubSTU CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 1, 2026, 7 a.m. &amp;mdash; 02 May 2026, 19:00 UTC &amp;nbsp;&lt;a href="/event/3177.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
