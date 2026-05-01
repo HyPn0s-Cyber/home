@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 01 May 2026 13:55:04 -0000</lastBuildDate><item><title>THEM?!CTF 2026</title><link>https://ctftime.org/event/3209</link><description>
-Name: THEM?!CTF 2026 (an &lt;a href="/ctf/1536"&gt;THEM?!CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: May 1, 2026, 6 p.m. &amp;mdash; 03 May 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3209.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.themctf.com/" rel="nofollow"&gt;https://ctf.themctf.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/387399"&gt;THEM?&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3209</guid><start_date>20260501T180000</start_date><finish_date>20260503T180000</finish_date><logo_url>/media/events/THEMCTF_2026_logo_black.png</logo_url><url>https://ctf.themctf.com/</url><ctftime_url>/event/3209</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 387399, "name": "THEM?!"}]</organizers><ctf_id>1536</ctf_id><ctf_name>THEM?!CTF</ctf_name></item><item><title>UniVsThreats 26 Finals CTF</title><link>https://ctftime.org/event/3244</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 01 May 2026 19:39:59 -0000</lastBuildDate><item><title>UniVsThreats 26 Finals CTF</title><link>https://ctftime.org/event/3244</link><description>
 Name: UniVsThreats 26 Finals CTF (an &lt;a href="/ctf/1267"&gt;UniVsThreats CTF &lt;/a&gt; event.)&lt;br/&gt;
 Date: May 2, 2026, 8 a.m. &amp;mdash; 03 May 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3244.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -103,7 +89,7 @@ Date: May 9, 2026, 9 a.m. &amp;mdash; 10 May 2026, 09:00 UTC &amp;nbsp;&lt;a hre
 Format: Jeopardy&lt;br/&gt;
 &lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
 
-Offical URL: &lt;a href="https://romhack.io/romhack-camp-ctf/" rel="nofollow"&gt;https://romhack.io/romhack-camp-ctf/&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://till-dawn.fibonhack.it/" rel="nofollow"&gt;https://till-dawn.fibonhack.it/&lt;/a&gt;&lt;br/&gt;
 Rating weight: 0.00&lt;br/&gt;
 
 Event organizers: 
@@ -111,7 +97,7 @@ Event organizers:
 &lt;a href="/team/117538"&gt;fibonhack&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3111</guid><start_date>20260509T090000</start_date><finish_date>20260510T090000</finish_date><logo_url>/media/events/From_Dusk_Till_Dawn_-_pixel_-_square.jpg</logo_url><url>https://romhack.io/romhack-camp-ctf/</url><ctftime_url>/event/3111</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 117538, "name": "fibonhack"}]</organizers><ctf_id>880</ctf_id><ctf_name>VettoCon</ctf_name></item><item><title>Midnight Sun CTF 2026 Quals</title><link>https://ctftime.org/event/2773</link><description>
+</description><guid>https://ctftime.org/event/3111</guid><start_date>20260509T090000</start_date><finish_date>20260510T090000</finish_date><logo_url>/media/events/From_Dusk_Till_Dawn_-_pixel_-_square.jpg</logo_url><url>https://till-dawn.fibonhack.it/</url><ctftime_url>/event/3111</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 117538, "name": "fibonhack"}]</organizers><ctf_id>880</ctf_id><ctf_name>VettoCon</ctf_name></item><item><title>Midnight Sun CTF 2026 Quals</title><link>https://ctftime.org/event/2773</link><description>
 Name: Midnight Sun CTF 2026 Quals (an &lt;a href="/ctf/246"&gt;Midnight Sun CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 9, 2026, 10 a.m. &amp;mdash; 10 May 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/2773.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
