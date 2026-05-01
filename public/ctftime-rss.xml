@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 01 May 2026 04:19:16 -0000</lastBuildDate><item><title>KubSTU CTF</title><link>https://ctftime.org/event/3177</link><description>
-Name: KubSTU CTF (an &lt;a href="/ctf/1499"&gt;KubSTU CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: May 1, 2026, 7 a.m. &amp;mdash; 02 May 2026, 19:00 UTC &amp;nbsp;&lt;a href="/event/3177.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://kubstu-ctf.online/" rel="nofollow"&gt;https://kubstu-ctf.online/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/223931"&gt;Capybaras&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3177</guid><start_date>20260501T070000</start_date><finish_date>20260502T190000</finish_date><logo_url>/media/events/1233.png</logo_url><url>https://kubstu-ctf.online/</url><ctftime_url>/event/3177</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 223931, "name": "Capybaras"}]</organizers><ctf_id>1499</ctf_id><ctf_name>KubSTU CTF</ctf_name></item><item><title>THEM?!CTF 2026</title><link>https://ctftime.org/event/3209</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 01 May 2026 08:25:28 -0000</lastBuildDate><item><title>THEM?!CTF 2026</title><link>https://ctftime.org/event/3209</link><description>
 Name: THEM?!CTF 2026 (an &lt;a href="/ctf/1536"&gt;THEM?!CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 1, 2026, 6 p.m. &amp;mdash; 03 May 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3209.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
