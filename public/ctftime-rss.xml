@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 02 May 2026 03:52:24 -0000</lastBuildDate><item><title>UniVsThreats 26 Finals CTF</title><link>https://ctftime.org/event/3244</link><description>
-Name: UniVsThreats 26 Finals CTF (an &lt;a href="/ctf/1267"&gt;UniVsThreats CTF &lt;/a&gt; event.)&lt;br/&gt;
-Date: May 2, 2026, 8 a.m. &amp;mdash; 03 May 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3244.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Timisoara%2C%20Romania"&gt;Timisoara, Romania&lt;/a&gt;&lt;br/&gt;
-&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/214520"&gt;UVT-CTF&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3244</guid><start_date>20260502T080000</start_date><finish_date>20260503T150000</finish_date><logo_url>/media/events/8214e0b3661f119e06c811dd7538cc0d.jpg</logo_url><url></url><ctftime_url>/event/3244</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Timisoara, Romania</location><onsite>True</onsite><organizers>[{"id": 214520, "name": "UVT-CTF"}]</organizers><ctf_id>1267</ctf_id><ctf_name>UniVsThreats CTF </ctf_name></item><item><title>RAZER CTF 2026</title><link>https://ctftime.org/event/3241</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 02 May 2026 08:00:33 -0000</lastBuildDate><item><title>RAZER CTF 2026</title><link>https://ctftime.org/event/3241</link><description>
 Name: RAZER CTF 2026 (an &lt;a href="/ctf/1568"&gt;Razer CTF &lt;/a&gt; event.)&lt;br/&gt;
 Date: May 5, 2026, 6:30 a.m. &amp;mdash; 06 May 2026, 06:30 UTC &amp;nbsp;&lt;a href="/event/3241.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
