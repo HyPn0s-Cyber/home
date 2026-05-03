@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 03 May 2026 13:50:27 -0000</lastBuildDate><item><title>RAZER CTF 2026</title><link>https://ctftime.org/event/3241</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 03 May 2026 19:20:10 -0000</lastBuildDate><item><title>RAZER CTF 2026</title><link>https://ctftime.org/event/3241</link><description>
 Name: RAZER CTF 2026 (an &lt;a href="/ctf/1568"&gt;Razer CTF &lt;/a&gt; event.)&lt;br/&gt;
 Date: May 5, 2026, 6:30 a.m. &amp;mdash; 06 May 2026, 06:30 UTC &amp;nbsp;&lt;a href="/event/3241.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -145,7 +145,7 @@ Date: May 9, 2026, 7 p.m. &amp;mdash; 10 May 2026, 02:00 UTC &amp;nbsp;&lt;a hre
 Format: Hack quest&lt;br/&gt;
 &lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
 Location: &lt;a href="http://maps.yandex.com/?text=M%C3%A9xico%2C%20Guadalajara"&gt;México, Guadalajara&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://hack.pawnguard.org/" rel="nofollow"&gt;https://hack.pawnguard.org/&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://events.mlh.io/events/14208-hack2dawn" rel="nofollow"&gt;https://events.mlh.io/events/14208-hack2dawn&lt;/a&gt;&lt;br/&gt;
 Rating weight: 0.00&lt;br/&gt;
 
 Event organizers: 
@@ -153,7 +153,7 @@ Event organizers:
 &lt;a href="/team/427740"&gt;PawnGuard&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3256</guid><start_date>20260509T190000</start_date><finish_date>20260510T020000</finish_date><logo_url>/media/events/hack2dawn-logo.jpg</logo_url><url>https://hack.pawnguard.org/</url><ctftime_url>/event/3256</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>México, Guadalajara</location><onsite>True</onsite><organizers>[{"id": 427740, "name": "PawnGuard"}]</organizers><ctf_id>1576</ctf_id><ctf_name>Hack2Dawn CTF</ctf_name></item><item><title>Azure Assassin Alliance CTF 2026</title><link>https://ctftime.org/event/3266</link><description>
+</description><guid>https://ctftime.org/event/3256</guid><start_date>20260509T190000</start_date><finish_date>20260510T020000</finish_date><logo_url>/media/events/hack2dawn-logo.jpg</logo_url><url>https://events.mlh.io/events/14208-hack2dawn</url><ctftime_url>/event/3256</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>México, Guadalajara</location><onsite>True</onsite><organizers>[{"id": 427740, "name": "PawnGuard"}]</organizers><ctf_id>1576</ctf_id><ctf_name>Hack2Dawn CTF</ctf_name></item><item><title>Azure Assassin Alliance CTF 2026</title><link>https://ctftime.org/event/3266</link><description>
 Name: Azure Assassin Alliance CTF 2026 (an &lt;a href="/ctf/800"&gt;Azure Assassin Alliance CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 10, 2026, 1 a.m. &amp;mdash; 11 May 2026, 01:00 UTC &amp;nbsp;&lt;a href="/event/3266.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
