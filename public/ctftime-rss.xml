@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 06 May 2026 04:07:05 -0000</lastBuildDate><item><title>THCon 2K26 CTF</title><link>https://ctftime.org/event/3186</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 06 May 2026 14:48:49 -0000</lastBuildDate><item><title>THCon 2K26 CTF</title><link>https://ctftime.org/event/3186</link><description>
 Name: THCon 2K26 CTF (an &lt;a href="/ctf/181"&gt;THCon CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 7, 2026, 11 a.m. &amp;mdash; 08 May 2026, 11:00 UTC &amp;nbsp;&lt;a href="/event/3186.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -321,7 +321,21 @@ Event organizers:
 &lt;a href="/team/155711"&gt;BYU Cyberia&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3247</guid><start_date>20260530T000000</start_date><finish_date>20260531T000000</finish_date><logo_url>/media/events/cougar.png</logo_url><url>https://ctfd.cyberjousting.com/</url><ctftime_url>/event/3247</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>53.29</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 155711, "name": "BYU Cyberia"}]</organizers><ctf_id>768</ctf_id><ctf_name>BYUCTF</ctf_name></item><item><title>Pwn2Play Open CTF</title><link>https://ctftime.org/event/3220</link><description>
+</description><guid>https://ctftime.org/event/3247</guid><start_date>20260530T000000</start_date><finish_date>20260531T000000</finish_date><logo_url>/media/events/cougar.png</logo_url><url>https://ctfd.cyberjousting.com/</url><ctftime_url>/event/3247</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>53.29</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 155711, "name": "BYU Cyberia"}]</organizers><ctf_id>768</ctf_id><ctf_name>BYUCTF</ctf_name></item><item><title>Grey Cat The Flag 2026 Qualifiers</title><link>https://ctftime.org/event/3178</link><description>
+Name: Grey Cat The Flag 2026 Qualifiers (an &lt;a href="/ctf/778"&gt;Grey Cat The Flag&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 30, 2026, 2 a.m. &amp;mdash; 31 May 2026, 02:00 UTC &amp;nbsp;&lt;a href="/event/3178.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Singapore"&gt;Singapore&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.nusgreyhats.org/" rel="nofollow"&gt;https://ctf.nusgreyhats.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 47.50&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/16740"&gt;NUSGreyhats&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3178</guid><start_date>20260530T020000</start_date><finish_date>20260531T020000</finish_date><logo_url>/media/events/73c9081878a4571d117439fc4a8e934d.png</logo_url><url>https://ctf.nusgreyhats.org/</url><ctftime_url>/event/3178</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>47.50</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Singapore</location><onsite>False</onsite><organizers>[{"id": 16740, "name": "NUS GreyHats"}]</organizers><ctf_id>778</ctf_id><ctf_name>Grey Cat The Flag</ctf_name></item><item><title>Pwn2Play Open CTF</title><link>https://ctftime.org/event/3220</link><description>
 Name: Pwn2Play Open CTF (an &lt;a href="/ctf/1556"&gt;Pwn2Play Open CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 30, 2026, 9 a.m. &amp;mdash; 30 May 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3220.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -349,21 +363,7 @@ Event organizers:
 &lt;a href="/team/248605"&gt;E.S.H.A. Trojan&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3243</guid><start_date>20260530T090000</start_date><finish_date>20260530T190000</finish_date><logo_url></logo_url><url>https://eshatrojan.nl/trojanctf</url><ctftime_url>/event/3243</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Netherlands, Eindhoven</location><onsite>True</onsite><organizers>[{"id": 248605, "name": "E.S.H.A. Trojan"}]</organizers><ctf_id>1103</ctf_id><ctf_name>TrojanCTF</ctf_name></item><item><title>Grey Cat The Flag 2026 Qualifiers</title><link>https://ctftime.org/event/3178</link><description>
-Name: Grey Cat The Flag 2026 Qualifiers (an &lt;a href="/ctf/778"&gt;Grey Cat The Flag&lt;/a&gt; event.)&lt;br/&gt;
-Date: May 31, 2026, noon &amp;mdash; 01 June 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3178.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Singapore"&gt;Singapore&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://ctf.nusgreyhats.org/" rel="nofollow"&gt;https://ctf.nusgreyhats.org/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 47.50&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/16740"&gt;NUSGreyhats&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3178</guid><start_date>20260531T120000</start_date><finish_date>20260601T120000</finish_date><logo_url>/media/events/73c9081878a4571d117439fc4a8e934d.png</logo_url><url>https://ctf.nusgreyhats.org/</url><ctftime_url>/event/3178</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>47.50</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Singapore</location><onsite>False</onsite><organizers>[{"id": 16740, "name": "NUS GreyHats"}]</organizers><ctf_id>778</ctf_id><ctf_name>Grey Cat The Flag</ctf_name></item><item><title>GPN CTF 2026</title><link>https://ctftime.org/event/3041</link><description>
+</description><guid>https://ctftime.org/event/3243</guid><start_date>20260530T090000</start_date><finish_date>20260530T190000</finish_date><logo_url></logo_url><url>https://eshatrojan.nl/trojanctf</url><ctftime_url>/event/3243</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Netherlands, Eindhoven</location><onsite>True</onsite><organizers>[{"id": 248605, "name": "E.S.H.A. Trojan"}]</organizers><ctf_id>1103</ctf_id><ctf_name>TrojanCTF</ctf_name></item><item><title>GPN CTF 2026</title><link>https://ctftime.org/event/3041</link><description>
 Name: GPN CTF 2026 (an &lt;a href="/ctf/854"&gt;GPN CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: June 5, 2026, 10 a.m. &amp;mdash; 06 June 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3041.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -477,7 +477,21 @@ Event organizers:
 &lt;a href="/team/23929"&gt;Google CTF&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3222</guid><start_date>20260619T180000</start_date><finish_date>20260621T180000</finish_date><logo_url></logo_url><url>https://g.co/ctf</url><ctftime_url>/event/3222</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>88.82</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 23929, "name": "Google CTF"}]</organizers><ctf_id>141</ctf_id><ctf_name>Google Capture The Flag</ctf_name></item><item><title>V1T CTF 2026</title><link>https://ctftime.org/event/3249</link><description>
+</description><guid>https://ctftime.org/event/3222</guid><start_date>20260619T180000</start_date><finish_date>20260621T180000</finish_date><logo_url></logo_url><url>https://g.co/ctf</url><ctftime_url>/event/3222</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>88.82</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 23929, "name": "Google CTF"}]</organizers><ctf_id>141</ctf_id><ctf_name>Google Capture The Flag</ctf_name></item><item><title>Grey Cat The Flag 2026 Finals</title><link>https://ctftime.org/event/3173</link><description>
+Name: Grey Cat The Flag 2026 Finals (an &lt;a href="/ctf/778"&gt;Grey Cat The Flag&lt;/a&gt; event.)&lt;br/&gt;
+Date: June 27, 2026, 2 a.m. &amp;mdash; 28 June 2026, 02:00 UTC &amp;nbsp;&lt;a href="/event/3173.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Singapore"&gt;Singapore&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.nusgreyhats.org/" rel="nofollow"&gt;https://ctf.nusgreyhats.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/16740"&gt;NUSGreyhats&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3173</guid><start_date>20260627T020000</start_date><finish_date>20260628T020000</finish_date><logo_url></logo_url><url>https://ctf.nusgreyhats.org/</url><ctftime_url>/event/3173</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Singapore</location><onsite>True</onsite><organizers>[{"id": 16740, "name": "NUS GreyHats"}]</organizers><ctf_id>778</ctf_id><ctf_name>Grey Cat The Flag</ctf_name></item><item><title>V1T CTF 2026</title><link>https://ctftime.org/event/3249</link><description>
 Name: V1T CTF 2026 (an &lt;a href="/ctf/1403"&gt;V1t CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: June 27, 2026, 2 a.m. &amp;mdash; 28 June 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3249.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -505,21 +519,7 @@ Event organizers:
 &lt;a href="/team/169557"&gt;Project Sekai&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3113</guid><start_date>20260627T080000</start_date><finish_date>20260629T080000</finish_date><logo_url>/media/events/sekai2_SEKAI_CTF_Square_Black_BG.r_1_1_1_1.png</logo_url><url>https://ctf.sekai.team/</url><ctftime_url>/event/3113</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>79.25</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 169557, "name": "Project Sekai"}]</organizers><ctf_id>769</ctf_id><ctf_name>SekaiCTF</ctf_name></item><item><title>Grey Cat The Flag 2026 Finals</title><link>https://ctftime.org/event/3173</link><description>
-Name: Grey Cat The Flag 2026 Finals (an &lt;a href="/ctf/778"&gt;Grey Cat The Flag&lt;/a&gt; event.)&lt;br/&gt;
-Date: June 28, 2026, 2 a.m. &amp;mdash; 29 June 2026, 02:00 UTC &amp;nbsp;&lt;a href="/event/3173.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Singapore"&gt;Singapore&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://ctf.nusgreyhats.org/" rel="nofollow"&gt;https://ctf.nusgreyhats.org/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/16740"&gt;NUSGreyhats&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3173</guid><start_date>20260628T020000</start_date><finish_date>20260629T020000</finish_date><logo_url></logo_url><url>https://ctf.nusgreyhats.org/</url><ctftime_url>/event/3173</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Singapore</location><onsite>True</onsite><organizers>[{"id": 16740, "name": "NUS GreyHats"}]</organizers><ctf_id>778</ctf_id><ctf_name>Grey Cat The Flag</ctf_name></item><item><title>No Hack No CTF 2026</title><link>https://ctftime.org/event/3180</link><description>
+</description><guid>https://ctftime.org/event/3113</guid><start_date>20260627T080000</start_date><finish_date>20260629T080000</finish_date><logo_url>/media/events/sekai2_SEKAI_CTF_Square_Black_BG.r_1_1_1_1.png</logo_url><url>https://ctf.sekai.team/</url><ctftime_url>/event/3113</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>79.25</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 169557, "name": "Project Sekai"}]</organizers><ctf_id>769</ctf_id><ctf_name>SekaiCTF</ctf_name></item><item><title>No Hack No CTF 2026</title><link>https://ctftime.org/event/3180</link><description>
 Name: No Hack No CTF 2026 (an &lt;a href="/ctf/1199"&gt;No Hack No CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 4, 2026, midnight &amp;mdash; 06 July 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3180.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
