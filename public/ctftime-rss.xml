@@ -1,47 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 08 May 2026 14:17:43 -0000</lastBuildDate><item><title>plfanzen CFT 2026</title><link>https://ctftime.org/event/3090</link><description>
-Name: plfanzen CFT 2026 (an &lt;a href="/ctf/1491"&gt;plfanzen CFT&lt;/a&gt; event.)&lt;br/&gt;
-Date: May 8, 2026, 4 p.m. &amp;mdash; 10 May 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3090.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://plfanzen.lol/" rel="nofollow"&gt;https://plfanzen.lol/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/418962"&gt;plfanzen&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3090</guid><start_date>20260508T160000</start_date><finish_date>20260510T120000</finish_date><logo_url>/media/events/hloe.png</logo_url><url>https://plfanzen.lol/</url><ctftime_url>/event/3090</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 418962, "name": "plfanzen"}]</organizers><ctf_id>1491</ctf_id><ctf_name>plfanzen CFT</ctf_name></item><item><title>Break The Syntax CTF 2026</title><link>https://ctftime.org/event/3137</link><description>
-Name: Break The Syntax CTF 2026 (an &lt;a href="/ctf/558"&gt;Break the Syntax CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: May 8, 2026, 4 p.m. &amp;mdash; 10 May 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3137.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Wroc%C5%82aw%2C%20Poland"&gt;Wrocław, Poland&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://bts2026.wh.edu.pl/" rel="nofollow"&gt;https://bts2026.wh.edu.pl/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 56.25&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/88205"&gt;PWr Synt@x Err0r&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3137</guid><start_date>20260508T160000</start_date><finish_date>20260510T100000</finish_date><logo_url>/media/events/Logo_15.png</logo_url><url>https://bts2026.wh.edu.pl/</url><ctftime_url>/event/3137</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>56.25</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Wrocław, Poland</location><onsite>False</onsite><organizers>[{"id": 88205, "name": "PWr Synt@x Err0r"}]</organizers><ctf_id>558</ctf_id><ctf_name>Break the Syntax CTF</ctf_name></item><item><title>DAMCTF 2026</title><link>https://ctftime.org/event/3124</link><description>
-Name: DAMCTF 2026 (an &lt;a href="/ctf/423"&gt;DamCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: May 9, 2026, midnight &amp;mdash; 11 May 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3124.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://damctf.xyz/" rel="nofollow"&gt;https://damctf.xyz/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 33.42&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/12858"&gt;OSUSEC&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3124</guid><start_date>20260509T000000</start_date><finish_date>20260511T000000</finish_date><logo_url>/media/events/damctf.png</logo_url><url>https://damctf.xyz/</url><ctftime_url>/event/3124</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>33.42</weight><live_feed>https://ctftime.org/live/3124/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 12858, "name": "OSUSEC"}]</organizers><ctf_id>423</ctf_id><ctf_name>DamCTF</ctf_name></item><item><title>BKISC CTF 2026</title><link>https://ctftime.org/event/2927</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 08 May 2026 19:45:58 -0000</lastBuildDate><item><title>BKISC CTF 2026</title><link>https://ctftime.org/event/2927</link><description>
 Name: BKISC CTF 2026 (an &lt;a href="/ctf/1390"&gt;BKISC CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 9, 2026, 1 a.m. &amp;mdash; 10 May 2026, 01:00 UTC &amp;nbsp;&lt;a href="/event/2927.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
