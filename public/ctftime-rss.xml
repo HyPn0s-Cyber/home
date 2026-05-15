@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 14 May 2026 20:02:47 -0000</lastBuildDate><item><title>NorthSec 2026</title><link>https://ctftime.org/event/3258</link><description>
-Name: NorthSec 2026 (an &lt;a href="/ctf/38"&gt;NorthSec CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: May 15, 2026, midnight &amp;mdash; 17 May 2026, 23:00 UTC &amp;nbsp;&lt;a href="/event/3258.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Hack quest&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Canada%2C%20Montreal"&gt;Canada, Montreal&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://nsec.io/competition/" rel="nofollow"&gt;https://nsec.io/competition/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/2492"&gt;NorthSec Organizers&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3258</guid><start_date>20260515T000000</start_date><finish_date>20260517T230000</finish_date><logo_url>/media/events/NSEC_Avatar_Socials.png</logo_url><url>https://nsec.io/competition/</url><ctftime_url>/event/3258</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Canada, Montreal</location><onsite>True</onsite><organizers>[{"id": 2492, "name": "NorthSec Organizers"}]</organizers><ctf_id>38</ctf_id><ctf_name>NorthSec CTF</ctf_name></item><item><title>NDIAS Automotive/IoT CTF</title><link>https://ctftime.org/event/3276</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 15 May 2026 04:18:58 -0000</lastBuildDate><item><title>NDIAS Automotive/IoT CTF</title><link>https://ctftime.org/event/3276</link><description>
 Name: NDIAS Automotive/IoT CTF (an &lt;a href="/ctf/1588"&gt;NDIAS Automotive/IoT CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 15, 2026, 9 a.m. &amp;mdash; 17 May 2026, 09:00 UTC &amp;nbsp;&lt;a href="/event/3276.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
