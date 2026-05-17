@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 16 May 2026 19:34:23 -0000</lastBuildDate><item><title>UralCUP 2026</title><link>https://ctftime.org/event/3214</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 17 May 2026 04:33:08 -0000</lastBuildDate><item><title>UralCUP 2026</title><link>https://ctftime.org/event/3214</link><description>
 Name: UralCUP 2026 (an &lt;a href="/ctf/1417"&gt;UralCUP&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 17, 2026, 5 a.m. &amp;mdash; 17 May 2026, 13:00 UTC &amp;nbsp;&lt;a href="/event/3214.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -55,7 +55,21 @@ Event organizers:
 &lt;a href="/team/425757"&gt;Benevolent Bureau of Birds&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3205</guid><start_date>20260522T210000</start_date><finish_date>20260524T210000</finish_date><logo_url></logo_url><url>https://bbbirds.org/</url><ctftime_url>/event/3205</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>63.22</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 425757, "name": "Benevolent Bureau of Birds"}]</organizers><ctf_id>1</ctf_id><ctf_name>DEF CON CTF Qualifier</ctf_name></item><item><title>SecLeaf Q2 CTF 2026</title><link>https://ctftime.org/event/3136</link><description>
+</description><guid>https://ctftime.org/event/3205</guid><start_date>20260522T210000</start_date><finish_date>20260524T210000</finish_date><logo_url></logo_url><url>https://bbbirds.org/</url><ctftime_url>/event/3205</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>63.22</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 425757, "name": "Benevolent Bureau of Birds"}]</organizers><ctf_id>1</ctf_id><ctf_name>DEF CON CTF Qualifier</ctf_name></item><item><title>Hack4Krak CTF 2026 - High School Edition</title><link>https://ctftime.org/event/3284</link><description>
+Name: Hack4Krak CTF 2026 - High School Edition (an &lt;a href="/ctf/1335"&gt;Hack4Krak&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 23, 2026, 8 a.m. &amp;mdash; 24 May 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3284.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Poland%2C%20Cracow"&gt;Poland, Cracow&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://hack4krak.pl/" rel="nofollow"&gt;https://hack4krak.pl/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/385787"&gt;Hack4Krak&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3284</guid><start_date>20260523T080000</start_date><finish_date>20260524T140000</finish_date><logo_url>/media/events/192620743.png</logo_url><url>https://hack4krak.pl/</url><ctftime_url>/event/3284</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed>https://ctftime.org/live/3284/</live_feed><restrictions>High-school</restrictions><location>Poland, Cracow</location><onsite>True</onsite><organizers>[{"id": 385787, "name": "Hack4Krak"}]</organizers><ctf_id>1335</ctf_id><ctf_name>Hack4Krak</ctf_name></item><item><title>SecLeaf Q2 CTF 2026</title><link>https://ctftime.org/event/3136</link><description>
 Name: SecLeaf Q2 CTF 2026 (an &lt;a href="/ctf/1509"&gt;SecLeaf CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 23, 2026, 2 p.m. &amp;mdash; 24 May 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3136.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
