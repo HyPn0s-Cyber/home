@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 17 May 2026 04:33:08 -0000</lastBuildDate><item><title>UralCUP 2026</title><link>https://ctftime.org/event/3214</link><description>
-Name: UralCUP 2026 (an &lt;a href="/ctf/1417"&gt;UralCUP&lt;/a&gt; event.)&lt;br/&gt;
-Date: May 17, 2026, 5 a.m. &amp;mdash; 17 May 2026, 13:00 UTC &amp;nbsp;&lt;a href="/event/3214.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Russia"&gt;Russia&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://uralctf.org/" rel="nofollow"&gt;https://uralctf.org/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/380152"&gt;TyumGUard&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3214</guid><start_date>20260517T050000</start_date><finish_date>20260517T130000</finish_date><logo_url>/media/events/2876b94b571c4f41b7a235d7d6050a8c_1.jpg</logo_url><url>https://uralctf.org/</url><ctftime_url>/event/3214</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Academic</restrictions><location>Russia</location><onsite>False</onsite><organizers>[{"id": 380152, "name": "TyumGUard"}]</organizers><ctf_id>1417</ctf_id><ctf_name>UralCUP</ctf_name></item><item><title>0xV01D CTF 2026</title><link>https://ctftime.org/event/3269</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 17 May 2026 08:33:21 -0000</lastBuildDate><item><title>0xV01D CTF 2026</title><link>https://ctftime.org/event/3269</link><description>
 Name: 0xV01D CTF 2026 (an &lt;a href="/ctf/1587"&gt;0xV01D CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 18, 2026, 4 a.m. &amp;mdash; 20 May 2026, 04:00 UTC &amp;nbsp;&lt;a href="/event/3269.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
