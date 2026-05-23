@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 22 May 2026 20:11:37 -0000</lastBuildDate><item><title>DEF CON CTF Qualifier 2026</title><link>https://ctftime.org/event/3205</link><description>
-Name: DEF CON CTF Qualifier 2026 (an &lt;a href="/ctf/1"&gt;DEF CON CTF Qualifier&lt;/a&gt; event.)&lt;br/&gt;
-Date: May 22, 2026, 9 p.m. &amp;mdash; 24 May 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3205.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://bbbirds.org/" rel="nofollow"&gt;https://bbbirds.org/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 63.22&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/425757"&gt;Benevolent Bureau of Birds&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3205</guid><start_date>20260522T210000</start_date><finish_date>20260524T210000</finish_date><logo_url></logo_url><url>https://bbbirds.org/</url><ctftime_url>/event/3205</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>63.22</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 425757, "name": "Benevolent Bureau of Birds"}]</organizers><ctf_id>1</ctf_id><ctf_name>DEF CON CTF Qualifier</ctf_name></item><item><title>Hack4Krak CTF 2026 - High School Edition</title><link>https://ctftime.org/event/3284</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 23 May 2026 04:08:36 -0000</lastBuildDate><item><title>Hack4Krak CTF 2026 - High School Edition</title><link>https://ctftime.org/event/3284</link><description>
 Name: Hack4Krak CTF 2026 - High School Edition (an &lt;a href="/ctf/1335"&gt;Hack4Krak&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 23, 2026, 8 a.m. &amp;mdash; 24 May 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3284.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
