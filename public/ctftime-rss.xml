@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 23 May 2026 19:38:52 -0000</lastBuildDate><item><title>ZEROBREACH CTF</title><link>https://ctftime.org/event/3271</link><description>
-Name: ZEROBREACH CTF (an &lt;a href="/ctf/1592"&gt;ZEROBREACH CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: May 24, 2026, 4:30 a.m. &amp;mdash; 24 May 2026, 16:30 UTC &amp;nbsp;&lt;a href="/event/3271.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=ONLINE"&gt;ONLINE&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="http://ctf.cyberspacevr.in/" rel="nofollow"&gt;http://ctf.cyberspacevr.in/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/434393"&gt;CyberSpaceVR&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3271</guid><start_date>20260524T043000</start_date><finish_date>20260524T163000</finish_date><logo_url>/media/events/WhatsApp_Image_2026-05-03_at_1.43.58_AM_1.jpeg</logo_url><url>http://ctf.cyberspacevr.in/</url><ctftime_url>/event/3271</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>ONLINE</location><onsite>False</onsite><organizers>[{"id": 434393, "name": "CyberSpaceVR"}]</organizers><ctf_id>1592</ctf_id><ctf_name>ZEROBREACH CTF</ctf_name></item><item><title>Hackअस्त्र</title><link>https://ctftime.org/event/3270</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 24 May 2026 04:39:49 -0000</lastBuildDate><item><title>Hackअस्त्र</title><link>https://ctftime.org/event/3270</link><description>
 Name: Hackअस्त्र (an &lt;a href="/ctf/1591"&gt;Hackअस्त्र CTF Qualifiers&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 29, 2026, 10:15 a.m. &amp;mdash; 30 May 2026, 17:15 UTC &amp;nbsp;&lt;a href="/event/3270.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
