@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 25 May 2026 04:53:08 -0000</lastBuildDate><item><title>Hackअस्त्र</title><link>https://ctftime.org/event/3270</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 25 May 2026 10:49:45 -0000</lastBuildDate><item><title>Hackअस्त्र</title><link>https://ctftime.org/event/3270</link><description>
 Name: Hackअस्त्र (an &lt;a href="/ctf/1591"&gt;Hackअस्त्र CTF Qualifiers&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 29, 2026, 10:15 a.m. &amp;mdash; 30 May 2026, 17:15 UTC &amp;nbsp;&lt;a href="/event/3270.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -435,7 +435,21 @@ Event organizers:
 &lt;a href="/team/155032"&gt;SDU&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3065</guid><start_date>20260821T120000</start_date><finish_date>20260823T120000</finish_date><logo_url>/media/events/Logo_-_2-7.png</logo_url><url>https://ctf.brunnerne.dk/</url><ctftime_url>/event/3065</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.66</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 155032, "name": "Brunnerne"}]</organizers><ctf_id>1341</ctf_id><ctf_name>BrunnerCTF</ctf_name></item><item><title>ASIS CTF Quals 2026</title><link>https://ctftime.org/event/3033</link><description>
+</description><guid>https://ctftime.org/event/3065</guid><start_date>20260821T120000</start_date><finish_date>20260823T120000</finish_date><logo_url>/media/events/Logo_-_2-7.png</logo_url><url>https://ctf.brunnerne.dk/</url><ctftime_url>/event/3065</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.66</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 155032, "name": "Brunnerne"}]</organizers><ctf_id>1341</ctf_id><ctf_name>BrunnerCTF</ctf_name></item><item><title>COMPFEST CTF 2026</title><link>https://ctftime.org/event/3290</link><description>
+Name: COMPFEST CTF 2026 (an &lt;a href="/ctf/502"&gt;COMPFEST CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Aug. 29, 2026, midnight &amp;mdash; 30 Aug. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3290.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://compfest.id/" rel="nofollow"&gt;https://compfest.id/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 96.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/70551"&gt;CSUI&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3290</guid><start_date>20260829T000000</start_date><finish_date>20260830T000000</finish_date><logo_url></logo_url><url>https://compfest.id/</url><ctftime_url>/event/3290</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>96.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 70551, "name": "CSUI"}]</organizers><ctf_id>502</ctf_id><ctf_name>COMPFEST CTF</ctf_name></item><item><title>ASIS CTF Quals 2026</title><link>https://ctftime.org/event/3033</link><description>
 Name: ASIS CTF Quals 2026 (an &lt;a href="/ctf/55"&gt;ASIS CTF Quals &lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 29, 2026, 2 p.m. &amp;mdash; 30 Aug. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3033.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
