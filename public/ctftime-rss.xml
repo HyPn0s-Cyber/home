@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 27 May 2026 10:30:11 -0000</lastBuildDate><item><title>Hackअस्त्र</title><link>https://ctftime.org/event/3270</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 27 May 2026 16:13:26 -0000</lastBuildDate><item><title>Hackअस्त्र</title><link>https://ctftime.org/event/3270</link><description>
 Name: Hackअस्त्र (an &lt;a href="/ctf/1591"&gt;Hackअस्त्र CTF Qualifiers&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 29, 2026, 10:15 a.m. &amp;mdash; 30 May 2026, 17:15 UTC &amp;nbsp;&lt;a href="/event/3270.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
 &lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
 
-Offical URL: &lt;a href="https://hack-astra.vercel.app/" rel="nofollow"&gt;https://hack-astra.vercel.app/&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.hackastra.tech/" rel="nofollow"&gt;https://ctf.hackastra.tech/&lt;/a&gt;&lt;br/&gt;
 Rating weight: 0.00&lt;br/&gt;
 
 Event organizers: 
@@ -13,7 +13,7 @@ Event organizers:
 &lt;a href="/team/434372"&gt;Ethical HCK&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3270</guid><start_date>20260529T101500</start_date><finish_date>20260530T171500</finish_date><logo_url>/media/events/Logo_16.png</logo_url><url>https://hack-astra.vercel.app/</url><ctftime_url>/event/3270</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 434372, "name": "Ethical HCK"}]</organizers><ctf_id>1591</ctf_id><ctf_name>Hackअस्त्र CTF Qualifiers</ctf_name></item><item><title>Hardwear.io USA 2026 Hardware CTF</title><link>https://ctftime.org/event/3174</link><description>
+</description><guid>https://ctftime.org/event/3270</guid><start_date>20260529T101500</start_date><finish_date>20260530T171500</finish_date><logo_url>/media/events/Logo_16.png</logo_url><url>https://ctf.hackastra.tech/</url><ctftime_url>/event/3270</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 434372, "name": "Ethical HCK"}]</organizers><ctf_id>1591</ctf_id><ctf_name>Hackअस्त्र CTF Qualifiers</ctf_name></item><item><title>Hardwear.io USA 2026 Hardware CTF</title><link>https://ctftime.org/event/3174</link><description>
 Name: Hardwear.io USA 2026 Hardware CTF (an &lt;a href="/ctf/1021"&gt;Hardware CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 29, 2026, 5 p.m. &amp;mdash; 30 May 2026, 20:50 UTC &amp;nbsp;&lt;a href="/event/3174.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
