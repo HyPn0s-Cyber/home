@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 29 May 2026 10:14:14 -0000</lastBuildDate><item><title>Hackअस्त्र</title><link>https://ctftime.org/event/3270</link><description>
-Name: Hackअस्त्र (an &lt;a href="/ctf/1591"&gt;Hackअस्त्र CTF Qualifiers&lt;/a&gt; event.)&lt;br/&gt;
-Date: May 29, 2026, 10:15 a.m. &amp;mdash; 30 May 2026, 17:15 UTC &amp;nbsp;&lt;a href="/event/3270.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.hackastra.tech/" rel="nofollow"&gt;https://ctf.hackastra.tech/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/434372"&gt;Ethical HCK&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3270</guid><start_date>20260529T101500</start_date><finish_date>20260530T171500</finish_date><logo_url>/media/events/Logo_16.png</logo_url><url>https://ctf.hackastra.tech/</url><ctftime_url>/event/3270</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 434372, "name": "Ethical HCK"}]</organizers><ctf_id>1591</ctf_id><ctf_name>Hackअस्त्र CTF Qualifiers</ctf_name></item><item><title>Hardwear.io USA 2026 Hardware CTF</title><link>https://ctftime.org/event/3174</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 29 May 2026 16:09:08 -0000</lastBuildDate><item><title>Hardwear.io USA 2026 Hardware CTF</title><link>https://ctftime.org/event/3174</link><description>
 Name: Hardwear.io USA 2026 Hardware CTF (an &lt;a href="/ctf/1021"&gt;Hardware CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 29, 2026, 5 p.m. &amp;mdash; 30 May 2026, 20:50 UTC &amp;nbsp;&lt;a href="/event/3174.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -69,7 +55,21 @@ Event organizers:
 &lt;a href="/team/16740"&gt;NUSGreyhats&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3178</guid><start_date>20260530T020000</start_date><finish_date>20260531T020000</finish_date><logo_url>/media/events/greyctf2026-logo.png</logo_url><url>https://ctf.nusgreyhats.org/</url><ctftime_url>/event/3178</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>47.50</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Singapore</location><onsite>False</onsite><organizers>[{"id": 16740, "name": "NUS GreyHats"}]</organizers><ctf_id>778</ctf_id><ctf_name>Grey Cat The Flag</ctf_name></item><item><title>Pwn2Play Open CTF</title><link>https://ctftime.org/event/3220</link><description>
+</description><guid>https://ctftime.org/event/3178</guid><start_date>20260530T020000</start_date><finish_date>20260531T020000</finish_date><logo_url>/media/events/greyctf2026-logo.png</logo_url><url>https://ctf.nusgreyhats.org/</url><ctftime_url>/event/3178</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>47.50</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Singapore</location><onsite>False</onsite><organizers>[{"id": 16740, "name": "NUS GreyHats"}]</organizers><ctf_id>778</ctf_id><ctf_name>Grey Cat The Flag</ctf_name></item><item><title>HSE CTF 2026</title><link>https://ctftime.org/event/3313</link><description>
+Name: HSE CTF 2026 (an &lt;a href="/ctf/275"&gt;HSE CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 30, 2026, 7 a.m. &amp;mdash; 30 May 2026, 13:00 UTC &amp;nbsp;&lt;a href="/event/3313.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Moscow%2C%20Russia"&gt;Moscow, Russia&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.miem.hse.ru/" rel="nofollow"&gt;https://ctf.miem.hse.ru/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/436827"&gt;HSE CTF Crew&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3313</guid><start_date>20260530T070000</start_date><finish_date>20260530T130000</finish_date><logo_url>/media/events/vorona.png</logo_url><url>https://ctf.miem.hse.ru/</url><ctftime_url>/event/3313</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Moscow, Russia</location><onsite>True</onsite><organizers>[{"id": 436827, "name": "HSE CTF Crew"}]</organizers><ctf_id>275</ctf_id><ctf_name>HSE CTF</ctf_name></item><item><title>Pwn2Play Open CTF</title><link>https://ctftime.org/event/3220</link><description>
 Name: Pwn2Play Open CTF (an &lt;a href="/ctf/1556"&gt;Pwn2Play Open CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: May 30, 2026, 9 a.m. &amp;mdash; 30 May 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3220.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -97,7 +97,21 @@ Event organizers:
 &lt;a href="/team/248605"&gt;E.S.H.A. Trojan&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3243</guid><start_date>20260530T090000</start_date><finish_date>20260530T190000</finish_date><logo_url></logo_url><url>https://eshatrojan.nl/trojanctf</url><ctftime_url>/event/3243</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Netherlands, Eindhoven</location><onsite>True</onsite><organizers>[{"id": 248605, "name": "E.S.H.A. Trojan"}]</organizers><ctf_id>1103</ctf_id><ctf_name>TrojanCTF</ctf_name></item><item><title>GPN CTF 2026</title><link>https://ctftime.org/event/3041</link><description>
+</description><guid>https://ctftime.org/event/3243</guid><start_date>20260530T090000</start_date><finish_date>20260530T190000</finish_date><logo_url></logo_url><url>https://eshatrojan.nl/trojanctf</url><ctftime_url>/event/3243</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Netherlands, Eindhoven</location><onsite>True</onsite><organizers>[{"id": 248605, "name": "E.S.H.A. Trojan"}]</organizers><ctf_id>1103</ctf_id><ctf_name>TrojanCTF</ctf_name></item><item><title>bhackari CTF 2026</title><link>https://ctftime.org/event/3302</link><description>
+Name: bhackari CTF 2026 (an &lt;a href="/ctf/1602"&gt;bhackari CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: May 30, 2026, 10 a.m. &amp;mdash; 31 May 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3302.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.bhackari.it/" rel="nofollow"&gt;https://ctf.bhackari.it/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/194130"&gt;bhackari&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3302</guid><start_date>20260530T100000</start_date><finish_date>20260531T100000</finish_date><logo_url>/media/events/bhackari_logo_squared_white.png</logo_url><url>https://ctf.bhackari.it/</url><ctftime_url>/event/3302</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 194130, "name": "bhackari"}]</organizers><ctf_id>1602</ctf_id><ctf_name>bhackari CTF</ctf_name></item><item><title>GPN CTF 2026</title><link>https://ctftime.org/event/3041</link><description>
 Name: GPN CTF 2026 (an &lt;a href="/ctf/854"&gt;GPN CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: June 5, 2026, 10 a.m. &amp;mdash; 06 June 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3041.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
