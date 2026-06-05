@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 05 Jun 2026 04:47:35 -0000</lastBuildDate><item><title>GPN CTF 2026</title><link>https://ctftime.org/event/3041</link><description>
-Name: GPN CTF 2026 (an &lt;a href="/ctf/854"&gt;GPN CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: June 5, 2026, 10 a.m. &amp;mdash; 06 June 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3041.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://gpn24.ctf.kitctf.de/" rel="nofollow"&gt;https://gpn24.ctf.kitctf.de/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 69.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/7221"&gt;KITCTF&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3041</guid><start_date>20260605T100000</start_date><finish_date>20260606T220000</finish_date><logo_url>/media/events/gulash_1.png</logo_url><url>https://gpn24.ctf.kitctf.de/</url><ctftime_url>/event/3041</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>69.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 7221, "name": "KITCTF"}]</organizers><ctf_id>854</ctf_id><ctf_name>GPN CTF</ctf_name></item><item><title>RPCA CTF 2026</title><link>https://ctftime.org/event/3278</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 05 Jun 2026 10:16:53 -0000</lastBuildDate><item><title>RPCA CTF 2026</title><link>https://ctftime.org/event/3278</link><description>
 Name: RPCA CTF 2026 (an &lt;a href="/ctf/781"&gt;RPCA CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: June 5, 2026, 5 p.m. &amp;mdash; 08 June 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3278.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
