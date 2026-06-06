@@ -1,35 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 06 Jun 2026 08:46:33 -0000</lastBuildDate><item><title>SAS CTF 2026 Quals</title><link>https://ctftime.org/event/3109</link><description>
-Name: SAS CTF 2026 Quals (an &lt;a href="/ctf/1081"&gt;SAS CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: June 6, 2026, noon &amp;mdash; 07 June 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3109.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.thesascon.com/" rel="nofollow"&gt;https://ctf.thesascon.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 31.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/210132"&gt;Drovosec&lt;/a&gt; 
-
-&lt;a href="/team/283057"&gt;SAS CREW&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3109</guid><start_date>20260606T120000</start_date><finish_date>20260607T120000</finish_date><logo_url>/media/events/SAS26_temp.png</logo_url><url>https://ctf.thesascon.com/</url><ctftime_url>/event/3109</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>31.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 210132, "name": "Drovosec"}, {"id": 283057, "name": "SAS CREW"}]</organizers><ctf_id>1081</ctf_id><ctf_name>SAS CTF</ctf_name></item><item><title>DalCTF 2026</title><link>https://ctftime.org/event/3320</link><description>
-Name: DalCTF 2026 (an &lt;a href="/ctf/1615"&gt;DalCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: June 6, 2026, 1 p.m. &amp;mdash; 07 June 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3320.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Halifax%2C%20Canada%20and%20Online"&gt;Halifax, Canada and Online&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://dalctf2026.com/" rel="nofollow"&gt;https://dalctf2026.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/361970"&gt;HTTP Status 418&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3320</guid><start_date>20260606T130000</start_date><finish_date>20260607T150000</finish_date><logo_url>/media/events/logo_square_1.png</logo_url><url>https://dalctf2026.com/</url><ctftime_url>/event/3320</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Halifax, Canada and Online</location><onsite>False</onsite><organizers>[{"id": 361970, "name": "Status 418"}]</organizers><ctf_id>1615</ctf_id><ctf_name>DalCTF</ctf_name></item><item><title>SSMCTF 2026 Qualifiers</title><link>https://ctftime.org/event/2913</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 06 Jun 2026 14:08:58 -0000</lastBuildDate><item><title>SSMCTF 2026 Qualifiers</title><link>https://ctftime.org/event/2913</link><description>
 Name: SSMCTF 2026 Qualifiers (an &lt;a href="/ctf/1329"&gt;SSMCTF &lt;/a&gt; event.)&lt;br/&gt;
 Date: June 7, 2026, 10 a.m. &amp;mdash; 08 June 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/2913.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
