@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 06 Jun 2026 19:47:27 -0000</lastBuildDate><item><title>SSMCTF 2026 Qualifiers</title><link>https://ctftime.org/event/2913</link><description>
-Name: SSMCTF 2026 Qualifiers (an &lt;a href="/ctf/1329"&gt;SSMCTF &lt;/a&gt; event.)&lt;br/&gt;
-Date: June 7, 2026, 10 a.m. &amp;mdash; 08 June 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/2913.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ssmct.org/ctf" rel="nofollow"&gt;https://ssmct.org/ctf&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/299075"&gt;yes but oh wait shit what&amp;#39;s our team name again&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/2913</guid><start_date>20260607T100000</start_date><finish_date>20260608T100000</finish_date><logo_url></logo_url><url>https://ssmct.org/ctf</url><ctftime_url>/event/2913</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 299075, "name": "Singapore Students Merger"}]</organizers><ctf_id>1329</ctf_id><ctf_name>SSMCTF </ctf_name></item><item><title>boroCTF 2026</title><link>https://ctftime.org/event/3309</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 07 Jun 2026 04:56:33 -0000</lastBuildDate><item><title>boroCTF 2026</title><link>https://ctftime.org/event/3309</link><description>
 Name: boroCTF 2026 (an &lt;a href="/ctf/1596"&gt;boroCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: June 12, 2026, 8 p.m. &amp;mdash; 16 June 2026, 03:59 UTC &amp;nbsp;&lt;a href="/event/3309.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
