@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 10 Jun 2026 16:08:54 -0000</lastBuildDate><item><title>boroCTF 2026</title><link>https://ctftime.org/event/3309</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 10 Jun 2026 20:45:31 -0000</lastBuildDate><item><title>boroCTF 2026</title><link>https://ctftime.org/event/3309</link><description>
 Name: boroCTF 2026 (an &lt;a href="/ctf/1596"&gt;boroCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: June 12, 2026, 8 p.m. &amp;mdash; 16 June 2026, 03:59 UTC &amp;nbsp;&lt;a href="/event/3309.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -139,7 +139,21 @@ Event organizers:
 &lt;a href="/team/23929"&gt;Google CTF&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3222</guid><start_date>20260619T180000</start_date><finish_date>20260621T180000</finish_date><logo_url></logo_url><url>https://g.co/ctf</url><ctftime_url>/event/3222</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>88.82</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 23929, "name": "Google CTF"}]</organizers><ctf_id>141</ctf_id><ctf_name>Google Capture The Flag</ctf_name></item><item><title>Grey Cat The Flag 2026 Finals</title><link>https://ctftime.org/event/3173</link><description>
+</description><guid>https://ctftime.org/event/3222</guid><start_date>20260619T180000</start_date><finish_date>20260621T180000</finish_date><logo_url></logo_url><url>https://g.co/ctf</url><ctftime_url>/event/3222</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>88.82</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 23929, "name": "Google CTF"}]</organizers><ctf_id>141</ctf_id><ctf_name>Google Capture The Flag</ctf_name></item><item><title>TraceBash CTF 2026</title><link>https://ctftime.org/event/3323</link><description>
+Name: TraceBash CTF 2026 (an &lt;a href="/ctf/1620"&gt;TraceBash CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: June 26, 2026, 9:30 a.m. &amp;mdash; 27 June 2026, 09:30 UTC &amp;nbsp;&lt;a href="/event/3323.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.tracebash.xyz/" rel="nofollow"&gt;https://ctf.tracebash.xyz/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/392990"&gt;TraceBash&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3323</guid><start_date>20260626T093000</start_date><finish_date>20260627T093000</finish_date><logo_url>/media/events/main_logo_1.png</logo_url><url>https://ctf.tracebash.xyz/</url><ctftime_url>/event/3323</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 392990, "name": "TraceBash"}]</organizers><ctf_id>1620</ctf_id><ctf_name>TraceBash CTF</ctf_name></item><item><title>Grey Cat The Flag 2026 Finals</title><link>https://ctftime.org/event/3173</link><description>
 Name: Grey Cat The Flag 2026 Finals (an &lt;a href="/ctf/778"&gt;Grey Cat The Flag&lt;/a&gt; event.)&lt;br/&gt;
 Date: June 27, 2026, 2 a.m. &amp;mdash; 28 June 2026, 02:00 UTC &amp;nbsp;&lt;a href="/event/3173.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -251,7 +265,7 @@ Event organizers:
 &lt;a href="/team/365692"&gt;FolodyCTF&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3280</guid><start_date>20260706T000000</start_date><finish_date>20260708T000000</finish_date><logo_url>/media/events/649736697_1646500476542970_4948379456057576589_n.jpg</logo_url><url>https://ctf.itzdenkii.me/</url><ctftime_url>/event/3280</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3280/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 365692, "name": "FolodyCTF"}]</organizers><ctf_id>1223</ctf_id><ctf_name>LYKN Team</ctf_name></item><item><title>L3akCTF 2026</title><link>https://ctftime.org/event/3061</link><description>
+</description><guid>https://ctftime.org/event/3280</guid><start_date>20260706T000000</start_date><finish_date>20260708T000000</finish_date><logo_url>/media/events/649736697_1646500476542970_4948379456057576589_n.jpg</logo_url><url>https://ctf.itzdenkii.me/</url><ctftime_url>/event/3280</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3280/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 365692, "name": "LYKNCTF"}]</organizers><ctf_id>1223</ctf_id><ctf_name>LYKN Team</ctf_name></item><item><title>L3akCTF 2026</title><link>https://ctftime.org/event/3061</link><description>
 Name: L3akCTF 2026 (an &lt;a href="/ctf/1077"&gt;L3akCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 10, 2026, 6 p.m. &amp;mdash; 12 July 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3061.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -503,7 +517,21 @@ Event organizers:
 &lt;a href="/team/299906"&gt;gaslighting&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3181</guid><start_date>20260814T120000</start_date><finish_date>20260817T120000</finish_date><logo_url>/media/events/icon_9.png</logo_url><url>https://gaslightctf.cooking/</url><ctftime_url>/event/3181</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 299906, "name": "gaslighting"}]</organizers><ctf_id>1517</ctf_id><ctf_name>gaslightCTF</ctf_name></item><item><title>BrunnerCTF 2026</title><link>https://ctftime.org/event/3065</link><description>
+</description><guid>https://ctftime.org/event/3181</guid><start_date>20260814T120000</start_date><finish_date>20260817T120000</finish_date><logo_url>/media/events/icon_9.png</logo_url><url>https://gaslightctf.cooking/</url><ctftime_url>/event/3181</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 299906, "name": "gaslighting"}]</organizers><ctf_id>1517</ctf_id><ctf_name>gaslightCTF</ctf_name></item><item><title>HackHowl 2026</title><link>https://ctftime.org/event/3318</link><description>
+Name: HackHowl 2026 (an &lt;a href="/ctf/1616"&gt;HackHowl&lt;/a&gt; event.)&lt;br/&gt;
+Date: Aug. 15, 2026, midnight &amp;mdash; 17 Aug. 2026, 05:00 UTC &amp;nbsp;&lt;a href="/event/3318.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://hackhowl.com/" rel="nofollow"&gt;https://hackhowl.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/436949"&gt;Hack Howl&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3318</guid><start_date>20260815T000000</start_date><finish_date>20260817T050000</finish_date><logo_url>/media/events/logo_129.png</logo_url><url>https://hackhowl.com/</url><ctftime_url>/event/3318</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 436949, "name": "Hack Howl"}]</organizers><ctf_id>1616</ctf_id><ctf_name>HackHowl</ctf_name></item><item><title>BrunnerCTF 2026</title><link>https://ctftime.org/event/3065</link><description>
 Name: BrunnerCTF 2026 (an &lt;a href="/ctf/1341"&gt;BrunnerCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 21, 2026, noon &amp;mdash; 23 Aug. 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3065.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
