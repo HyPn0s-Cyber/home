@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 11 Jun 2026 20:36:33 -0000</lastBuildDate><item><title>boroCTF 2026</title><link>https://ctftime.org/event/3309</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 12 Jun 2026 05:04:38 -0000</lastBuildDate><item><title>boroCTF 2026</title><link>https://ctftime.org/event/3309</link><description>
 Name: boroCTF 2026 (an &lt;a href="/ctf/1596"&gt;boroCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: June 12, 2026, 8 p.m. &amp;mdash; 16 June 2026, 03:59 UTC &amp;nbsp;&lt;a href="/event/3309.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -439,7 +439,7 @@ Date: July 31, 2026, 10 p.m. &amp;mdash; 02 Aug. 2026, 05:00 UTC &amp;nbsp;&lt;a
 Format: Jeopardy&lt;br/&gt;
 &lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
 
-Offical URL: &lt;a href="https://2026.vuwctf.com/" rel="nofollow"&gt;https://2026.vuwctf.com/&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://vuwctf.com/" rel="nofollow"&gt;https://vuwctf.com/&lt;/a&gt;&lt;br/&gt;
 Rating weight: 25.00&lt;br/&gt;
 
 Event organizers: 
@@ -447,7 +447,7 @@ Event organizers:
 &lt;a href="/team/378359"&gt;VuwCTF&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3311</guid><start_date>20260731T220000</start_date><finish_date>20260802T050000</finish_date><logo_url>/media/events/moose6.png</logo_url><url>https://2026.vuwctf.com/</url><ctftime_url>/event/3311</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 378359, "name": "VuwCTF"}]</organizers><ctf_id>1434</ctf_id><ctf_name>VuwCTF</ctf_name></item><item><title>Universal CTF</title><link>https://ctftime.org/event/3237</link><description>
+</description><guid>https://ctftime.org/event/3311</guid><start_date>20260731T220000</start_date><finish_date>20260802T050000</finish_date><logo_url>/media/events/moose6.png</logo_url><url>https://vuwctf.com/</url><ctftime_url>/event/3311</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 378359, "name": "VuwCTF"}]</organizers><ctf_id>1434</ctf_id><ctf_name>VuwCTF</ctf_name></item><item><title>Universal CTF</title><link>https://ctftime.org/event/3237</link><description>
 Name: Universal CTF (an &lt;a href="/ctf/1570"&gt;Universal CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 1, 2026, 7 a.m. &amp;mdash; 02 Aug. 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3237.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -461,7 +461,21 @@ Event organizers:
 &lt;a href="/team/430827"&gt;U-CTF&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3237</guid><start_date>20260801T070000</start_date><finish_date>20260802T150000</finish_date><logo_url>/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png</logo_url><url>https://ctf.uctf.io/</url><ctftime_url>/event/3237</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3237/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 430827, "name": "U-CTF"}]</organizers><ctf_id>1570</ctf_id><ctf_name>Universal CTF</ctf_name></item><item><title>RoboHack AI CTF (Robotic Hacking Community at DEFCON 34)</title><link>https://ctftime.org/event/3305</link><description>
+</description><guid>https://ctftime.org/event/3237</guid><start_date>20260801T070000</start_date><finish_date>20260802T150000</finish_date><logo_url>/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png</logo_url><url>https://ctf.uctf.io/</url><ctftime_url>/event/3237</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3237/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 430827, "name": "U-CTF"}]</organizers><ctf_id>1570</ctf_id><ctf_name>Universal CTF</ctf_name></item><item><title>Kali Team - CTF 26</title><link>https://ctftime.org/event/3328</link><description>
+Name: Kali Team - CTF 26 (an &lt;a href="/ctf/1622"&gt;Kali Team CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Aug. 5, 2026, 7 a.m. &amp;mdash; 05 Aug. 2026, 19:00 UTC &amp;nbsp;&lt;a href="/event/3328.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://forms.gle/rY1e9JBimCBGqpuR9" rel="nofollow"&gt;https://forms.gle/rY1e9JBimCBGqpuR9&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/387378"&gt;Kali Team&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3328</guid><start_date>20260805T070000</start_date><finish_date>20260805T190000</finish_date><logo_url>/media/events/1ec82fa0-76a8-4693-9acc-fe4cc3c3b91f.png</logo_url><url>https://forms.gle/rY1e9JBimCBGqpuR9</url><ctftime_url>/event/3328</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 387378, "name": "Kali Team"}]</organizers><ctf_id>1622</ctf_id><ctf_name>Kali Team CTF</ctf_name></item><item><title>RoboHack AI CTF (Robotic Hacking Community at DEFCON 34)</title><link>https://ctftime.org/event/3305</link><description>
 Name: RoboHack AI CTF (Robotic Hacking Community at DEFCON 34) (an &lt;a href="/ctf/1605"&gt;RoboHack AI CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 7, 2026, midnight &amp;mdash; 09 Aug. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3305.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Hack quest&lt;br/&gt;
