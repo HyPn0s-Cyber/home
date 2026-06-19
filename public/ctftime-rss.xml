@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Jun 2026 10:57:26 -0000</lastBuildDate><item><title>RIFFHACK: Black Market Break-In</title><link>https://ctftime.org/event/3297</link><description>
-Name: RIFFHACK: Black Market Break-In (an &lt;a href="/ctf/1457"&gt;Biterra CTFs&lt;/a&gt; event.)&lt;br/&gt;
-Date: June 19, 2026, noon &amp;mdash; 22 June 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3297.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="http://riffhack.biterra.co/" rel="nofollow"&gt;http://riffhack.biterra.co/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/414340"&gt;Biterra&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3297</guid><start_date>20260619T120000</start_date><finish_date>20260622T000000</finish_date><logo_url>/media/events/image_1_1.png</logo_url><url>http://riffhack.biterra.co/</url><ctftime_url>/event/3297</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed>https://ctftime.org/live/3297/</live_feed><restrictions>Casual</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 414340, "name": "Biterra"}]</organizers><ctf_id>1457</ctf_id><ctf_name>Biterra CTFs</ctf_name></item><item><title>Google Capture The Flag 2026</title><link>https://ctftime.org/event/3222</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Jun 2026 15:43:03 -0000</lastBuildDate><item><title>Google Capture The Flag 2026</title><link>https://ctftime.org/event/3222</link><description>
 Name: Google Capture The Flag 2026 (an &lt;a href="/ctf/141"&gt;Google Capture The Flag&lt;/a&gt; event.)&lt;br/&gt;
 Date: June 19, 2026, 6 p.m. &amp;mdash; 21 June 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3222.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
