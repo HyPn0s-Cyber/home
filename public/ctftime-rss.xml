@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 27 Jun 2026 14:06:48 -0000</lastBuildDate><item><title>MntcrlCTF 2026</title><link>https://ctftime.org/event/3282</link><description>
-Name: MntcrlCTF 2026 (an &lt;a href="/ctf/1583"&gt;MNTCRL CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: June 27, 2026, 4 p.m. &amp;mdash; 28 June 2026, 16:00 UTC &amp;nbsp;&lt;a href="/event/3282.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.mntcrl.it/" rel="nofollow"&gt;https://ctf.mntcrl.it/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/195096"&gt;M0NT3C4RL0&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3282</guid><start_date>20260627T160000</start_date><finish_date>20260628T160000</finish_date><logo_url>/media/events/m0nt3c4rl0_logo.jpg</logo_url><url>https://ctf.mntcrl.it/</url><ctftime_url>/event/3282</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 195096, "name": "Mntcrl"}]</organizers><ctf_id>1583</ctf_id><ctf_name>MNTCRL CTF</ctf_name></item><item><title>MindBreak 2026 by ESGI</title><link>https://ctftime.org/event/3315</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 27 Jun 2026 19:45:45 -0000</lastBuildDate><item><title>MindBreak 2026 by ESGI</title><link>https://ctftime.org/event/3315</link><description>
 Name: MindBreak 2026 by ESGI (an &lt;a href="/ctf/1142"&gt;MindBreak&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 3, 2026, 9 p.m. &amp;mdash; 04 July 2026, 06:00 UTC &amp;nbsp;&lt;a href="/event/3315.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
