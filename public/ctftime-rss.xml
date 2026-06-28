@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 27 Jun 2026 19:45:45 -0000</lastBuildDate><item><title>MindBreak 2026 by ESGI</title><link>https://ctftime.org/event/3315</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 28 Jun 2026 04:52:17 -0000</lastBuildDate><item><title>MindBreak 2026 by ESGI</title><link>https://ctftime.org/event/3315</link><description>
 Name: MindBreak 2026 by ESGI (an &lt;a href="/ctf/1142"&gt;MindBreak&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 3, 2026, 9 p.m. &amp;mdash; 04 July 2026, 06:00 UTC &amp;nbsp;&lt;a href="/event/3315.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -461,7 +461,21 @@ Event organizers:
 &lt;a href="/team/4140"&gt;ASIS&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3033</guid><start_date>20260829T140000</start_date><finish_date>20260830T140000</finish_date><logo_url>/media/events/asis_logo_1.png</logo_url><url>https://asisctf.com/</url><ctftime_url>/event/3033</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>90.53</weight><live_feed>https://ctftime.org/live/3033/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 4140, "name": "ASIS"}]</organizers><ctf_id>55</ctf_id><ctf_name>ASIS CTF Quals </ctf_name></item><item><title>NNS CTF 2026</title><link>https://ctftime.org/event/3097</link><description>
+</description><guid>https://ctftime.org/event/3033</guid><start_date>20260829T140000</start_date><finish_date>20260830T140000</finish_date><logo_url>/media/events/asis_logo_1.png</logo_url><url>https://asisctf.com/</url><ctftime_url>/event/3033</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>90.53</weight><live_feed>https://ctftime.org/live/3033/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 4140, "name": "ASIS"}]</organizers><ctf_id>55</ctf_id><ctf_name>ASIS CTF Quals </ctf_name></item><item><title>UND CyberHawks National CTF Competition 2026 Qualifiers</title><link>https://ctftime.org/event/3347</link><description>
+Name: UND CyberHawks National CTF Competition 2026 Qualifiers (an &lt;a href="/ctf/1627"&gt;UND CyberHawks National Capture The Flag Competition&lt;/a&gt; event.)&lt;br/&gt;
+Date: Aug. 29, 2026, 2 p.m. &amp;mdash; 30 Aug. 2026, 05:00 UTC &amp;nbsp;&lt;a href="/event/3347.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.hackthebox.com/event/details/und-cyberhawks-national-ctf-competition-2026-qualifiers-3444" rel="nofollow"&gt;https://ctf.hackthebox.com/event/details/und-cyberhawks-national-ctf-competition-2026-qualifiers-3444&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/439400"&gt;UND CyberHawks&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3347</guid><start_date>20260829T140000</start_date><finish_date>20260830T050000</finish_date><logo_url></logo_url><url>https://ctf.hackthebox.com/event/details/und-cyberhawks-national-ctf-competition-2026-qualifiers-3444</url><ctftime_url>/event/3347</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Casual</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 439400, "name": "UND CyberHawks"}]</organizers><ctf_id>1627</ctf_id><ctf_name>UND CyberHawks National Capture The Flag Competition</ctf_name></item><item><title>NNS CTF 2026</title><link>https://ctftime.org/event/3097</link><description>
 Name: NNS CTF 2026 (an &lt;a href="/ctf/1256"&gt;NNS CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 4, 2026, 4 p.m. &amp;mdash; 06 Sept. 2026, 16:00 UTC &amp;nbsp;&lt;a href="/event/3097.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -503,7 +517,21 @@ Event organizers:
 &lt;a href="/team/17058"&gt;K17&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3145</guid><start_date>20260911T100000</start_date><finish_date>20260913T100000</finish_date><logo_url>/media/events/20848837627a0ae11a820f3c9ed4fabc.png</logo_url><url>https://k17ctf.secso.cc/</url><ctftime_url>/event/3145</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.83</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 17058, "name": "K17"}]</organizers><ctf_id>1385</ctf_id><ctf_name>K17 CTF</ctf_name></item><item><title>VolgaCTF 2026 Final</title><link>https://ctftime.org/event/3265</link><description>
+</description><guid>https://ctftime.org/event/3145</guid><start_date>20260911T100000</start_date><finish_date>20260913T100000</finish_date><logo_url>/media/events/20848837627a0ae11a820f3c9ed4fabc.png</logo_url><url>https://k17ctf.secso.cc/</url><ctftime_url>/event/3145</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.83</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 17058, "name": "K17"}]</organizers><ctf_id>1385</ctf_id><ctf_name>K17 CTF</ctf_name></item><item><title>PatriotCTF 2026</title><link>https://ctftime.org/event/3348</link><description>
+Name: PatriotCTF 2026 (an &lt;a href="/ctf/737"&gt;PatriotCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Sept. 11, 2026, 10 p.m. &amp;mdash; 13 Sept. 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3348.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://pctf.competitivecyber.club/" rel="nofollow"&gt;https://pctf.competitivecyber.club/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 35.46&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/176906"&gt;Competitive Cyber at Mason&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3348</guid><start_date>20260911T220000</start_date><finish_date>20260913T220000</finish_date><logo_url>/media/events/5d71368cd0e4a92f2fa3d4df8662ae48.jpg</logo_url><url>https://pctf.competitivecyber.club/</url><ctftime_url>/event/3348</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>35.46</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 176906, "name": "Competitive Cyber at Mason"}]</organizers><ctf_id>737</ctf_id><ctf_name>PatriotCTF</ctf_name></item><item><title>VolgaCTF 2026 Final</title><link>https://ctftime.org/event/3265</link><description>
 Name: VolgaCTF 2026 Final (an &lt;a href="/ctf/53"&gt;VolgaCTF Final&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 17, 2026, 5 a.m. &amp;mdash; 17 Sept. 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3265.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Attack-Defense&lt;br/&gt;
