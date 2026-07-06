@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 05 Jul 2026 19:42:03 -0000</lastBuildDate><item><title>LYKNCTF</title><link>https://ctftime.org/event/3280</link><description>
-Name: LYKNCTF (an &lt;a href="/ctf/1223"&gt;LYKN Team&lt;/a&gt; event.)&lt;br/&gt;
-Date: July 6, 2026, midnight &amp;mdash; 08 July 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3280.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.itzdenkii.me/" rel="nofollow"&gt;https://ctf.itzdenkii.me/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/365692"&gt;FolodyCTF&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3280</guid><start_date>20260706T000000</start_date><finish_date>20260708T000000</finish_date><logo_url>/media/events/649736697_1646500476542970_4948379456057576589_n.jpg</logo_url><url>https://ctf.itzdenkii.me/</url><ctftime_url>/event/3280</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 365692, "name": "LYKNCTF"}]</organizers><ctf_id>1223</ctf_id><ctf_name>LYKN Team</ctf_name></item><item><title>L3akCTF 2026</title><link>https://ctftime.org/event/3061</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 06 Jul 2026 04:36:09 -0000</lastBuildDate><item><title>L3akCTF 2026</title><link>https://ctftime.org/event/3061</link><description>
 Name: L3akCTF 2026 (an &lt;a href="/ctf/1077"&gt;L3akCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 10, 2026, 6 p.m. &amp;mdash; 12 July 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3061.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
