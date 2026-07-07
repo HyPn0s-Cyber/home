@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 07 Jul 2026 15:15:16 -0000</lastBuildDate><item><title>L3akCTF 2026 [POSTPONED]</title><link>https://ctftime.org/event/3061</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 07 Jul 2026 20:11:13 -0000</lastBuildDate><item><title>L3akCTF 2026 [POSTPONED]</title><link>https://ctftime.org/event/3061</link><description>
 Name: L3akCTF 2026 [POSTPONED] (an &lt;a href="/ctf/1077"&gt;L3akCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 10, 2026, 6 p.m. &amp;mdash; 12 July 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3061.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -111,7 +111,35 @@ Event organizers:
 &lt;a href="/team/432880"&gt;HACKSIUM BUSAN&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3287</guid><start_date>20260718T000000</start_date><finish_date>20260718T230000</finish_date><logo_url></logo_url><url>http://hacksiumbusan.com/</url><ctftime_url>/event/3287</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 432880, "name": "HACKSIUM BUSAN"}]</organizers><ctf_id>1585</ctf_id><ctf_name>HACKSIUM BUSAN</ctf_name></item><item><title>ENOWARS 10</title><link>https://ctftime.org/event/3324</link><description>
+</description><guid>https://ctftime.org/event/3287</guid><start_date>20260718T000000</start_date><finish_date>20260718T230000</finish_date><logo_url></logo_url><url>http://hacksiumbusan.com/</url><ctftime_url>/event/3287</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 432880, "name": "HACKSIUM BUSAN"}]</organizers><ctf_id>1585</ctf_id><ctf_name>HACKSIUM BUSAN</ctf_name></item><item><title>AxiomCTF 2026 Finals</title><link>https://ctftime.org/event/3357</link><description>
+Name: AxiomCTF 2026 Finals (an &lt;a href="/ctf/1510"&gt;Axiom CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: July 18, 2026, 7 a.m. &amp;mdash; 18 July 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3357.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Attack-Defense&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Russia%2C%20Moscow"&gt;Russia, Moscow&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.4x10m.ru/" rel="nofollow"&gt;https://ctf.4x10m.ru/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/418607"&gt;4x10m&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3357</guid><start_date>20260718T070000</start_date><finish_date>20260718T150000</finish_date><logo_url>/media/events/1231_1.png</logo_url><url>https://ctf.4x10m.ru/</url><ctftime_url>/event/3357</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Russia, Moscow</location><onsite>True</onsite><organizers>[{"id": 418607, "name": "4x10m"}]</organizers><ctf_id>1510</ctf_id><ctf_name>Axiom CTF</ctf_name></item><item><title>HoneyBadger CTF AvitoTech</title><link>https://ctftime.org/event/3362</link><description>
+Name: HoneyBadger CTF AvitoTech (an &lt;a href="/ctf/1644"&gt;AvitoTech CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: July 18, 2026, 9 a.m. &amp;mdash; 19 July 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3362.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://avitoctf.ru/" rel="nofollow"&gt;https://avitoctf.ru/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/30003"&gt;SPbCTF&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3362</guid><start_date>20260718T090000</start_date><finish_date>20260719T150000</finish_date><logo_url>/media/events/honeybadger.jpg</logo_url><url>https://avitoctf.ru/</url><ctftime_url>/event/3362</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 30003, "name": "SPbCTF"}]</organizers><ctf_id>1644</ctf_id><ctf_name>AvitoTech CTF</ctf_name></item><item><title>ENOWARS 10</title><link>https://ctftime.org/event/3324</link><description>
 Name: ENOWARS 10 (an &lt;a href="/ctf/24"&gt;ENOWARS&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 18, 2026, noon &amp;mdash; 18 July 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3324.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Attack-Defense&lt;br/&gt;
@@ -125,7 +153,21 @@ Event organizers:
 &lt;a href="/team/1438"&gt;ENOFLAG&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3324</guid><start_date>20260718T120000</start_date><finish_date>20260718T210000</finish_date><logo_url></logo_url><url>https://10.enowars.com/</url><ctftime_url>/event/3324</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>83.50</weight><live_feed>https://ctftime.org/live/3324/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 1438, "name": "ENOFLAG"}]</organizers><ctf_id>24</ctf_id><ctf_name>ENOWARS</ctf_name></item><item><title>Codegate CTF 2026 Finals</title><link>https://ctftime.org/event/3292</link><description>
+</description><guid>https://ctftime.org/event/3324</guid><start_date>20260718T120000</start_date><finish_date>20260718T210000</finish_date><logo_url></logo_url><url>https://10.enowars.com/</url><ctftime_url>/event/3324</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>83.50</weight><live_feed>https://ctftime.org/live/3324/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 1438, "name": "ENOFLAG"}]</organizers><ctf_id>24</ctf_id><ctf_name>ENOWARS</ctf_name></item><item><title>BDSec CTF 2026</title><link>https://ctftime.org/event/3349</link><description>
+Name: BDSec CTF 2026 (an &lt;a href="/ctf/811"&gt;BDSec CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: July 20, 2026, 3 p.m. &amp;mdash; 21 July 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3349.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://2026.bdsec-ctf.com/" rel="nofollow"&gt;https://2026.bdsec-ctf.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 15.62&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/141739"&gt;Knight Squad&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3349</guid><start_date>20260720T150000</start_date><finish_date>20260721T150000</finish_date><logo_url>/media/events/bdsec-ctf-logo_2.png</logo_url><url>https://2026.bdsec-ctf.com/</url><ctftime_url>/event/3349</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>15.62</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 141739, "name": "Knight Squad"}]</organizers><ctf_id>811</ctf_id><ctf_name>BDSec CTF</ctf_name></item><item><title>Codegate CTF 2026 Finals</title><link>https://ctftime.org/event/3292</link><description>
 Name: Codegate CTF 2026 Finals (an &lt;a href="/ctf/4"&gt;Codegate CTF Finals&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 23, 2026, 1 a.m. &amp;mdash; 24 July 2026, 01:00 UTC &amp;nbsp;&lt;a href="/event/3292.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -503,7 +545,21 @@ Event organizers:
 &lt;a href="/team/27094"&gt;VolgaCTF.org&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3265</guid><start_date>20260917T050000</start_date><finish_date>20260917T150000</finish_date><logo_url>/media/events/logo-social-yellow_19.png</logo_url><url>https://volgactf.ru/en/volgactf-2026/final/</url><ctftime_url>/event/3265</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Russia, Samara</location><onsite>True</onsite><organizers>[{"id": 27094, "name": "VolgaCTF.org"}]</organizers><ctf_id>53</ctf_id><ctf_name>VolgaCTF Final</ctf_name></item><item><title>WATCHLIST</title><link>https://ctftime.org/event/3326</link><description>
+</description><guid>https://ctftime.org/event/3265</guid><start_date>20260917T050000</start_date><finish_date>20260917T150000</finish_date><logo_url>/media/events/logo-social-yellow_19.png</logo_url><url>https://volgactf.ru/en/volgactf-2026/final/</url><ctftime_url>/event/3265</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Russia, Samara</location><onsite>True</onsite><organizers>[{"id": 27094, "name": "VolgaCTF.org"}]</organizers><ctf_id>53</ctf_id><ctf_name>VolgaCTF Final</ctf_name></item><item><title>CSAW CTF Qualification Round 2026</title><link>https://ctftime.org/event/3355</link><description>
+Name: CSAW CTF Qualification Round 2026 (an &lt;a href="/ctf/18"&gt;CSAW CTF Qualification Round&lt;/a&gt; event.)&lt;br/&gt;
+Date: Sept. 18, 2026, 4 p.m. &amp;mdash; 20 Sept. 2026, 16:00 UTC &amp;nbsp;&lt;a href="/event/3355.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Brooklyn%2C%20New%20York"&gt;Brooklyn, New York&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.csaw.io/" rel="nofollow"&gt;https://ctf.csaw.io/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 10.93&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/439"&gt;NYUSEC&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3355</guid><start_date>20260918T160000</start_date><finish_date>20260920T160000</finish_date><logo_url>/media/events/csawlogo_1.png</logo_url><url>https://ctf.csaw.io/</url><ctftime_url>/event/3355</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>10.93</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Brooklyn, New York</location><onsite>False</onsite><organizers>[{"id": 439, "name": "NYUSEC"}]</organizers><ctf_id>18</ctf_id><ctf_name>CSAW CTF Qualification Round</ctf_name></item><item><title>WATCHLIST</title><link>https://ctftime.org/event/3326</link><description>
 Name: WATCHLIST (an &lt;a href="/ctf/1614"&gt;WatchList CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 19, 2026, 3:30 a.m. &amp;mdash; 20 Sept. 2026, 03:30 UTC &amp;nbsp;&lt;a href="/event/3326.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -573,7 +629,21 @@ Event organizers:
 &lt;a href="/team/65283"&gt;Crimson Defense&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3293</guid><start_date>20261003T150000</start_date><finish_date>20261004T030000</finish_date><logo_url>/media/events/cdctf_logo_square_1.png</logo_url><url>https://uacrimsondefense.github.io/cdctf.html</url><ctftime_url>/event/3293</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 65283, "name": "Crimson Defense"}]</organizers><ctf_id>1363</ctf_id><ctf_name>CDCTF</ctf_name></item><item><title>DEADFACE CTF 2026</title><link>https://ctftime.org/event/3279</link><description>
+</description><guid>https://ctftime.org/event/3293</guid><start_date>20261003T150000</start_date><finish_date>20261004T030000</finish_date><logo_url>/media/events/cdctf_logo_square_1.png</logo_url><url>https://uacrimsondefense.github.io/cdctf.html</url><ctftime_url>/event/3293</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 65283, "name": "Crimson Defense"}]</organizers><ctf_id>1363</ctf_id><ctf_name>CDCTF</ctf_name></item><item><title>GaianSpace CTF 2026</title><link>https://ctftime.org/event/3354</link><description>
+Name: GaianSpace CTF 2026 (an &lt;a href="/ctf/1284"&gt;GaianSpace CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 10, 2026, 9 p.m. &amp;mdash; 14 Oct. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3354.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://gaian.space/ctf" rel="nofollow"&gt;https://gaian.space/ctf&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/373034"&gt;GaianSpace&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3354</guid><start_date>20261010T210000</start_date><finish_date>20261014T210000</finish_date><logo_url>/media/events/gaianspace-logo-new_1.png</logo_url><url>https://gaian.space/ctf</url><ctftime_url>/event/3354</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3354/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 373034, "name": "GaianSpace"}]</organizers><ctf_id>1284</ctf_id><ctf_name>GaianSpace CTF</ctf_name></item><item><title>DEADFACE CTF 2026</title><link>https://ctftime.org/event/3279</link><description>
 Name: DEADFACE CTF 2026 (an &lt;a href="/ctf/487"&gt;DEADFACE CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 17, 2026, 2 p.m. &amp;mdash; 19 Oct. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3279.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
