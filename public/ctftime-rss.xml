@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 08 Jul 2026 03:45:03 -0000</lastBuildDate><item><title>Junior.Crypt.2026 CTF</title><link>https://ctftime.org/event/3335</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 08 Jul 2026 08:40:39 -0000</lastBuildDate><item><title>Junior.Crypt.2026 CTF</title><link>https://ctftime.org/event/3335</link><description>
 Name: Junior.Crypt.2026 CTF (an &lt;a href="/ctf/1041"&gt;..  Junior.Crypt CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 11, 2026, 9 a.m. &amp;mdash; 12 July 2026, 09:00 UTC &amp;nbsp;&lt;a href="/event/3335.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -83,21 +83,7 @@ Event organizers:
 &lt;a href="/team/12858"&gt;OSUSEC&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3124</guid><start_date>20260718T000000</start_date><finish_date>20260720T000000</finish_date><logo_url>/media/events/damctf.png</logo_url><url>https://damctf.xyz/</url><ctftime_url>/event/3124</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>33.42</weight><live_feed>https://ctftime.org/live/3124/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 12858, "name": "OSUSEC"}]</organizers><ctf_id>423</ctf_id><ctf_name>DamCTF</ctf_name></item><item><title>HACKSIUM BUSAN 2026 Quals</title><link>https://ctftime.org/event/3287</link><description>
-Name: HACKSIUM BUSAN 2026 Quals (an &lt;a href="/ctf/1585"&gt;HACKSIUM BUSAN&lt;/a&gt; event.)&lt;br/&gt;
-Date: July 18, 2026, midnight &amp;mdash; 18 July 2026, 23:00 UTC &amp;nbsp;&lt;a href="/event/3287.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="http://hacksiumbusan.com/" rel="nofollow"&gt;http://hacksiumbusan.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/432880"&gt;HACKSIUM BUSAN&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3287</guid><start_date>20260718T000000</start_date><finish_date>20260718T230000</finish_date><logo_url></logo_url><url>http://hacksiumbusan.com/</url><ctftime_url>/event/3287</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 432880, "name": "HACKSIUM BUSAN"}]</organizers><ctf_id>1585</ctf_id><ctf_name>HACKSIUM BUSAN</ctf_name></item><item><title>AxiomCTF 2026 Finals</title><link>https://ctftime.org/event/3357</link><description>
+</description><guid>https://ctftime.org/event/3124</guid><start_date>20260718T000000</start_date><finish_date>20260720T000000</finish_date><logo_url>/media/events/damctf.png</logo_url><url>https://damctf.xyz/</url><ctftime_url>/event/3124</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>33.42</weight><live_feed>https://ctftime.org/live/3124/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 12858, "name": "OSUSEC"}]</organizers><ctf_id>423</ctf_id><ctf_name>DamCTF</ctf_name></item><item><title>AxiomCTF 2026 Finals</title><link>https://ctftime.org/event/3357</link><description>
 Name: AxiomCTF 2026 Finals (an &lt;a href="/ctf/1510"&gt;Axiom CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 18, 2026, 7 a.m. &amp;mdash; 18 July 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3357.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Attack-Defense&lt;br/&gt;
