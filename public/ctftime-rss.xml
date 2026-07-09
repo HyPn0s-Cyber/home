@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 09 Jul 2026 09:52:47 -0000</lastBuildDate><item><title>Junior.Crypt.2026 CTF</title><link>https://ctftime.org/event/3335</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 09 Jul 2026 15:29:00 -0000</lastBuildDate><item><title>Junior.Crypt.2026 CTF</title><link>https://ctftime.org/event/3335</link><description>
 Name: Junior.Crypt.2026 CTF (an &lt;a href="/ctf/1041"&gt;..  Junior.Crypt CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 11, 2026, 9 a.m. &amp;mdash; 12 July 2026, 09:00 UTC &amp;nbsp;&lt;a href="/event/3335.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -167,21 +167,7 @@ Event organizers:
 &lt;a href="/team/311088"&gt;jailctf&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3286</guid><start_date>20260724T200000</start_date><finish_date>20260727T200000</finish_date><logo_url>/media/events/jailctf_1.png</logo_url><url>https://ctf.pyjail.club/</url><ctftime_url>/event/3286</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>37.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 311088, "name": "jailctf"}]</organizers><ctf_id>1152</ctf_id><ctf_name>jailCTF</ctf_name></item><item><title>UIUCTF 2026</title><link>https://ctftime.org/event/3148</link><description>
-Name: UIUCTF 2026 (an &lt;a href="/ctf/95"&gt;UIUCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: July 25, 2026, midnight &amp;mdash; 27 July 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3148.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://uiuc.tf/" rel="nofollow"&gt;https://uiuc.tf/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 69.35&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/27763"&gt;SIGPwny&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3148</guid><start_date>20260725T000000</start_date><finish_date>20260727T000000</finish_date><logo_url></logo_url><url>https://uiuc.tf/</url><ctftime_url>/event/3148</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>69.35</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 27763, "name": "SIGPwny"}]</organizers><ctf_id>95</ctf_id><ctf_name>UIUCTF</ctf_name></item><item><title>DIVER OSINT CTF 2026</title><link>https://ctftime.org/event/3268</link><description>
+</description><guid>https://ctftime.org/event/3286</guid><start_date>20260724T200000</start_date><finish_date>20260727T200000</finish_date><logo_url>/media/events/jailctf_1.png</logo_url><url>https://ctf.pyjail.club/</url><ctftime_url>/event/3286</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>37.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 311088, "name": "jailctf"}]</organizers><ctf_id>1152</ctf_id><ctf_name>jailCTF</ctf_name></item><item><title>DIVER OSINT CTF 2026</title><link>https://ctftime.org/event/3268</link><description>
 Name: DIVER OSINT CTF 2026 (an &lt;a href="/ctf/1111"&gt;DIVER OSINT CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 25, 2026, 3:10 a.m. &amp;mdash; 26 July 2026, 03:10 UTC &amp;nbsp;&lt;a href="/event/3268.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -335,7 +321,21 @@ Event organizers:
 &lt;a href="/team/284260"&gt;ScriptSorcerers&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3052</guid><start_date>20260808T000000</start_date><finish_date>20260810T000000</finish_date><logo_url>/media/events/final_logo_1.png</logo_url><url>https://ctf.scriptsorcerers.xyz/</url><ctftime_url>/event/3052</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.70</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 284260, "name": "ScriptSorcerers"}]</organizers><ctf_id>1318</ctf_id><ctf_name>scriptCTF</ctf_name></item><item><title>Thryve CTF 2026</title><link>https://ctftime.org/event/3330</link><description>
+</description><guid>https://ctftime.org/event/3052</guid><start_date>20260808T000000</start_date><finish_date>20260810T000000</finish_date><logo_url>/media/events/final_logo_1.png</logo_url><url>https://ctf.scriptsorcerers.xyz/</url><ctftime_url>/event/3052</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.70</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 284260, "name": "ScriptSorcerers"}]</organizers><ctf_id>1318</ctf_id><ctf_name>scriptCTF</ctf_name></item><item><title>UIUCTF 2026</title><link>https://ctftime.org/event/3148</link><description>
+Name: UIUCTF 2026 (an &lt;a href="/ctf/95"&gt;UIUCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Aug. 8, 2026, midnight &amp;mdash; 10 Aug. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3148.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://uiuc.tf/" rel="nofollow"&gt;https://uiuc.tf/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 69.35&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/27763"&gt;SIGPwny&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3148</guid><start_date>20260808T000000</start_date><finish_date>20260810T000000</finish_date><logo_url></logo_url><url>https://uiuc.tf/</url><ctftime_url>/event/3148</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>69.35</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 27763, "name": "SIGPwny"}]</organizers><ctf_id>95</ctf_id><ctf_name>UIUCTF</ctf_name></item><item><title>Thryve CTF 2026</title><link>https://ctftime.org/event/3330</link><description>
 Name: Thryve CTF 2026 (an &lt;a href="/ctf/1610"&gt;Thryve CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 14, 2026, 11 a.m. &amp;mdash; 14 Aug. 2026, 20:00 UTC &amp;nbsp;&lt;a href="/event/3330.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
