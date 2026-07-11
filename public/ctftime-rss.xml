@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 11 Jul 2026 13:55:23 -0000</lastBuildDate><item><title>BroncoCTF 2026</title><link>https://ctftime.org/event/3144</link><description>
-Name: BroncoCTF 2026 (an &lt;a href="/ctf/1017"&gt;BroncoCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: July 11, 2026, 4 p.m. &amp;mdash; 12 July 2026, 16:00 UTC &amp;nbsp;&lt;a href="/event/3144.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://broncoctf.ctfd.io/" rel="nofollow"&gt;https://broncoctf.ctfd.io/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 17.41&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/112673"&gt;BroncoSec&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3144</guid><start_date>20260711T160000</start_date><finish_date>20260712T160000</finish_date><logo_url>/media/events/horse.png</logo_url><url>https://broncoctf.ctfd.io/</url><ctftime_url>/event/3144</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>17.41</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 112673, "name": "BroncoSec"}]</organizers><ctf_id>1017</ctf_id><ctf_name>BroncoCTF</ctf_name></item><item><title>EYCC CTF 2026 </title><link>https://ctftime.org/event/3353</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 11 Jul 2026 19:30:28 -0000</lastBuildDate><item><title>EYCC CTF 2026 </title><link>https://ctftime.org/event/3353</link><description>
 Name: EYCC CTF 2026  (an &lt;a href="/ctf/1637"&gt;EYCC CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 17, 2026, 11 a.m. &amp;mdash; 19 July 2026, 11:00 UTC &amp;nbsp;&lt;a href="/event/3353.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
