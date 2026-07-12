@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 12 Jul 2026 03:57:13 -0000</lastBuildDate><item><title>EYCC CTF 2026 </title><link>https://ctftime.org/event/3353</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 12 Jul 2026 08:28:26 -0000</lastBuildDate><item><title>EYCC CTF 2026 </title><link>https://ctftime.org/event/3353</link><description>
 Name: EYCC CTF 2026  (an &lt;a href="/ctf/1637"&gt;EYCC CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 17, 2026, 11 a.m. &amp;mdash; 19 July 2026, 11:00 UTC &amp;nbsp;&lt;a href="/event/3353.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -41,21 +41,7 @@ Event organizers:
 &lt;a href="/team/126400"&gt;DownUnderCTF&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3112</guid><start_date>20260717T193000</start_date><finish_date>20260719T193000</finish_date><logo_url></logo_url><url>https://duc.tf/</url><ctftime_url>/event/3112</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>94.99</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 126400, "name": "DownUnderCTF"}]</organizers><ctf_id>481</ctf_id><ctf_name>DownUnderCTF</ctf_name></item><item><title>DAMCTF 2026</title><link>https://ctftime.org/event/3124</link><description>
-Name: DAMCTF 2026 (an &lt;a href="/ctf/423"&gt;DamCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: July 18, 2026, midnight &amp;mdash; 20 July 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3124.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://damctf.xyz/" rel="nofollow"&gt;https://damctf.xyz/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 33.42&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/12858"&gt;OSUSEC&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3124</guid><start_date>20260718T000000</start_date><finish_date>20260720T000000</finish_date><logo_url>/media/events/damctf.png</logo_url><url>https://damctf.xyz/</url><ctftime_url>/event/3124</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>33.42</weight><live_feed>https://ctftime.org/live/3124/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 12858, "name": "OSUSEC"}]</organizers><ctf_id>423</ctf_id><ctf_name>DamCTF</ctf_name></item><item><title>ATHENA CTF</title><link>https://ctftime.org/event/3366</link><description>
+</description><guid>https://ctftime.org/event/3112</guid><start_date>20260717T193000</start_date><finish_date>20260719T193000</finish_date><logo_url></logo_url><url>https://duc.tf/</url><ctftime_url>/event/3112</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>94.99</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 126400, "name": "DownUnderCTF"}]</organizers><ctf_id>481</ctf_id><ctf_name>DownUnderCTF</ctf_name></item><item><title>ATHENA CTF</title><link>https://ctftime.org/event/3366</link><description>
 Name: ATHENA CTF (an &lt;a href="/ctf/1626"&gt;Athena CTF &lt;/a&gt; event.)&lt;br/&gt;
 Date: July 18, 2026, 5:30 a.m. &amp;mdash; 19 July 2026, 05:30 UTC &amp;nbsp;&lt;a href="/event/3366.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
