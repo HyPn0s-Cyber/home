@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 12 Jul 2026 19:28:53 -0000</lastBuildDate><item><title>EYCC CTF 2026 </title><link>https://ctftime.org/event/3353</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 13 Jul 2026 04:01:10 -0000</lastBuildDate><item><title>EYCC CTF 2026 </title><link>https://ctftime.org/event/3353</link><description>
 Name: EYCC CTF 2026  (an &lt;a href="/ctf/1637"&gt;EYCC CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 17, 2026, 11 a.m. &amp;mdash; 19 July 2026, 11:00 UTC &amp;nbsp;&lt;a href="/event/3353.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -201,7 +201,7 @@ Date: July 31, 2026, 10 p.m. &amp;mdash; 02 Aug. 2026, 05:00 UTC &amp;nbsp;&lt;a
 Format: Jeopardy&lt;br/&gt;
 &lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
 
-Offical URL: &lt;a href="https://vuwctf.com/" rel="nofollow"&gt;https://vuwctf.com/&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://2026.vuwctf.com/" rel="nofollow"&gt;https://2026.vuwctf.com/&lt;/a&gt;&lt;br/&gt;
 Rating weight: 25.00&lt;br/&gt;
 
 Event organizers: 
@@ -209,7 +209,7 @@ Event organizers:
 &lt;a href="/team/378359"&gt;VuwCTF&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3311</guid><start_date>20260731T220000</start_date><finish_date>20260802T050000</finish_date><logo_url>/media/events/moose6.png</logo_url><url>https://vuwctf.com/</url><ctftime_url>/event/3311</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 378359, "name": "VuwCTF"}]</organizers><ctf_id>1434</ctf_id><ctf_name>VuwCTF</ctf_name></item><item><title>Universal CTF</title><link>https://ctftime.org/event/3237</link><description>
+</description><guid>https://ctftime.org/event/3311</guid><start_date>20260731T220000</start_date><finish_date>20260802T050000</finish_date><logo_url>/media/events/moose6.png</logo_url><url>https://2026.vuwctf.com/</url><ctftime_url>/event/3311</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 378359, "name": "VuwCTF"}]</organizers><ctf_id>1434</ctf_id><ctf_name>VuwCTF</ctf_name></item><item><title>Universal CTF</title><link>https://ctftime.org/event/3237</link><description>
 Name: Universal CTF (an &lt;a href="/ctf/1570"&gt;Universal CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 1, 2026, 7 a.m. &amp;mdash; 02 Aug. 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3237.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -503,7 +503,21 @@ Event organizers:
 &lt;a href="/team/27094"&gt;VolgaCTF.org&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3265</guid><start_date>20260917T050000</start_date><finish_date>20260917T150000</finish_date><logo_url>/media/events/logo-social-yellow_19.png</logo_url><url>https://volgactf.ru/en/volgactf-2026/final/</url><ctftime_url>/event/3265</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Russia, Samara</location><onsite>True</onsite><organizers>[{"id": 27094, "name": "VolgaCTF.org"}]</organizers><ctf_id>53</ctf_id><ctf_name>VolgaCTF Final</ctf_name></item><item><title>CSAW CTF Qualification Round 2026</title><link>https://ctftime.org/event/3355</link><description>
+</description><guid>https://ctftime.org/event/3265</guid><start_date>20260917T050000</start_date><finish_date>20260917T150000</finish_date><logo_url>/media/events/logo-social-yellow_19.png</logo_url><url>https://volgactf.ru/en/volgactf-2026/final/</url><ctftime_url>/event/3265</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Russia, Samara</location><onsite>True</onsite><organizers>[{"id": 27094, "name": "VolgaCTF.org"}]</organizers><ctf_id>53</ctf_id><ctf_name>VolgaCTF Final</ctf_name></item><item><title>NullOrigin CTF Qualifiers</title><link>https://ctftime.org/event/3346</link><description>
+Name: NullOrigin CTF Qualifiers (an &lt;a href="/ctf/1633"&gt;Null Origin&lt;/a&gt; event.)&lt;br/&gt;
+Date: Sept. 18, 2026, 4:30 a.m. &amp;mdash; 18 Sept. 2026, 16:30 UTC &amp;nbsp;&lt;a href="/event/3346.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=On-line"&gt;On-line&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://nullorigin.cyberhx.com/" rel="nofollow"&gt;https://nullorigin.cyberhx.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/374041"&gt;CyberXoX&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3346</guid><start_date>20260918T043000</start_date><finish_date>20260918T163000</finish_date><logo_url>/media/events/722217335_18086037686297664_317017320748858629_n.jpg</logo_url><url>https://nullorigin.cyberhx.com/</url><ctftime_url>/event/3346</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3346/</live_feed><restrictions>Open</restrictions><location>On-line</location><onsite>False</onsite><organizers>[{"id": 374041, "name": "CyberXoX"}]</organizers><ctf_id>1633</ctf_id><ctf_name>Null Origin</ctf_name></item><item><title>CSAW CTF Qualification Round 2026</title><link>https://ctftime.org/event/3355</link><description>
 Name: CSAW CTF Qualification Round 2026 (an &lt;a href="/ctf/18"&gt;CSAW CTF Qualification Round&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 18, 2026, 4 p.m. &amp;mdash; 20 Sept. 2026, 16:00 UTC &amp;nbsp;&lt;a href="/event/3355.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -573,7 +587,21 @@ Event organizers:
 &lt;a href="/team/231536"&gt;UWSP Pointers&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3020</guid><start_date>20260927T140000</start_date><finish_date>20261206T140000</finish_date><logo_url>/media/events/logo-mini.png</logo_url><url>https://pointeroverflowctf.com/</url><ctftime_url>/event/3020</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 231536, "name": "UWSP Pointers"}]</organizers><ctf_id>963</ctf_id><ctf_name>Pointer Overflow CTF</ctf_name></item><item><title>CDCTF 2026</title><link>https://ctftime.org/event/3293</link><description>
+</description><guid>https://ctftime.org/event/3020</guid><start_date>20260927T140000</start_date><finish_date>20261206T140000</finish_date><logo_url>/media/events/logo-mini.png</logo_url><url>https://pointeroverflowctf.com/</url><ctftime_url>/event/3020</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 231536, "name": "UWSP Pointers"}]</organizers><ctf_id>963</ctf_id><ctf_name>Pointer Overflow CTF</ctf_name></item><item><title>Securinets CTF Quals 2026</title><link>https://ctftime.org/event/3364</link><description>
+Name: Securinets CTF Quals 2026 (an &lt;a href="/ctf/105"&gt;Securinets CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 3, 2026, 9 a.m. &amp;mdash; 04 Oct. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3364.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://quals.securinets.tn/" rel="nofollow"&gt;https://quals.securinets.tn/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/5084"&gt;Securinets&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3364</guid><start_date>20261003T090000</start_date><finish_date>20261004T210000</finish_date><logo_url></logo_url><url>https://quals.securinets.tn/</url><ctftime_url>/event/3364</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 5084, "name": "Securinets"}]</organizers><ctf_id>105</ctf_id><ctf_name>Securinets CTF</ctf_name></item><item><title>CDCTF 2026</title><link>https://ctftime.org/event/3293</link><description>
 Name: CDCTF 2026 (an &lt;a href="/ctf/1363"&gt;CDCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 3, 2026, 3 p.m. &amp;mdash; 04 Oct. 2026, 03:00 UTC &amp;nbsp;&lt;a href="/event/3293.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
