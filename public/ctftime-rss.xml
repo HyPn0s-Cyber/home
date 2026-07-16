@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 15 Jul 2026 19:36:03 -0000</lastBuildDate><item><title>EYCC CTF 2026 </title><link>https://ctftime.org/event/3353</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 16 Jul 2026 03:36:53 -0000</lastBuildDate><item><title>EYCC CTF 2026 </title><link>https://ctftime.org/event/3353</link><description>
 Name: EYCC CTF 2026  (an &lt;a href="/ctf/1637"&gt;EYCC CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 17, 2026, 11 a.m. &amp;mdash; 19 July 2026, 11:00 UTC &amp;nbsp;&lt;a href="/event/3353.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -229,7 +229,7 @@ Date: Aug. 5, 2026, 7 a.m. &amp;mdash; 05 Aug. 2026, 19:00 UTC &amp;nbsp;&lt;a h
 Format: Jeopardy&lt;br/&gt;
 &lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
 
-Offical URL: &lt;a href="https://forms.gle/rY1e9JBimCBGqpuR9" rel="nofollow"&gt;https://forms.gle/rY1e9JBimCBGqpuR9&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://register.kali-team.online/" rel="nofollow"&gt;https://register.kali-team.online/&lt;/a&gt;&lt;br/&gt;
 Rating weight: 0.00&lt;br/&gt;
 
 Event organizers: 
@@ -237,7 +237,7 @@ Event organizers:
 &lt;a href="/team/387378"&gt;Kali Team&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3328</guid><start_date>20260805T070000</start_date><finish_date>20260805T190000</finish_date><logo_url>/media/events/1ec82fa0-76a8-4693-9acc-fe4cc3c3b91f.png</logo_url><url>https://forms.gle/rY1e9JBimCBGqpuR9</url><ctftime_url>/event/3328</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 387378, "name": "Kali Team"}]</organizers><ctf_id>1622</ctf_id><ctf_name>Kali Team - CTF</ctf_name></item><item><title>AEROSPACE VILLAGE STARPWN CTF</title><link>https://ctftime.org/event/3342</link><description>
+</description><guid>https://ctftime.org/event/3328</guid><start_date>20260805T070000</start_date><finish_date>20260805T190000</finish_date><logo_url>/media/events/1ec82fa0-76a8-4693-9acc-fe4cc3c3b91f.png</logo_url><url>https://register.kali-team.online/</url><ctftime_url>/event/3328</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 387378, "name": "Kali Team"}]</organizers><ctf_id>1622</ctf_id><ctf_name>Kali Team - CTF</ctf_name></item><item><title>AEROSPACE VILLAGE STARPWN CTF</title><link>https://ctftime.org/event/3342</link><description>
 Name: AEROSPACE VILLAGE STARPWN CTF (an &lt;a href="/ctf/1322"&gt;Starpwn CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 6, 2026, 5 p.m. &amp;mdash; 09 Aug. 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3342.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
