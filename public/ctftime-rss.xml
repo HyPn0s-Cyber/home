@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 17 Jul 2026 08:24:48 -0000</lastBuildDate><item><title>EYCC CTF 2026 </title><link>https://ctftime.org/event/3353</link><description>
-Name: EYCC CTF 2026  (an &lt;a href="/ctf/1637"&gt;EYCC CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: July 17, 2026, 11 a.m. &amp;mdash; 19 July 2026, 11:00 UTC &amp;nbsp;&lt;a href="/event/3353.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://eycc.stemeghackclub.org/" rel="nofollow"&gt;https://eycc.stemeghackclub.org/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/402823"&gt;Mont5ab El2hwa&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3353</guid><start_date>20260717T110000</start_date><finish_date>20260719T110000</finish_date><logo_url>/media/events/eycc.png</logo_url><url>https://eycc.stemeghackclub.org/</url><ctftime_url>/event/3353</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>High-school</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 402823, "name": "Mont5ab El2hwa"}]</organizers><ctf_id>1637</ctf_id><ctf_name>EYCC CTF</ctf_name></item><item><title>OmniCTF 2026 Quals</title><link>https://ctftime.org/event/3104</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 17 Jul 2026 14:00:02 -0000</lastBuildDate><item><title>OmniCTF 2026 Quals</title><link>https://ctftime.org/event/3104</link><description>
 Name: OmniCTF 2026 Quals (an &lt;a href="/ctf/1412"&gt;OmniCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 17, 2026, 3 p.m. &amp;mdash; 19 July 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3104.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
