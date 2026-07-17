@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 17 Jul 2026 14:00:02 -0000</lastBuildDate><item><title>OmniCTF 2026 Quals</title><link>https://ctftime.org/event/3104</link><description>
-Name: OmniCTF 2026 Quals (an &lt;a href="/ctf/1412"&gt;OmniCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: July 17, 2026, 3 p.m. &amp;mdash; 19 July 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3104.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://omnictf.com/" rel="nofollow"&gt;https://omnictf.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/383015"&gt;OmniCTF&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3104</guid><start_date>20260717T150000</start_date><finish_date>20260719T150000</finish_date><logo_url>/media/events/logo1024x1024_1.png</logo_url><url>https://omnictf.com/</url><ctftime_url>/event/3104</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 383015, "name": "OmniCYBR"}]</organizers><ctf_id>1412</ctf_id><ctf_name>OmniCTF</ctf_name></item><item><title>DownUnderCTF 2026 - CANCELLED</title><link>https://ctftime.org/event/3112</link><description>
-Name: DownUnderCTF 2026 - CANCELLED (an &lt;a href="/ctf/481"&gt;DownUnderCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: July 17, 2026, 7:30 p.m. &amp;mdash; 19 July 2026, 19:30 UTC &amp;nbsp;&lt;a href="/event/3112.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://duc.tf/" rel="nofollow"&gt;https://duc.tf/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 94.99&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/126400"&gt;DownUnderCTF&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3112</guid><start_date>20260717T193000</start_date><finish_date>20260719T193000</finish_date><logo_url></logo_url><url>https://duc.tf/</url><ctftime_url>/event/3112</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>94.99</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 126400, "name": "DownUnderCTF"}]</organizers><ctf_id>481</ctf_id><ctf_name>DownUnderCTF</ctf_name></item><item><title>ATHENA CTF</title><link>https://ctftime.org/event/3366</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 17 Jul 2026 19:33:19 -0000</lastBuildDate><item><title>ATHENA CTF</title><link>https://ctftime.org/event/3366</link><description>
 Name: ATHENA CTF (an &lt;a href="/ctf/1626"&gt;Athena CTF &lt;/a&gt; event.)&lt;br/&gt;
 Date: July 18, 2026, 5:30 a.m. &amp;mdash; 19 July 2026, 05:30 UTC &amp;nbsp;&lt;a href="/event/3366.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -41,7 +13,7 @@ Event organizers:
 &lt;a href="/team/438608"&gt;Athena-CTF&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3366</guid><start_date>20260718T053000</start_date><finish_date>20260719T053000</finish_date><logo_url></logo_url><url>https://ctf.athena-ctf.com/</url><ctftime_url>/event/3366</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>On-line</location><onsite>False</onsite><organizers>[{"id": 438608, "name": "Athena-CTF"}]</organizers><ctf_id>1626</ctf_id><ctf_name>Athena CTF </ctf_name></item><item><title>AxiomCTF 2026 Finals</title><link>https://ctftime.org/event/3357</link><description>
+</description><guid>https://ctftime.org/event/3366</guid><start_date>20260718T053000</start_date><finish_date>20260719T053000</finish_date><logo_url></logo_url><url>https://ctf.athena-ctf.com/</url><ctftime_url>/event/3366</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3366/</live_feed><restrictions>Open</restrictions><location>On-line</location><onsite>False</onsite><organizers>[{"id": 438608, "name": "Athena-CTF"}]</organizers><ctf_id>1626</ctf_id><ctf_name>Athena CTF </ctf_name></item><item><title>AxiomCTF 2026 Finals</title><link>https://ctftime.org/event/3357</link><description>
 Name: AxiomCTF 2026 Finals (an &lt;a href="/ctf/1510"&gt;Axiom CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 18, 2026, 7 a.m. &amp;mdash; 18 July 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3357.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Attack-Defense&lt;br/&gt;
