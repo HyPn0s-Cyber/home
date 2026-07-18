@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 17 Jul 2026 19:33:19 -0000</lastBuildDate><item><title>ATHENA CTF</title><link>https://ctftime.org/event/3366</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 18 Jul 2026 03:29:10 -0000</lastBuildDate><item><title>ATHENA CTF</title><link>https://ctftime.org/event/3366</link><description>
 Name: ATHENA CTF (an &lt;a href="/ctf/1626"&gt;Athena CTF &lt;/a&gt; event.)&lt;br/&gt;
 Date: July 18, 2026, 5:30 a.m. &amp;mdash; 19 July 2026, 05:30 UTC &amp;nbsp;&lt;a href="/event/3366.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -125,8 +125,22 @@ Event organizers:
 &lt;a href="/team/91096"&gt;D^3CTF Organizers&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3201</guid><start_date>20260725T120000</start_date><finish_date>20260726T120000</finish_date><logo_url></logo_url><url>https://d3c.tf/</url><ctftime_url>/event/3201</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>69.22</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 91096, "name": "D^3CTF Organizers"}]</organizers><ctf_id>387</ctf_id><ctf_name>D^3CTF</ctf_name></item><item><title>DeadSec CTF 2026</title><link>https://ctftime.org/event/3303</link><description>
-Name: DeadSec CTF 2026 (an &lt;a href="/ctf/268"&gt;DeadSec&lt;/a&gt; event.)&lt;br/&gt;
+</description><guid>https://ctftime.org/event/3201</guid><start_date>20260725T120000</start_date><finish_date>20260726T120000</finish_date><logo_url></logo_url><url>https://d3c.tf/</url><ctftime_url>/event/3201</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>69.22</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 91096, "name": "D^3CTF Organizers"}]</organizers><ctf_id>387</ctf_id><ctf_name>D^3CTF</ctf_name></item><item><title>BushBash CTF</title><link>https://ctftime.org/event/3372</link><description>
+Name: BushBash CTF (an &lt;a href="/ctf/1639"&gt;BushBash CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: July 31, 2026, 7 a.m. &amp;mdash; 02 Aug. 2026, 07:00 UTC &amp;nbsp;&lt;a href="/event/3372.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Australia%2C%20Canberra"&gt;Australia, Canberra&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="http://bushbash.cssa.club/" rel="nofollow"&gt;http://bushbash.cssa.club/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/133080"&gt;CSSA&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3372</guid><start_date>20260731T070000</start_date><finish_date>20260802T070000</finish_date><logo_url>/media/events/logo_133.png</logo_url><url>http://bushbash.cssa.club/</url><ctftime_url>/event/3372</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Australia, Canberra</location><onsite>False</onsite><organizers>[{"id": 133080, "name": "CSSA"}]</organizers><ctf_id>1639</ctf_id><ctf_name>BushBash CTF</ctf_name></item><item><title>DeadSec CTF 2026 - POSTPONED</title><link>https://ctftime.org/event/3303</link><description>
+Name: DeadSec CTF 2026 - POSTPONED (an &lt;a href="/ctf/268"&gt;DeadSec&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 31, 2026, noon &amp;mdash; 01 Aug. 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3303.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
 &lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
