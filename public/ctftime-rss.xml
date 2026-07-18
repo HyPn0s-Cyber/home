@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 18 Jul 2026 08:08:10 -0000</lastBuildDate><item><title>HoneyBadger CTF AvitoTech</title><link>https://ctftime.org/event/3362</link><description>
-Name: HoneyBadger CTF AvitoTech (an &lt;a href="/ctf/1644"&gt;AvitoTech CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: July 18, 2026, 9 a.m. &amp;mdash; 19 July 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3362.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://avitoctf.ru/" rel="nofollow"&gt;https://avitoctf.ru/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/30003"&gt;SPbCTF&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3362</guid><start_date>20260718T090000</start_date><finish_date>20260719T150000</finish_date><logo_url>/media/events/honeybadger.jpg</logo_url><url>https://avitoctf.ru/</url><ctftime_url>/event/3362</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 30003, "name": "SPbCTF"}]</organizers><ctf_id>1644</ctf_id><ctf_name>AvitoTech CTF</ctf_name></item><item><title>ENOWARS 10</title><link>https://ctftime.org/event/3324</link><description>
-Name: ENOWARS 10 (an &lt;a href="/ctf/24"&gt;ENOWARS&lt;/a&gt; event.)&lt;br/&gt;
-Date: July 18, 2026, noon &amp;mdash; 18 July 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3324.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Attack-Defense&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://10.enowars.com/" rel="nofollow"&gt;https://10.enowars.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 83.50&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/1438"&gt;ENOFLAG&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3324</guid><start_date>20260718T120000</start_date><finish_date>20260718T210000</finish_date><logo_url></logo_url><url>https://10.enowars.com/</url><ctftime_url>/event/3324</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>83.50</weight><live_feed>https://ctftime.org/live/3324/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 1438, "name": "ENOFLAG"}]</organizers><ctf_id>24</ctf_id><ctf_name>ENOWARS</ctf_name></item><item><title>BDSec CTF 2026</title><link>https://ctftime.org/event/3349</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 18 Jul 2026 13:45:55 -0000</lastBuildDate><item><title>BDSec CTF 2026</title><link>https://ctftime.org/event/3349</link><description>
 Name: BDSec CTF 2026 (an &lt;a href="/ctf/811"&gt;BDSec CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 20, 2026, 3 p.m. &amp;mdash; 21 July 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3349.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
