@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 21 Jul 2026 03:43:15 -0000</lastBuildDate><item><title>Codegate CTF 2026 Finals</title><link>https://ctftime.org/event/3292</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 21 Jul 2026 08:41:20 -0000</lastBuildDate><item><title>Codegate CTF 2026 Finals</title><link>https://ctftime.org/event/3292</link><description>
 Name: Codegate CTF 2026 Finals (an &lt;a href="/ctf/4"&gt;Codegate CTF Finals&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 23, 2026, 1 a.m. &amp;mdash; 24 July 2026, 01:00 UTC &amp;nbsp;&lt;a href="/event/3292.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -125,7 +125,21 @@ Event organizers:
 &lt;a href="/team/430827"&gt;U-CTF&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3237</guid><start_date>20260801T070000</start_date><finish_date>20260802T150000</finish_date><logo_url>/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png</logo_url><url>https://ctf.uctf.io/</url><ctftime_url>/event/3237</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3237/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 430827, "name": "U-CTF"}]</organizers><ctf_id>1570</ctf_id><ctf_name>Universal CTF</ctf_name></item><item><title>Kali Team - CTF 26</title><link>https://ctftime.org/event/3328</link><description>
+</description><guid>https://ctftime.org/event/3237</guid><start_date>20260801T070000</start_date><finish_date>20260802T150000</finish_date><logo_url>/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png</logo_url><url>https://ctf.uctf.io/</url><ctftime_url>/event/3237</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3237/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 430827, "name": "U-CTF"}]</organizers><ctf_id>1570</ctf_id><ctf_name>Universal CTF</ctf_name></item><item><title>Lexington Informatics Tournament CTF 2026</title><link>https://ctftime.org/event/3373</link><description>
+Name: Lexington Informatics Tournament CTF 2026 (an &lt;a href="/ctf/646"&gt;LIT CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Aug. 1, 2026, 3 p.m. &amp;mdash; 03 Aug. 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3373.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://lit.lhsmathcs.org/" rel="nofollow"&gt;https://lit.lhsmathcs.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 84.79&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/157660"&gt;LIT CTF&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3373</guid><start_date>20260801T150000</start_date><finish_date>20260803T150000</finish_date><logo_url>/media/events/LIT-Logo.png</logo_url><url>https://lit.lhsmathcs.org/</url><ctftime_url>/event/3373</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>84.79</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 157660, "name": "LIT CTF"}]</organizers><ctf_id>646</ctf_id><ctf_name>LIT CTF</ctf_name></item><item><title>Kali Team - CTF 26</title><link>https://ctftime.org/event/3328</link><description>
 Name: Kali Team - CTF 26 (an &lt;a href="/ctf/1622"&gt;Kali Team - CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 5, 2026, 7 a.m. &amp;mdash; 05 Aug. 2026, 19:00 UTC &amp;nbsp;&lt;a href="/event/3328.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
