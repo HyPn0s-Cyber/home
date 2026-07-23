@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 23 Jul 2026 03:42:42 -0000</lastBuildDate><item><title>jailCTF 2026</title><link>https://ctftime.org/event/3286</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 23 Jul 2026 08:40:17 -0000</lastBuildDate><item><title>jailCTF 2026</title><link>https://ctftime.org/event/3286</link><description>
 Name: jailCTF 2026 (an &lt;a href="/ctf/1152"&gt;jailCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: July 24, 2026, 8 p.m. &amp;mdash; 27 July 2026, 20:00 UTC &amp;nbsp;&lt;a href="/event/3286.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -279,21 +279,7 @@ Event organizers:
 &lt;a href="/team/155032"&gt;SDU&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3065</guid><start_date>20260821T120000</start_date><finish_date>20260823T120000</finish_date><logo_url>/media/events/Logo_-_2-7.png</logo_url><url>https://ctf.brunnerne.dk/</url><ctftime_url>/event/3065</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.66</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 155032, "name": "Brunnerne"}]</organizers><ctf_id>1341</ctf_id><ctf_name>BrunnerCTF</ctf_name></item><item><title>HITCON CTF 2026 Quals</title><link>https://ctftime.org/event/3340</link><description>
-Name: HITCON CTF 2026 Quals (an &lt;a href="/ctf/79"&gt;HITCON CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Aug. 28, 2026, 2 p.m. &amp;mdash; 30 Aug. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3340.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="http://ctf.hitcon.org/" rel="nofollow"&gt;http://ctf.hitcon.org/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 91.16&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/8299"&gt;HITCON&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3340</guid><start_date>20260828T140000</start_date><finish_date>20260830T140000</finish_date><logo_url>/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg</logo_url><url>http://ctf.hitcon.org/</url><ctftime_url>/event/3340</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>91.16</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 8299, "name": "HITCON"}]</organizers><ctf_id>79</ctf_id><ctf_name>HITCON CTF</ctf_name></item><item><title>COMPFEST CTF 2026</title><link>https://ctftime.org/event/3290</link><description>
+</description><guid>https://ctftime.org/event/3065</guid><start_date>20260821T120000</start_date><finish_date>20260823T120000</finish_date><logo_url>/media/events/Logo_-_2-7.png</logo_url><url>https://ctf.brunnerne.dk/</url><ctftime_url>/event/3065</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.66</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 155032, "name": "Brunnerne"}]</organizers><ctf_id>1341</ctf_id><ctf_name>BrunnerCTF</ctf_name></item><item><title>COMPFEST CTF 2026</title><link>https://ctftime.org/event/3290</link><description>
 Name: COMPFEST CTF 2026 (an &lt;a href="/ctf/502"&gt;COMPFEST CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 29, 2026, midnight &amp;mdash; 30 Aug. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3290.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -615,21 +601,7 @@ Event organizers:
 &lt;a href="/team/89021"&gt;BlackAlps&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3242</guid><start_date>20261106T181500</start_date><finish_date>20261106T223000</finish_date><logo_url>/media/events/black-alps-v5-logo-black_HIGH-RES.png</logo_url><url>https://blackalps.ch/ba/</url><ctftime_url>/event/3242</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Switzerland, Yverdon-les-Bains</location><onsite>True</onsite><organizers>[{"id": 89021, "name": "BlackAlps"}]</organizers><ctf_id>375</ctf_id><ctf_name>BlackAlps</ctf_name></item><item><title>HITCON CTF 2026 Final</title><link>https://ctftime.org/event/3341</link><description>
-Name: HITCON CTF 2026 Final (an &lt;a href="/ctf/79"&gt;HITCON CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Nov. 7, 2026, midnight &amp;mdash; 08 Nov. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3341.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Attack-Defense&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="http://ctf.hitcon.org/" rel="nofollow"&gt;http://ctf.hitcon.org/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/8299"&gt;HITCON&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3341</guid><start_date>20261107T000000</start_date><finish_date>20261108T100000</finish_date><logo_url>/media/events/63dc69a784f6f69a935d3cd01afa2fa7_1.jpg</logo_url><url>http://ctf.hitcon.org/</url><ctftime_url>/event/3341</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>True</onsite><organizers>[{"id": 8299, "name": "HITCON"}]</organizers><ctf_id>79</ctf_id><ctf_name>HITCON CTF</ctf_name></item><item><title>WolvCTF 2026</title><link>https://ctftime.org/event/3049</link><description>
+</description><guid>https://ctftime.org/event/3242</guid><start_date>20261106T181500</start_date><finish_date>20261106T223000</finish_date><logo_url>/media/events/black-alps-v5-logo-black_HIGH-RES.png</logo_url><url>https://blackalps.ch/ba/</url><ctftime_url>/event/3242</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Switzerland, Yverdon-les-Bains</location><onsite>True</onsite><organizers>[{"id": 89021, "name": "BlackAlps"}]</organizers><ctf_id>375</ctf_id><ctf_name>BlackAlps</ctf_name></item><item><title>WolvCTF 2026</title><link>https://ctftime.org/event/3049</link><description>
 Name: WolvCTF 2026 (an &lt;a href="/ctf/766"&gt;WolvCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 13, 2026, 11 p.m. &amp;mdash; 15 Nov. 2026, 23:00 UTC &amp;nbsp;&lt;a href="/event/3049.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
