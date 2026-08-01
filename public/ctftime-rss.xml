@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 13:52:55 -0000</lastBuildDate><item><title>Lexington Informatics Tournament CTF 2026</title><link>https://ctftime.org/event/3373</link><description>
-Name: Lexington Informatics Tournament CTF 2026 (an &lt;a href="/ctf/646"&gt;LIT CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Aug. 1, 2026, 3 p.m. &amp;mdash; 03 Aug. 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3373.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://lit.lhsmathcs.org/" rel="nofollow"&gt;https://lit.lhsmathcs.org/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 84.79&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/157660"&gt;LIT CTF&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3373</guid><start_date>20260801T150000</start_date><finish_date>20260803T150000</finish_date><logo_url>/media/events/LIT-Logo.png</logo_url><url>https://lit.lhsmathcs.org/</url><ctftime_url>/event/3373</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>84.79</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 157660, "name": "LIT CTF"}]</organizers><ctf_id>646</ctf_id><ctf_name>LIT CTF</ctf_name></item><item><title>SCAN 2026 Online Qualifier</title><link>https://ctftime.org/event/3383</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 19:34:14 -0000</lastBuildDate><item><title>SCAN 2026 Online Qualifier</title><link>https://ctftime.org/event/3383</link><description>
 Name: SCAN 2026 Online Qualifier (an &lt;a href="/ctf/1190"&gt;SCAN Digital Asset Tracing Challenge&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 2, 2026, midnight &amp;mdash; 03 Aug. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3383.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -447,7 +433,7 @@ Event organizers:
 &lt;a href="/team/5084"&gt;Securinets&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3364</guid><start_date>20261003T090000</start_date><finish_date>20261004T210000</finish_date><logo_url></logo_url><url>https://quals.securinets.tn/</url><ctftime_url>/event/3364</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 5084, "name": "Securinets"}]</organizers><ctf_id>105</ctf_id><ctf_name>Securinets CTF</ctf_name></item><item><title>CubeCTF 2026</title><link>https://ctftime.org/event/3352</link><description>
+</description><guid>https://ctftime.org/event/3364</guid><start_date>20261003T090000</start_date><finish_date>20261004T210000</finish_date><logo_url>/media/events/logo_red_copy_1_2.jpg</logo_url><url>https://quals.securinets.tn/</url><ctftime_url>/event/3364</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 5084, "name": "Securinets"}]</organizers><ctf_id>105</ctf_id><ctf_name>Securinets CTF</ctf_name></item><item><title>CubeCTF 2026</title><link>https://ctftime.org/event/3352</link><description>
 Name: CubeCTF 2026 (an &lt;a href="/ctf/1277"&gt;CubeCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 3, 2026, 2 p.m. &amp;mdash; 03 Oct. 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3352.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Attack-Defense&lt;br/&gt;
