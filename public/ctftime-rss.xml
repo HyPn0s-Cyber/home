@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 03 Aug 2026 15:15:32 -0000</lastBuildDate><item><title>Kali Team - CTF 26</title><link>https://ctftime.org/event/3328</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 03 Aug 2026 19:57:35 -0000</lastBuildDate><item><title>Kali Team - CTF 26</title><link>https://ctftime.org/event/3328</link><description>
 Name: Kali Team - CTF 26 (an &lt;a href="/ctf/1622"&gt;Kali Team - CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 5, 2026, 7 a.m. &amp;mdash; 05 Aug. 2026, 19:00 UTC &amp;nbsp;&lt;a href="/event/3328.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
 &lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
 
-Offical URL: &lt;a href="https://register.kali-team.online/" rel="nofollow"&gt;https://register.kali-team.online/&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://kali-team.online/" rel="nofollow"&gt;https://kali-team.online/&lt;/a&gt;&lt;br/&gt;
 Rating weight: 0.00&lt;br/&gt;
 
 Event organizers: 
@@ -13,7 +13,7 @@ Event organizers:
 &lt;a href="/team/387378"&gt;Kali Team&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3328</guid><start_date>20260805T070000</start_date><finish_date>20260805T190000</finish_date><logo_url>/media/events/1ec82fa0-76a8-4693-9acc-fe4cc3c3b91f.png</logo_url><url>https://register.kali-team.online/</url><ctftime_url>/event/3328</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 387378, "name": "Kali Team"}]</organizers><ctf_id>1622</ctf_id><ctf_name>Kali Team - CTF</ctf_name></item><item><title>AEROSPACE VILLAGE STARPWN CTF</title><link>https://ctftime.org/event/3342</link><description>
+</description><guid>https://ctftime.org/event/3328</guid><start_date>20260805T070000</start_date><finish_date>20260805T190000</finish_date><logo_url>/media/events/1ec82fa0-76a8-4693-9acc-fe4cc3c3b91f.png</logo_url><url>https://kali-team.online/</url><ctftime_url>/event/3328</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 387378, "name": "Kali Team"}]</organizers><ctf_id>1622</ctf_id><ctf_name>Kali Team - CTF</ctf_name></item><item><title>AEROSPACE VILLAGE STARPWN CTF</title><link>https://ctftime.org/event/3342</link><description>
 Name: AEROSPACE VILLAGE STARPWN CTF (an &lt;a href="/ctf/1322"&gt;Starpwn CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 6, 2026, 5 p.m. &amp;mdash; 09 Aug. 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3342.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -321,7 +321,21 @@ Event organizers:
 &lt;a href="/team/374041"&gt;CyberXoX&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3346</guid><start_date>20260918T043000</start_date><finish_date>20260918T163000</finish_date><logo_url>/media/events/722217335_18086037686297664_317017320748858629_n.jpg</logo_url><url>https://nullorigin.cyberhx.com/</url><ctftime_url>/event/3346</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3346/</live_feed><restrictions>Open</restrictions><location>On-line</location><onsite>False</onsite><organizers>[{"id": 374041, "name": "CyberXoX"}]</organizers><ctf_id>1633</ctf_id><ctf_name>Null Origin</ctf_name></item><item><title>CSAW CTF Qualification Round 2026</title><link>https://ctftime.org/event/3355</link><description>
+</description><guid>https://ctftime.org/event/3346</guid><start_date>20260918T043000</start_date><finish_date>20260918T163000</finish_date><logo_url>/media/events/722217335_18086037686297664_317017320748858629_n.jpg</logo_url><url>https://nullorigin.cyberhx.com/</url><ctftime_url>/event/3346</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3346/</live_feed><restrictions>Open</restrictions><location>On-line</location><onsite>False</onsite><organizers>[{"id": 374041, "name": "CyberXoX"}]</organizers><ctf_id>1633</ctf_id><ctf_name>Null Origin</ctf_name></item><item><title>DefCamp Capture the Flag (D-CTF) 2026 Quals</title><link>https://ctftime.org/event/3392</link><description>
+Name: DefCamp Capture the Flag (D-CTF) 2026 Quals (an &lt;a href="/ctf/73"&gt;Defcamp CTF Qualification&lt;/a&gt; event.)&lt;br/&gt;
+Date: Sept. 18, 2026, 10 a.m. &amp;mdash; 20 Sept. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3392.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://dctf26-quals.cyber-edu.co/" rel="nofollow"&gt;https://dctf26-quals.cyber-edu.co/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 69.75&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/9831"&gt;CCSIR.org&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3392</guid><start_date>20260918T100000</start_date><finish_date>20260920T100000</finish_date><logo_url>/media/events/2c31f15c30b130055d9133f2390adf6c.jpg</logo_url><url>https://dctf26-quals.cyber-edu.co/</url><ctftime_url>/event/3392</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>69.75</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 9831, "name": "CCSIR.org"}]</organizers><ctf_id>73</ctf_id><ctf_name>Defcamp CTF Qualification</ctf_name></item><item><title>CSAW CTF Qualification Round 2026</title><link>https://ctftime.org/event/3355</link><description>
 Name: CSAW CTF Qualification Round 2026 (an &lt;a href="/ctf/18"&gt;CSAW CTF Qualification Round&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 18, 2026, 4 p.m. &amp;mdash; 20 Sept. 2026, 16:00 UTC &amp;nbsp;&lt;a href="/event/3355.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -412,14 +426,14 @@ Format: Jeopardy&lt;br/&gt;
 &lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
 
 Offical URL: &lt;a href="https://quals.securinets.tn/" rel="nofollow"&gt;https://quals.securinets.tn/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
+Rating weight: 85.12&lt;br/&gt;
 
 Event organizers: 
 
 &lt;a href="/team/5084"&gt;Securinets&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3364</guid><start_date>20261003T090000</start_date><finish_date>20261004T210000</finish_date><logo_url>/media/events/logo_red_copy_1_2.jpg</logo_url><url>https://quals.securinets.tn/</url><ctftime_url>/event/3364</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 5084, "name": "Securinets"}]</organizers><ctf_id>105</ctf_id><ctf_name>Securinets CTF</ctf_name></item><item><title>CubeCTF 2026</title><link>https://ctftime.org/event/3352</link><description>
+</description><guid>https://ctftime.org/event/3364</guid><start_date>20261003T090000</start_date><finish_date>20261004T210000</finish_date><logo_url>/media/events/logo_red_copy_1_2.jpg</logo_url><url>https://quals.securinets.tn/</url><ctftime_url>/event/3364</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>85.12</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 5084, "name": "Securinets"}]</organizers><ctf_id>105</ctf_id><ctf_name>Securinets CTF</ctf_name></item><item><title>CubeCTF 2026</title><link>https://ctftime.org/event/3352</link><description>
 Name: CubeCTF 2026 (an &lt;a href="/ctf/1277"&gt;CubeCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 3, 2026, 2 p.m. &amp;mdash; 03 Oct. 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3352.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Attack-Defense&lt;br/&gt;
