@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 07 Aug 2026 13:39:09 -0000</lastBuildDate><item><title>DEF CON CTF 2026</title><link>https://ctftime.org/event/3322</link><description>
-Name: DEF CON CTF 2026 (an &lt;a href="/ctf/2"&gt;DEF CON CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Aug. 7, 2026, 4 p.m. &amp;mdash; 09 Aug. 2026, 19:00 UTC &amp;nbsp;&lt;a href="/event/3322.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Attack-Defense&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Las%20Vegas%2C%20Nevada%2C%20USA"&gt;Las Vegas, Nevada, USA&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://bbbirds.org/" rel="nofollow"&gt;https://bbbirds.org/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/425757"&gt;Benevolent Bureau of Birds&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3322</guid><start_date>20260807T160000</start_date><finish_date>20260809T190000</finish_date><logo_url></logo_url><url>https://bbbirds.org/</url><ctftime_url>/event/3322</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Las Vegas, Nevada, USA</location><onsite>True</onsite><organizers>[{"id": 425757, "name": "Benevolent Bureau of Birds"}]</organizers><ctf_id>2</ctf_id><ctf_name>DEF CON CTF</ctf_name></item><item><title>scriptCTF 2026</title><link>https://ctftime.org/event/3052</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 07 Aug 2026 19:12:41 -0000</lastBuildDate><item><title>scriptCTF 2026</title><link>https://ctftime.org/event/3052</link><description>
 Name: scriptCTF 2026 (an &lt;a href="/ctf/1318"&gt;scriptCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 8, 2026, midnight &amp;mdash; 10 Aug. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3052.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
