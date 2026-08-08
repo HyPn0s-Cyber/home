@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 07 Aug 2026 19:12:41 -0000</lastBuildDate><item><title>scriptCTF 2026</title><link>https://ctftime.org/event/3052</link><description>
-Name: scriptCTF 2026 (an &lt;a href="/ctf/1318"&gt;scriptCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Aug. 8, 2026, midnight &amp;mdash; 10 Aug. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3052.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.scriptsorcerers.xyz/" rel="nofollow"&gt;https://ctf.scriptsorcerers.xyz/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 24.70&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/284260"&gt;ScriptSorcerers&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3052</guid><start_date>20260808T000000</start_date><finish_date>20260810T000000</finish_date><logo_url>/media/events/final_logo_1.png</logo_url><url>https://ctf.scriptsorcerers.xyz/</url><ctftime_url>/event/3052</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.70</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 284260, "name": "ScriptSorcerers"}]</organizers><ctf_id>1318</ctf_id><ctf_name>scriptCTF</ctf_name></item><item><title>UIUCTF 2026</title><link>https://ctftime.org/event/3148</link><description>
-Name: UIUCTF 2026 (an &lt;a href="/ctf/95"&gt;UIUCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Aug. 8, 2026, midnight &amp;mdash; 10 Aug. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3148.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://uiuc.tf/" rel="nofollow"&gt;https://uiuc.tf/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 69.35&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/27763"&gt;SIGPwny&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3148</guid><start_date>20260808T000000</start_date><finish_date>20260810T000000</finish_date><logo_url></logo_url><url>https://uiuc.tf/</url><ctftime_url>/event/3148</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>69.35</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 27763, "name": "SIGPwny"}]</organizers><ctf_id>95</ctf_id><ctf_name>UIUCTF</ctf_name></item><item><title>The heart of Sysola</title><link>https://ctftime.org/event/3382</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 08 Aug 2026 02:20:13 -0000</lastBuildDate><item><title>The heart of Sysola</title><link>https://ctftime.org/event/3382</link><description>
 Name: The heart of Sysola (an &lt;a href="/ctf/1652"&gt;The heart of sysola&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 8, 2026, 1 p.m. &amp;mdash; 09 Aug. 2026, 01:00 UTC &amp;nbsp;&lt;a href="/event/3382.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
