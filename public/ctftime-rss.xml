@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 12 Aug 2026 19:27:09 -0000</lastBuildDate><item><title>EYCC CTF 2026 Finals</title><link>https://ctftime.org/event/3405</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 13 Aug 2026 02:45:30 -0000</lastBuildDate><item><title>EYCC CTF 2026 Finals</title><link>https://ctftime.org/event/3405</link><description>
 Name: EYCC CTF 2026 Finals (an &lt;a href="/ctf/1637"&gt;EYCC CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 13, 2026, 6 a.m. &amp;mdash; 13 Aug. 2026, 16:00 UTC &amp;nbsp;&lt;a href="/event/3405.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -615,7 +615,21 @@ Event organizers:
 &lt;a href="/team/281844"&gt;H7Tex&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3094</guid><start_date>20261024T063000</start_date><finish_date>20261025T063000</finish_date><logo_url>/media/events/87939ee617d4b7c6287bebf8cd7a620c.jpg</logo_url><url>https://2026.h7tex.com/</url><ctftime_url>/event/3094</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Chennai, Tamil Nadu</location><onsite>True</onsite><organizers>[{"id": 281844, "name": "H7Tex"}]</organizers><ctf_id>1169</ctf_id><ctf_name>H7CTF</ctf_name></item><item><title>Hacker's Gambit 2026 (Round 2 – Grand Finale)</title><link>https://ctftime.org/event/3381</link><description>
+</description><guid>https://ctftime.org/event/3094</guid><start_date>20261024T063000</start_date><finish_date>20261025T063000</finish_date><logo_url>/media/events/87939ee617d4b7c6287bebf8cd7a620c.jpg</logo_url><url>https://2026.h7tex.com/</url><ctftime_url>/event/3094</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Chennai, Tamil Nadu</location><onsite>True</onsite><organizers>[{"id": 281844, "name": "H7Tex"}]</organizers><ctf_id>1169</ctf_id><ctf_name>H7CTF</ctf_name></item><item><title>Sudocrypt v16.0</title><link>https://ctftime.org/event/3404</link><description>
+Name: Sudocrypt v16.0 (an &lt;a href="/ctf/869"&gt;Sudocrypt&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 27, 2026, 3:30 a.m. &amp;mdash; 28 Oct. 2026, 15:30 UTC &amp;nbsp;&lt;a href="/event/3404.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Hack quest&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://sudocrypt.com/" rel="nofollow"&gt;https://sudocrypt.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/83987"&gt;exunclan&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3404</guid><start_date>20261027T033000</start_date><finish_date>20261028T153000</finish_date><logo_url></logo_url><url>https://sudocrypt.com/</url><ctftime_url>/event/3404</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Individual</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 83987, "name": "exunclan"}]</organizers><ctf_id>869</ctf_id><ctf_name>Sudocrypt</ctf_name></item><item><title>Hacker's Gambit 2026 (Round 2 – Grand Finale)</title><link>https://ctftime.org/event/3381</link><description>
 Name: Hacker&amp;#39;s Gambit 2026 (Round 2 – Grand Finale) (an &lt;a href="/ctf/1415"&gt;Hacker&amp;#39;s Gambit&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 30, 2026, 6:30 a.m. &amp;mdash; 31 Oct. 2026, 06:30 UTC &amp;nbsp;&lt;a href="/event/3381.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
