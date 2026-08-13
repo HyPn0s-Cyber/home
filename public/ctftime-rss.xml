@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 13 Aug 2026 02:45:30 -0000</lastBuildDate><item><title>EYCC CTF 2026 Finals</title><link>https://ctftime.org/event/3405</link><description>
-Name: EYCC CTF 2026 Finals (an &lt;a href="/ctf/1637"&gt;EYCC CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Aug. 13, 2026, 6 a.m. &amp;mdash; 13 Aug. 2026, 16:00 UTC &amp;nbsp;&lt;a href="/event/3405.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Egypt"&gt;Egypt&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://eycc.stemeghackclub.org/" rel="nofollow"&gt;https://eycc.stemeghackclub.org/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/402823"&gt;Mont5ab El2hwa&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3405</guid><start_date>20260813T060000</start_date><finish_date>20260813T160000</finish_date><logo_url>/media/events/33.png</logo_url><url>https://eycc.stemeghackclub.org/</url><ctftime_url>/event/3405</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Casual</restrictions><location>Egypt</location><onsite>True</onsite><organizers>[{"id": 402823, "name": "Mont5ab El2hwa"}]</organizers><ctf_id>1637</ctf_id><ctf_name>EYCC CTF</ctf_name></item><item><title>Thryve CTF 2026</title><link>https://ctftime.org/event/3330</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 13 Aug 2026 07:49:51 -0000</lastBuildDate><item><title>Thryve CTF 2026</title><link>https://ctftime.org/event/3330</link><description>
 Name: Thryve CTF 2026 (an &lt;a href="/ctf/1610"&gt;Thryve CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 14, 2026, 11 a.m. &amp;mdash; 14 Aug. 2026, 20:00 UTC &amp;nbsp;&lt;a href="/event/3330.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -145,7 +131,7 @@ Date: Aug. 21, 2026, 4 p.m. &amp;mdash; 23 Aug. 2026, 04:00 UTC &amp;nbsp;&lt;a 
 Format: Jeopardy&lt;br/&gt;
 &lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
 
-Offical URL: &lt;a href="http://ctf.z0d1ak.org/" rel="nofollow"&gt;http://ctf.z0d1ak.org/&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.z0d1ak.org/" rel="nofollow"&gt;https://ctf.z0d1ak.org/&lt;/a&gt;&lt;br/&gt;
 Rating weight: 0.00&lt;br/&gt;
 
 Event organizers: 
@@ -153,7 +139,7 @@ Event organizers:
 &lt;a href="/team/373452"&gt;z0d1ak&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3370</guid><start_date>20260821T160000</start_date><finish_date>20260823T040000</finish_date><logo_url>/media/events/Zodiak_CTF_Logo.png</logo_url><url>http://ctf.z0d1ak.org/</url><ctftime_url>/event/3370</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 373452, "name": "z0d1ak"}]</organizers><ctf_id>1648</ctf_id><ctf_name> z0d1ak CTF </ctf_name></item><item><title>Haruulzangi CTF 2026 Qualifier</title><link>https://ctftime.org/event/3379</link><description>
+</description><guid>https://ctftime.org/event/3370</guid><start_date>20260821T160000</start_date><finish_date>20260823T040000</finish_date><logo_url>/media/events/Zodiak_CTF_Logo.png</logo_url><url>https://ctf.z0d1ak.org/</url><ctftime_url>/event/3370</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 373452, "name": "z0d1ak"}]</organizers><ctf_id>1648</ctf_id><ctf_name> z0d1ak CTF </ctf_name></item><item><title>Haruulzangi CTF 2026 Qualifier</title><link>https://ctftime.org/event/3379</link><description>
 Name: Haruulzangi CTF 2026 Qualifier (an &lt;a href="/ctf/985"&gt;Haruulzangi CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 22, 2026, 1 a.m. &amp;mdash; 23 Aug. 2026, 01:00 UTC &amp;nbsp;&lt;a href="/event/3379.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
