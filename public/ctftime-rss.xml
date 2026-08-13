@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 13 Aug 2026 07:49:51 -0000</lastBuildDate><item><title>Thryve CTF 2026</title><link>https://ctftime.org/event/3330</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 13 Aug 2026 13:48:34 -0000</lastBuildDate><item><title>Thryve CTF 2026</title><link>https://ctftime.org/event/3330</link><description>
 Name: Thryve CTF 2026 (an &lt;a href="/ctf/1610"&gt;Thryve CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 14, 2026, 11 a.m. &amp;mdash; 14 Aug. 2026, 20:00 UTC &amp;nbsp;&lt;a href="/event/3330.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -419,7 +419,21 @@ Event organizers:
 &lt;a href="/team/370140"&gt;0bscuri7y&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3365</guid><start_date>20260919T120000</start_date><finish_date>20260920T120000</finish_date><logo_url>/media/events/logo_112_1.png</logo_url><url>https://ctf.0bscuri7y.in/</url><ctftime_url>/event/3365</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>23.71</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 370140, "name": "0bscuri7y"}]</organizers><ctf_id>1360</ctf_id><ctf_name>07CTF</ctf_name></item><item><title>H7CTF 2026 Quals</title><link>https://ctftime.org/event/3093</link><description>
+</description><guid>https://ctftime.org/event/3365</guid><start_date>20260919T120000</start_date><finish_date>20260920T120000</finish_date><logo_url>/media/events/logo_112_1.png</logo_url><url>https://ctf.0bscuri7y.in/</url><ctftime_url>/event/3365</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>23.71</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 370140, "name": "0bscuri7y"}]</organizers><ctf_id>1360</ctf_id><ctf_name>07CTF</ctf_name></item><item><title>BCS CTF 2026</title><link>https://ctftime.org/event/3374</link><description>
+Name: BCS CTF 2026 (an &lt;a href="/ctf/1653"&gt;BCS CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Sept. 25, 2026, 2 p.m. &amp;mdash; 27 Sept. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3374.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.bcsictfest.com/" rel="nofollow"&gt;https://ctf.bcsictfest.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/193805"&gt;bdhxgrp&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3374</guid><start_date>20260925T140000</start_date><finish_date>20260927T140000</finish_date><logo_url>/media/events/logo_134.png</logo_url><url>https://ctf.bcsictfest.com/</url><ctftime_url>/event/3374</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 193805, "name": "bdhxgrp"}]</organizers><ctf_id>1653</ctf_id><ctf_name>BCS CTF</ctf_name></item><item><title>H7CTF 2026 Quals</title><link>https://ctftime.org/event/3093</link><description>
 Name: H7CTF 2026 Quals (an &lt;a href="/ctf/1169"&gt;H7CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 26, 2026, 3:30 a.m. &amp;mdash; 27 Sept. 2026, 15:30 UTC &amp;nbsp;&lt;a href="/event/3093.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
