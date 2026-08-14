@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 14 Aug 2026 07:49:12 -0000</lastBuildDate><item><title>Thryve CTF 2026</title><link>https://ctftime.org/event/3330</link><description>
-Name: Thryve CTF 2026 (an &lt;a href="/ctf/1610"&gt;Thryve CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Aug. 14, 2026, 11 a.m. &amp;mdash; 14 Aug. 2026, 20:00 UTC &amp;nbsp;&lt;a href="/event/3330.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.thryvectf.org/" rel="nofollow"&gt;https://ctf.thryvectf.org/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/419961"&gt;Thryve&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3330</guid><start_date>20260814T110000</start_date><finish_date>20260814T200000</finish_date><logo_url>/media/events/thryvelogo_4.jpeg</logo_url><url>https://ctf.thryvectf.org/</url><ctftime_url>/event/3330</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 419961, "name": "Thryve"}]</organizers><ctf_id>1610</ctf_id><ctf_name>Thryve CTF</ctf_name></item><item><title>gaslightCTF 2026</title><link>https://ctftime.org/event/3181</link><description>
-Name: gaslightCTF 2026 (an &lt;a href="/ctf/1517"&gt;gaslightCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Aug. 14, 2026, noon &amp;mdash; 17 Aug. 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3181.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://gaslightctf.cooking/" rel="nofollow"&gt;https://gaslightctf.cooking/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/299906"&gt;gaslighting&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3181</guid><start_date>20260814T120000</start_date><finish_date>20260817T120000</finish_date><logo_url>/media/events/icon_9.png</logo_url><url>https://gaslightctf.cooking/</url><ctftime_url>/event/3181</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 299906, "name": "gaslighting"}]</organizers><ctf_id>1517</ctf_id><ctf_name>gaslightCTF</ctf_name></item><item><title>HackHowl 2026</title><link>https://ctftime.org/event/3318</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 14 Aug 2026 13:41:07 -0000</lastBuildDate><item><title>HackHowl 2026</title><link>https://ctftime.org/event/3318</link><description>
 Name: HackHowl 2026 (an &lt;a href="/ctf/1616"&gt;HackHowl&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 15, 2026, midnight &amp;mdash; 17 Aug. 2026, 05:00 UTC &amp;nbsp;&lt;a href="/event/3318.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -69,7 +41,7 @@ Event organizers:
 &lt;a href="/team/438608"&gt;Athena-CTF&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3391</guid><start_date>20260815T033000</start_date><finish_date>20260815T183000</finish_date><logo_url>/media/events/logo_19.jpg</logo_url><url>https://trace.athena-ctf.com/</url><ctftime_url>/event/3391</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Individual</restrictions><location>On-line</location><onsite>False</onsite><organizers>[{"id": 438608, "name": "Athena-CTF"}]</organizers><ctf_id>1670</ctf_id><ctf_name>Trace Athena OSINT CTF</ctf_name></item><item><title>0xV01D CTF 2026 V2</title><link>https://ctftime.org/event/3387</link><description>
+</description><guid>https://ctftime.org/event/3391</guid><start_date>20260815T033000</start_date><finish_date>20260815T183000</finish_date><logo_url>/media/events/logo_19.jpg</logo_url><url>https://trace.athena-ctf.com/</url><ctftime_url>/event/3391</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed>https://ctftime.org/live/3391/</live_feed><restrictions>Individual</restrictions><location>On-line</location><onsite>False</onsite><organizers>[{"id": 438608, "name": "Athena-CTF"}]</organizers><ctf_id>1670</ctf_id><ctf_name>Trace Athena OSINT CTF</ctf_name></item><item><title>0xV01D CTF 2026 V2</title><link>https://ctftime.org/event/3387</link><description>
 Name: 0xV01D CTF 2026 V2 (an &lt;a href="/ctf/1587"&gt;0xV01D CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 15, 2026, 7:30 a.m. &amp;mdash; 16 Aug. 2026, 07:30 UTC &amp;nbsp;&lt;a href="/event/3387.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
