@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 21 Aug 2026 07:05:54 -0000</lastBuildDate><item><title>BrunnerCTF 2026</title><link>https://ctftime.org/event/3065</link><description>
-Name: BrunnerCTF 2026 (an &lt;a href="/ctf/1341"&gt;BrunnerCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Aug. 21, 2026, noon &amp;mdash; 23 Aug. 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3065.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.brunnerne.dk/" rel="nofollow"&gt;https://ctf.brunnerne.dk/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 24.66&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/155032"&gt;SDU&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3065</guid><start_date>20260821T120000</start_date><finish_date>20260823T120000</finish_date><logo_url>/media/events/Logo_-_2-7.png</logo_url><url>https://ctf.brunnerne.dk/</url><ctftime_url>/event/3065</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.66</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 155032, "name": "Brunnerne"}]</organizers><ctf_id>1341</ctf_id><ctf_name>BrunnerCTF</ctf_name></item><item><title>PwnSec CTF 2026 [postponed]</title><link>https://ctftime.org/event/3159</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 21 Aug 2026 13:10:04 -0000</lastBuildDate><item><title>PwnSec CTF 2026 [postponed]</title><link>https://ctftime.org/event/3159</link><description>
 Name: PwnSec CTF 2026 [postponed] (an &lt;a href="/ctf/1150"&gt;PwnSec CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 21, 2026, 2 p.m. &amp;mdash; 22 Aug. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3159.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
