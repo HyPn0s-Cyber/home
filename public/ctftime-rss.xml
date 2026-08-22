@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 22 Aug 2026 06:55:17 -0000</lastBuildDate><item><title>E0F CTF</title><link>https://ctftime.org/event/3400</link><description>
-Name: E0F CTF (an &lt;a href="/ctf/1478"&gt;EOF CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Aug. 22, 2026, 7 a.m. &amp;mdash; 23 Aug. 2026, 07:00 UTC &amp;nbsp;&lt;a href="/event/3400.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.e0f.team/" rel="nofollow"&gt;https://ctf.e0f.team/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/418959"&gt;Group 0x1A&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3400</guid><start_date>20260822T070000</start_date><finish_date>20260823T070000</finish_date><logo_url>/media/events/eofctff.png</logo_url><url>https://ctf.e0f.team/</url><ctftime_url>/event/3400</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 418959, "name": "Group 0x1A"}]</organizers><ctf_id>1478</ctf_id><ctf_name>EOF CTF</ctf_name></item><item><title>TallDwarf Hosting: Hosting Takeover</title><link>https://ctftime.org/event/3394</link><description>
-Name: TallDwarf Hosting: Hosting Takeover (an &lt;a href="/ctf/1664"&gt;TallDwarf Hosting CTF: Hostile Takeover&lt;/a&gt; event.)&lt;br/&gt;
-Date: Aug. 22, 2026, 8 a.m. &amp;mdash; 23 Aug. 2026, 20:00 UTC &amp;nbsp;&lt;a href="/event/3394.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.talldwarfhosting.com/" rel="nofollow"&gt;https://ctf.talldwarfhosting.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/443103"&gt;TallDwarf Hosting&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3394</guid><start_date>20260822T080000</start_date><finish_date>20260823T200000</finish_date><logo_url>/media/events/logo_135.png</logo_url><url>https://ctf.talldwarfhosting.com/</url><ctftime_url>/event/3394</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 443103, "name": "TallDwarf Hosting"}]</organizers><ctf_id>1664</ctf_id><ctf_name>TallDwarf Hosting CTF: Hostile Takeover</ctf_name></item><item><title>PECAN+ CTF 2026</title><link>https://ctftime.org/event/3411</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 22 Aug 2026 13:01:14 -0000</lastBuildDate><item><title>PECAN+ CTF 2026</title><link>https://ctftime.org/event/3411</link><description>
 Name: PECAN+ CTF 2026 (an &lt;a href="/ctf/973"&gt;PECAN+ CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 23, 2026, 1 a.m. &amp;mdash; 23 Aug. 2026, 05:00 UTC &amp;nbsp;&lt;a href="/event/3411.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -47,7 +19,7 @@ Date: Aug. 29, 2026, midnight &amp;mdash; 30 Aug. 2026, 00:00 UTC &amp;nbsp;&lt;
 Format: Jeopardy&lt;br/&gt;
 &lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
 
-Offical URL: &lt;a href="https://compfest.id/" rel="nofollow"&gt;https://compfest.id/&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://mirror-ctf.compfest.id/" rel="nofollow"&gt;https://mirror-ctf.compfest.id/&lt;/a&gt;&lt;br/&gt;
 Rating weight: 96.00&lt;br/&gt;
 
 Event organizers: 
@@ -55,7 +27,7 @@ Event organizers:
 &lt;a href="/team/70551"&gt;CSUI&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3290</guid><start_date>20260829T000000</start_date><finish_date>20260830T000000</finish_date><logo_url></logo_url><url>https://compfest.id/</url><ctftime_url>/event/3290</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>96.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 70551, "name": "CSUI"}]</organizers><ctf_id>502</ctf_id><ctf_name>COMPFEST CTF</ctf_name></item><item><title>BlackHat MEA CTF Qualification 2026</title><link>https://ctftime.org/event/3385</link><description>
+</description><guid>https://ctftime.org/event/3290</guid><start_date>20260829T000000</start_date><finish_date>20260830T000000</finish_date><logo_url></logo_url><url>https://mirror-ctf.compfest.id/</url><ctftime_url>/event/3290</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>96.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 70551, "name": "CSUI"}]</organizers><ctf_id>502</ctf_id><ctf_name>COMPFEST CTF</ctf_name></item><item><title>BlackHat MEA CTF Qualification 2026</title><link>https://ctftime.org/event/3385</link><description>
 Name: BlackHat MEA CTF Qualification 2026 (an &lt;a href="/ctf/826"&gt;Blackhat MEA CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 29, 2026, 7 a.m. &amp;mdash; 30 Aug. 2026, 07:00 UTC &amp;nbsp;&lt;a href="/event/3385.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
