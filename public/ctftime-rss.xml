@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 21 Aug 2026 18:56:05 -0000</lastBuildDate><item><title>Haruulzangi CTF 2026 Qualifier</title><link>https://ctftime.org/event/3379</link><description>
-Name: Haruulzangi CTF 2026 Qualifier (an &lt;a href="/ctf/985"&gt;Haruulzangi CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Aug. 22, 2026, 1 a.m. &amp;mdash; 23 Aug. 2026, 01:00 UTC &amp;nbsp;&lt;a href="/event/3379.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://2026.haruulzangi.mn/" rel="nofollow"&gt;https://2026.haruulzangi.mn/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/266812"&gt;haruulzangi-organizers&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3379</guid><start_date>20260822T010000</start_date><finish_date>20260823T010000</finish_date><logo_url>/media/events/haruul_zangi_logo_updated_2.png</logo_url><url>https://2026.haruulzangi.mn/</url><ctftime_url>/event/3379</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 266812, "name": "haruulzangi-organizers"}]</organizers><ctf_id>985</ctf_id><ctf_name>Haruulzangi CTF</ctf_name></item><item><title>$N1PH€RS 3.0 CTF</title><link>https://ctftime.org/event/3397</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 22 Aug 2026 01:50:06 -0000</lastBuildDate><item><title>$N1PH€RS 3.0 CTF</title><link>https://ctftime.org/event/3397</link><description>
 Name: $N1PH€RS 3.0 CTF (an &lt;a href="/ctf/1668"&gt;$N1PH€RS CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 22, 2026, 3:15 a.m. &amp;mdash; 22 Aug. 2026, 11:15 UTC &amp;nbsp;&lt;a href="/event/3397.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
