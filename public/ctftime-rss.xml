@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 23 Aug 2026 06:58:07 -0000</lastBuildDate><item><title>COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)</title><link>https://ctftime.org/event/3290</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 23 Aug 2026 13:00:21 -0000</lastBuildDate><item><title>COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)</title><link>https://ctftime.org/event/3290</link><description>
 Name: COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION) (an &lt;a href="/ctf/502"&gt;COMPFEST CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 29, 2026, midnight &amp;mdash; 30 Aug. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3290.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -69,7 +69,21 @@ Event organizers:
 &lt;a href="/team/4140"&gt;ASIS&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3413</guid><start_date>20260829T140000</start_date><finish_date>20260830T140000</finish_date><logo_url>/media/events/irantech.jpg</logo_url><url>https://ctf.olympics.tech/</url><ctftime_url>/event/3413</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed>https://ctftime.org/live/3413/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 4140, "name": "ASIS"}]</organizers><ctf_id>1314</ctf_id><ctf_name>Iran Tech Olympics CTF</ctf_name></item><item><title>NNS CTF 2026</title><link>https://ctftime.org/event/3097</link><description>
+</description><guid>https://ctftime.org/event/3413</guid><start_date>20260829T140000</start_date><finish_date>20260830T140000</finish_date><logo_url>/media/events/irantech.jpg</logo_url><url>https://ctf.olympics.tech/</url><ctftime_url>/event/3413</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed>https://ctftime.org/live/3413/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 4140, "name": "ASIS"}]</organizers><ctf_id>1314</ctf_id><ctf_name>Iran Tech Olympics CTF</ctf_name></item><item><title>DiceCTF 2026 Finals</title><link>https://ctftime.org/event/3416</link><description>
+Name: DiceCTF 2026 Finals (an &lt;a href="/ctf/568"&gt;DiceCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Aug. 29, 2026, 4 p.m. &amp;mdash; 30 Aug. 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3416.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Hack quest&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=New%20York%20City%2C%20USA"&gt;New York City, USA&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.dicega.ng/" rel="nofollow"&gt;https://ctf.dicega.ng/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/109452"&gt;DiceGang&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3416</guid><start_date>20260829T160000</start_date><finish_date>20260830T220000</finish_date><logo_url>/media/events/dice.jpg</logo_url><url>https://ctf.dicega.ng/</url><ctftime_url>/event/3416</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>New York City, USA</location><onsite>True</onsite><organizers>[{"id": 109452, "name": "DiceGang"}]</organizers><ctf_id>568</ctf_id><ctf_name>DiceCTF</ctf_name></item><item><title>NNS CTF 2026</title><link>https://ctftime.org/event/3097</link><description>
 Name: NNS CTF 2026 (an &lt;a href="/ctf/1256"&gt;NNS CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 4, 2026, 4 p.m. &amp;mdash; 06 Sept. 2026, 16:00 UTC &amp;nbsp;&lt;a href="/event/3097.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -321,7 +335,21 @@ Event organizers:
 &lt;a href="/team/231536"&gt;UWSP Pointers&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3020</guid><start_date>20260927T140000</start_date><finish_date>20261206T140000</finish_date><logo_url>/media/events/logo-mini.png</logo_url><url>https://pointeroverflowctf.com/</url><ctftime_url>/event/3020</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 231536, "name": "UWSP Pointers"}]</organizers><ctf_id>963</ctf_id><ctf_name>Pointer Overflow CTF</ctf_name></item><item><title>Hacker's Gambit 2026 (Round 1 – Online Qualifier)</title><link>https://ctftime.org/event/3380</link><description>
+</description><guid>https://ctftime.org/event/3020</guid><start_date>20260927T140000</start_date><finish_date>20261206T140000</finish_date><logo_url>/media/events/logo-mini.png</logo_url><url>https://pointeroverflowctf.com/</url><ctftime_url>/event/3020</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 231536, "name": "UWSP Pointers"}]</organizers><ctf_id>963</ctf_id><ctf_name>Pointer Overflow CTF</ctf_name></item><item><title>SCAN 2026 Final</title><link>https://ctftime.org/event/3417</link><description>
+Name: SCAN 2026 Final (an &lt;a href="/ctf/1190"&gt;SCAN Digital Asset Tracing Challenge&lt;/a&gt; event.)&lt;br/&gt;
+Date: Sept. 28, 2026, 1 a.m. &amp;mdash; 28 Sept. 2026, 08:00 UTC &amp;nbsp;&lt;a href="/event/3417.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Seoul%2C%20Korea"&gt;Seoul, Korea&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://scan.sx/" rel="nofollow"&gt;https://scan.sx/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/310109"&gt;D Asset Inc.&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3417</guid><start_date>20260928T010000</start_date><finish_date>20260928T080000</finish_date><logo_url>/media/events/32x32_icon_1.png</logo_url><url>https://scan.sx/</url><ctftime_url>/event/3417</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Seoul, Korea</location><onsite>True</onsite><organizers>[{"id": 310109, "name": "D Asset Inc."}]</organizers><ctf_id>1190</ctf_id><ctf_name>SCAN Digital Asset Tracing Challenge</ctf_name></item><item><title>Hacker's Gambit 2026 (Round 1 – Online Qualifier)</title><link>https://ctftime.org/event/3380</link><description>
 Name: Hacker&amp;#39;s Gambit 2026 (Round 1 – Online Qualifier) (an &lt;a href="/ctf/1415"&gt;Hacker&amp;#39;s Gambit&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 2, 2026, 6:30 a.m. &amp;mdash; 04 Oct. 2026, 06:30 UTC &amp;nbsp;&lt;a href="/event/3380.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
