@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 24 Aug 2026 13:13:31 -0000</lastBuildDate><item><title>COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)</title><link>https://ctftime.org/event/3290</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 24 Aug 2026 18:57:51 -0000</lastBuildDate><item><title>COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)</title><link>https://ctftime.org/event/3290</link><description>
 Name: COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION) (an &lt;a href="/ctf/502"&gt;COMPFEST CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 29, 2026, midnight &amp;mdash; 30 Aug. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3290.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -517,7 +517,21 @@ Event organizers:
 &lt;a href="/team/405374"&gt;JCOE Cyber Sentinels&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3381</guid><start_date>20261030T063000</start_date><finish_date>20261031T063000</finish_date><logo_url>/media/events/tanmay_2.png</logo_url><url>https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293</url><ctftime_url>/event/3381</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Jaihind College of Engineering,At Post Kuran, Taluka Junnar, Pune - 410511, Maharashtra, India  (19°09'47.2"N 73°54'52.2"E)</location><onsite>True</onsite><organizers>[{"id": 405374, "name": "JCOE Cyber Sentinels"}]</organizers><ctf_id>1415</ctf_id><ctf_name>Hacker's Gambit</ctf_name></item><item><title>PINK+ CTF 2026</title><link>https://ctftime.org/event/3331</link><description>
+</description><guid>https://ctftime.org/event/3381</guid><start_date>20261030T063000</start_date><finish_date>20261031T063000</finish_date><logo_url>/media/events/tanmay_2.png</logo_url><url>https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293</url><ctftime_url>/event/3381</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Jaihind College of Engineering,At Post Kuran, Taluka Junnar, Pune - 410511, Maharashtra, India  (19°09'47.2"N 73°54'52.2"E)</location><onsite>True</onsite><organizers>[{"id": 405374, "name": "JCOE Cyber Sentinels"}]</organizers><ctf_id>1415</ctf_id><ctf_name>Hacker's Gambit</ctf_name></item><item><title>HKCERT CTF 2026 (Qualifying Round)</title><link>https://ctftime.org/event/3418</link><description>
+Name: HKCERT CTF 2026 (Qualifying Round) (an &lt;a href="/ctf/529"&gt;HKCERT CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 6, 2026, 10 a.m. &amp;mdash; 07 Nov. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3418.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.hkcert.org/" rel="nofollow"&gt;https://ctf.hkcert.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 10.31&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/134746"&gt;HKCERT&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3418</guid><start_date>20261106T100000</start_date><finish_date>20261107T100000</finish_date><logo_url>/media/events/CTF_2026_1.png</logo_url><url>https://ctf.hkcert.org/</url><ctftime_url>/event/3418</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>10.31</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 134746, "name": "HKCERT"}]</organizers><ctf_id>529</ctf_id><ctf_name>HKCERT CTF</ctf_name></item><item><title>PINK+ CTF 2026</title><link>https://ctftime.org/event/3331</link><description>
 Name: PINK+ CTF 2026 (an &lt;a href="/ctf/1624"&gt;PINK+ CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 6, 2026, noon &amp;mdash; 09 Nov. 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3331.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -629,7 +643,21 @@ Event organizers:
 &lt;a href="/team/442848"&gt;Seize da Flaq&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3408</guid><start_date>20261121T063000</start_date><finish_date>20261122T023000</finish_date><logo_url>/media/events/SDF_1.jpeg</logo_url><url>https://seizedaflaq.cyberonites.com/</url><ctftime_url>/event/3408</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Casual</restrictions><location>Mathura, Uttar Pradesh, India</location><onsite>True</onsite><organizers>[{"id": 442848, "name": "Seize da Flaq"}]</organizers><ctf_id>1657</ctf_id><ctf_name>Seize da Flaq</ctf_name></item><item><title>BlackHat MEA CTF Final 2026</title><link>https://ctftime.org/event/3386</link><description>
+</description><guid>https://ctftime.org/event/3408</guid><start_date>20261121T063000</start_date><finish_date>20261122T023000</finish_date><logo_url>/media/events/SDF_1.jpeg</logo_url><url>https://seizedaflaq.cyberonites.com/</url><ctftime_url>/event/3408</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Casual</restrictions><location>Mathura, Uttar Pradesh, India</location><onsite>True</onsite><organizers>[{"id": 442848, "name": "Seize da Flaq"}]</organizers><ctf_id>1657</ctf_id><ctf_name>Seize da Flaq</ctf_name></item><item><title>Crate-CTF 2026</title><link>https://ctftime.org/event/3336</link><description>
+Name: Crate-CTF 2026 (an &lt;a href="/ctf/1172"&gt;Crate-CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 21, 2026, 1 p.m. &amp;mdash; 21 Nov. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3336.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://foi.se/cratectf" rel="nofollow"&gt;https://foi.se/cratectf&lt;/a&gt;&lt;br/&gt;
+Rating weight: 37.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/352250"&gt;Crate-CTF&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3336</guid><start_date>20261121T130000</start_date><finish_date>20261121T210000</finish_date><logo_url>/media/events/CTF_2026.png</logo_url><url>https://foi.se/cratectf</url><ctftime_url>/event/3336</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>37.00</weight><live_feed>https://ctftime.org/live/3336/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 352250, "name": "Crate-CTF"}]</organizers><ctf_id>1172</ctf_id><ctf_name>Crate-CTF</ctf_name></item><item><title>BlackHat MEA CTF Final 2026</title><link>https://ctftime.org/event/3386</link><description>
 Name: BlackHat MEA CTF Final 2026 (an &lt;a href="/ctf/826"&gt;Blackhat MEA CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Dec. 1, 2026, 3:14 p.m. &amp;mdash; 03 Dec. 2026, 15:14 UTC &amp;nbsp;&lt;a href="/event/3386.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
