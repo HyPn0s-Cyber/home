@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 26 Aug 2026 13:15:38 -0000</lastBuildDate><item><title>COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)</title><link>https://ctftime.org/event/3290</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 26 Aug 2026 20:01:02 -0000</lastBuildDate><item><title>COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)</title><link>https://ctftime.org/event/3290</link><description>
 Name: COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION) (an &lt;a href="/ctf/502"&gt;COMPFEST CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 29, 2026, midnight &amp;mdash; 30 Aug. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3290.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -369,7 +369,7 @@ Date: Oct. 3, 2026, 9 a.m. &amp;mdash; 04 Oct. 2026, 21:00 UTC &amp;nbsp;&lt;a h
 Format: Jeopardy&lt;br/&gt;
 &lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
 
-Offical URL: &lt;a href="https://quals.securinets.tn/" rel="nofollow"&gt;https://quals.securinets.tn/&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.securinets.tn/" rel="nofollow"&gt;https://ctf.securinets.tn/&lt;/a&gt;&lt;br/&gt;
 Rating weight: 85.12&lt;br/&gt;
 
 Event organizers: 
@@ -377,7 +377,7 @@ Event organizers:
 &lt;a href="/team/5084"&gt;Securinets&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3364</guid><start_date>20261003T090000</start_date><finish_date>20261004T210000</finish_date><logo_url>/media/events/logo_red_copy_1_2.jpg</logo_url><url>https://quals.securinets.tn/</url><ctftime_url>/event/3364</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>85.12</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 5084, "name": "Securinets"}]</organizers><ctf_id>105</ctf_id><ctf_name>Securinets CTF</ctf_name></item><item><title>CubeCTF 2026</title><link>https://ctftime.org/event/3352</link><description>
+</description><guid>https://ctftime.org/event/3364</guid><start_date>20261003T090000</start_date><finish_date>20261004T210000</finish_date><logo_url>/media/events/logo_red_copy_1_2.jpg</logo_url><url>https://ctf.securinets.tn/</url><ctftime_url>/event/3364</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>85.12</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 5084, "name": "Securinets"}]</organizers><ctf_id>105</ctf_id><ctf_name>Securinets CTF</ctf_name></item><item><title>CubeCTF 2026</title><link>https://ctftime.org/event/3352</link><description>
 Name: CubeCTF 2026 (an &lt;a href="/ctf/1277"&gt;CubeCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 3, 2026, 2 p.m. &amp;mdash; 03 Oct. 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3352.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Attack-Defense&lt;br/&gt;
@@ -601,7 +601,21 @@ Event organizers:
 &lt;a href="/team/83621"&gt;w01verines&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3049</guid><start_date>20261113T230000</start_date><finish_date>20261115T230000</finish_date><logo_url>/media/events/wolverine-logo-square1_1.jpg</logo_url><url>https://wolvctf.io/</url><ctftime_url>/event/3049</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3049/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 83621, "name": "wolvsec"}]</organizers><ctf_id>766</ctf_id><ctf_name>WolvCTF</ctf_name></item><item><title>GlacierCTF 2026</title><link>https://ctftime.org/event/3337</link><description>
+</description><guid>https://ctftime.org/event/3049</guid><start_date>20261113T230000</start_date><finish_date>20261115T230000</finish_date><logo_url>/media/events/wolverine-logo-square1_1.jpg</logo_url><url>https://wolvctf.io/</url><ctftime_url>/event/3049</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3049/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 83621, "name": "wolvsec"}]</organizers><ctf_id>766</ctf_id><ctf_name>WolvCTF</ctf_name></item><item><title>EyesOpenCTF 7th edition</title><link>https://ctftime.org/event/3419</link><description>
+Name: EyesOpenCTF 7th edition (an &lt;a href="/ctf/847"&gt;EyesOpenCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 20, 2026, 10 a.m. &amp;mdash; 22 Nov. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3419.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://eyesopensecurity.com/ctf-briefing.html" rel="nofollow"&gt;https://eyesopensecurity.com/ctf-briefing.html&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/200580"&gt;EyesOpen_Security&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3419</guid><start_date>20261120T100000</start_date><finish_date>20261122T100000</finish_date><logo_url>/media/events/Template_Speaker_-_2026_4.png</logo_url><url>https://eyesopensecurity.com/ctf-briefing.html</url><ctftime_url>/event/3419</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 200580, "name": "EyesOpen_Security"}]</organizers><ctf_id>847</ctf_id><ctf_name>EyesOpenCTF</ctf_name></item><item><title>GlacierCTF 2026</title><link>https://ctftime.org/event/3337</link><description>
 Name: GlacierCTF 2026 (an &lt;a href="/ctf/863"&gt;Glacier CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 20, 2026, 6 p.m. &amp;mdash; 21 Nov. 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3337.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
