@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 28 Aug 2026 11:23:20 -0000</lastBuildDate><item><title>COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)</title><link>https://ctftime.org/event/3290</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 28 Aug 2026 22:18:00 -0000</lastBuildDate><item><title>COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)</title><link>https://ctftime.org/event/3290</link><description>
 Name: COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION) (an &lt;a href="/ctf/502"&gt;COMPFEST CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 29, 2026, midnight &amp;mdash; 30 Aug. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3290.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -139,7 +139,7 @@ Event organizers:
 &lt;a href="/team/17058"&gt;K17&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3145</guid><start_date>20260911T100000</start_date><finish_date>20260913T100000</finish_date><logo_url>/media/events/20848837627a0ae11a820f3c9ed4fabc.png</logo_url><url>https://k17ctf.secso.cc/</url><ctftime_url>/event/3145</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.83</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 17058, "name": "K17"}]</organizers><ctf_id>1385</ctf_id><ctf_name>K17 CTF</ctf_name></item><item><title>CAT CTF 26</title><link>https://ctftime.org/event/3360</link><description>
+</description><guid>https://ctftime.org/event/3145</guid><start_date>20260911T100000</start_date><finish_date>20260913T100000</finish_date><logo_url>/media/events/k17_logo_draft_square.png</logo_url><url>https://k17ctf.secso.cc/</url><ctftime_url>/event/3145</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.83</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 17058, "name": "K17"}]</organizers><ctf_id>1385</ctf_id><ctf_name>K17 CTF</ctf_name></item><item><title>CAT CTF 26</title><link>https://ctftime.org/event/3360</link><description>
 Name: CAT CTF 26 (an &lt;a href="/ctf/1400"&gt;CAT Reloaded CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 11, 2026, noon &amp;mdash; 12 Sept. 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3360.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -153,21 +153,7 @@ Event organizers:
 &lt;a href="/team/132776"&gt;0xL4ugh&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3360</guid><start_date>20260911T120000</start_date><finish_date>20260912T120000</finish_date><logo_url>/media/events/0e9402efa19b3a103472f4f94b47f442_1_1.png</logo_url><url>https://ctf.catreloaded.org/</url><ctftime_url>/event/3360</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 132776, "name": "0xL4ugh"}]</organizers><ctf_id>1400</ctf_id><ctf_name>CAT Reloaded CTF</ctf_name></item><item><title>PatriotCTF 2026</title><link>https://ctftime.org/event/3348</link><description>
-Name: PatriotCTF 2026 (an &lt;a href="/ctf/737"&gt;PatriotCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Sept. 11, 2026, 10 p.m. &amp;mdash; 13 Sept. 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3348.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://pctf.competitivecyber.club/" rel="nofollow"&gt;https://pctf.competitivecyber.club/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 35.46&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/176906"&gt;Competitive Cyber at Mason&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3348</guid><start_date>20260911T220000</start_date><finish_date>20260913T220000</finish_date><logo_url>/media/events/5d71368cd0e4a92f2fa3d4df8662ae48.jpg</logo_url><url>https://pctf.competitivecyber.club/</url><ctftime_url>/event/3348</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>35.46</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 176906, "name": "Competitive Cyber at Mason"}]</organizers><ctf_id>737</ctf_id><ctf_name>PatriotCTF</ctf_name></item><item><title>VolgaCTF 2026 Final</title><link>https://ctftime.org/event/3265</link><description>
+</description><guid>https://ctftime.org/event/3360</guid><start_date>20260911T120000</start_date><finish_date>20260912T120000</finish_date><logo_url>/media/events/0e9402efa19b3a103472f4f94b47f442_1_1.png</logo_url><url>https://ctf.catreloaded.org/</url><ctftime_url>/event/3360</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 132776, "name": "0xL4ugh"}]</organizers><ctf_id>1400</ctf_id><ctf_name>CAT Reloaded CTF</ctf_name></item><item><title>VolgaCTF 2026 Final</title><link>https://ctftime.org/event/3265</link><description>
 Name: VolgaCTF 2026 Final (an &lt;a href="/ctf/53"&gt;VolgaCTF Final&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 17, 2026, 5 a.m. &amp;mdash; 17 Sept. 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3265.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Attack-Defense&lt;br/&gt;
@@ -307,7 +293,7 @@ Event organizers:
 &lt;a href="/team/550"&gt;FAUST&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3312</guid><start_date>20260926T120000</start_date><finish_date>20260926T210000</finish_date><logo_url></logo_url><url>https://2026.faustctf.net/</url><ctftime_url>/event/3312</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>72.29</weight><live_feed>https://ctftime.org/live/3312/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 550, "name": "FAUST"}]</organizers><ctf_id>117</ctf_id><ctf_name>FAUST CTF</ctf_name></item><item><title>SunshineCTF 2026</title><link>https://ctftime.org/event/3399</link><description>
+</description><guid>https://ctftime.org/event/3312</guid><start_date>20260926T120000</start_date><finish_date>20260926T210000</finish_date><logo_url>/media/events/faustctf2026.png</logo_url><url>https://2026.faustctf.net/</url><ctftime_url>/event/3312</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>72.29</weight><live_feed>https://ctftime.org/live/3312/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 550, "name": "FAUST"}]</organizers><ctf_id>117</ctf_id><ctf_name>FAUST CTF</ctf_name></item><item><title>SunshineCTF 2026</title><link>https://ctftime.org/event/3399</link><description>
 Name: SunshineCTF 2026 (an &lt;a href="/ctf/137"&gt;SunshineCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 26, 2026, 2 p.m. &amp;mdash; 28 Sept. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3399.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
