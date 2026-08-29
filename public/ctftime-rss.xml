@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 28 Aug 2026 22:18:00 -0000</lastBuildDate><item><title>COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)</title><link>https://ctftime.org/event/3290</link><description>
-Name: COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION) (an &lt;a href="/ctf/502"&gt;COMPFEST CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Aug. 29, 2026, midnight &amp;mdash; 30 Aug. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3290.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://mirror-ctf.compfest.id/" rel="nofollow"&gt;https://mirror-ctf.compfest.id/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 96.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/70551"&gt;CSUI&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3290</guid><start_date>20260829T000000</start_date><finish_date>20260830T000000</finish_date><logo_url></logo_url><url>https://mirror-ctf.compfest.id/</url><ctftime_url>/event/3290</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>96.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 70551, "name": "CSUI"}]</organizers><ctf_id>502</ctf_id><ctf_name>COMPFEST CTF</ctf_name></item><item><title>BlackHat MEA CTF Qualification 2026</title><link>https://ctftime.org/event/3385</link><description>
-Name: BlackHat MEA CTF Qualification 2026 (an &lt;a href="/ctf/826"&gt;Blackhat MEA CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Aug. 29, 2026, 7 a.m. &amp;mdash; 30 Aug. 2026, 07:00 UTC &amp;nbsp;&lt;a href="/event/3385.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://blackhatmea.com/capture-the-flag" rel="nofollow"&gt;https://blackhatmea.com/capture-the-flag&lt;/a&gt;&lt;br/&gt;
-Rating weight: 8.10&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/54707"&gt;SAFCSP&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3385</guid><start_date>20260829T070000</start_date><finish_date>20260830T070000</finish_date><logo_url>/media/events/9f419586e0dedbff0130e6f487ddc54c.png</logo_url><url>https://blackhatmea.com/capture-the-flag</url><ctftime_url>/event/3385</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>8.10</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 54707, "name": "SAFCSP"}]</organizers><ctf_id>826</ctf_id><ctf_name>Blackhat MEA CTF</ctf_name></item><item><title>ASIS CTF Quals 2026</title><link>https://ctftime.org/event/3033</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 29 Aug 2026 07:04:40 -0000</lastBuildDate><item><title>ASIS CTF Quals 2026</title><link>https://ctftime.org/event/3033</link><description>
 Name: ASIS CTF Quals 2026 (an &lt;a href="/ctf/55"&gt;ASIS CTF Quals &lt;/a&gt; event.)&lt;br/&gt;
 Date: Aug. 29, 2026, 2 p.m. &amp;mdash; 30 Aug. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3033.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
