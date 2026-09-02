@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 21:00:39 -0000</lastBuildDate><item><title>NNS CTF 2026</title><link>https://ctftime.org/event/3097</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 02 Sep 2026 04:36:41 -0000</lastBuildDate><item><title>NNS CTF 2026</title><link>https://ctftime.org/event/3097</link><description>
 Name: NNS CTF 2026 (an &lt;a href="/ctf/1256"&gt;NNS CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 4, 2026, 4 p.m. &amp;mdash; 06 Sept. 2026, 16:00 UTC &amp;nbsp;&lt;a href="/event/3097.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -313,7 +313,7 @@ Date: Oct. 3, 2026, 3 p.m. &amp;mdash; 04 Oct. 2026, 03:00 UTC &amp;nbsp;&lt;a h
 Format: Jeopardy&lt;br/&gt;
 &lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
 
-Offical URL: &lt;a href="https://uacrimsondefense.github.io/cdctf.html" rel="nofollow"&gt;https://uacrimsondefense.github.io/cdctf.html&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://crimsondefense.org/cdctf/" rel="nofollow"&gt;https://crimsondefense.org/cdctf/&lt;/a&gt;&lt;br/&gt;
 Rating weight: 25.00&lt;br/&gt;
 
 Event organizers: 
@@ -321,7 +321,7 @@ Event organizers:
 &lt;a href="/team/65283"&gt;Crimson Defense&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3293</guid><start_date>20261003T150000</start_date><finish_date>20261004T030000</finish_date><logo_url>/media/events/cdctf_logo_square_1.png</logo_url><url>https://uacrimsondefense.github.io/cdctf.html</url><ctftime_url>/event/3293</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 65283, "name": "Crimson Defense"}]</organizers><ctf_id>1363</ctf_id><ctf_name>CDCTF</ctf_name></item><item><title>GaianSpace CTF 2026</title><link>https://ctftime.org/event/3354</link><description>
+</description><guid>https://ctftime.org/event/3293</guid><start_date>20261003T150000</start_date><finish_date>20261004T030000</finish_date><logo_url>/media/events/cdctf_logo_square_1.png</logo_url><url>https://crimsondefense.org/cdctf/</url><ctftime_url>/event/3293</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 65283, "name": "Crimson Defense"}]</organizers><ctf_id>1363</ctf_id><ctf_name>CDCTF</ctf_name></item><item><title>GaianSpace CTF 2026</title><link>https://ctftime.org/event/3354</link><description>
 Name: GaianSpace CTF 2026 (an &lt;a href="/ctf/1284"&gt;GaianSpace CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 10, 2026, 9 p.m. &amp;mdash; 14 Oct. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3354.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
