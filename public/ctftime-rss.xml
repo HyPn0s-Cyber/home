@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 05 Sep 2026 20:22:42 -0000</lastBuildDate><item><title>SUNCTF 2026</title><link>https://ctftime.org/event/3389</link><description>
-Name: SUNCTF 2026 (an &lt;a href="/ctf/1645"&gt;SUN CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Sept. 6, 2026, midnight &amp;mdash; 06 Sept. 2026, 09:00 UTC &amp;nbsp;&lt;a href="/event/3389.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Malaysia%2C%20Subang%20Jaya"&gt;Malaysia, Subang Jaya&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://www.sunwaycybersecurityclub.org/sunctf" rel="nofollow"&gt;https://www.sunwaycybersecurityclub.org/sunctf&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/441392"&gt;Sunway Cybersecurity Club&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3389</guid><start_date>20260906T000000</start_date><finish_date>20260906T090000</finish_date><logo_url>/media/events/sunctfposter.jpg</logo_url><url>https://www.sunwaycybersecurityclub.org/sunctf</url><ctftime_url>/event/3389</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Malaysia, Subang Jaya</location><onsite>True</onsite><organizers>[{"id": 441392, "name": "Sunway Cybersecurity Club"}]</organizers><ctf_id>1645</ctf_id><ctf_name>SUN CTF</ctf_name></item><item><title>K17 CTF 2026</title><link>https://ctftime.org/event/3145</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 06 Sep 2026 04:37:09 -0000</lastBuildDate><item><title>K17 CTF 2026</title><link>https://ctftime.org/event/3145</link><description>
 Name: K17 CTF 2026 (an &lt;a href="/ctf/1385"&gt;K17 CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 11, 2026, 10 a.m. &amp;mdash; 13 Sept. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3145.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
