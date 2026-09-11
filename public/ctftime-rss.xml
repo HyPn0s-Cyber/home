@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Sep 2026 11:20:08 -0000</lastBuildDate><item><title>CAT CTF 26</title><link>https://ctftime.org/event/3360</link><description>
-Name: CAT CTF 26 (an &lt;a href="/ctf/1400"&gt;CAT Reloaded CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Sept. 11, 2026, noon &amp;mdash; 12 Sept. 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3360.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.catreloaded.org/" rel="nofollow"&gt;https://ctf.catreloaded.org/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/132776"&gt;0xL4ugh&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3360</guid><start_date>20260911T120000</start_date><finish_date>20260912T120000</finish_date><logo_url>/media/events/0e9402efa19b3a103472f4f94b47f442_1_1.png</logo_url><url>https://ctf.catreloaded.org/</url><ctftime_url>/event/3360</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 132776, "name": "0xL4ugh"}]</organizers><ctf_id>1400</ctf_id><ctf_name>CAT Reloaded CTF</ctf_name></item><item><title>PwnSec CTF 2026</title><link>https://ctftime.org/event/3159</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Sep 2026 16:26:17 -0000</lastBuildDate><item><title>PwnSec CTF 2026</title><link>https://ctftime.org/event/3159</link><description>
 Name: PwnSec CTF 2026 (an &lt;a href="/ctf/1150"&gt;PwnSec CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 12, 2026, 2 p.m. &amp;mdash; 13 Sept. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3159.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
