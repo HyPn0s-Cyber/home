@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 10 Sep 2026 20:50:34 -0000</lastBuildDate><item><title>K17 CTF 2026</title><link>https://ctftime.org/event/3145</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Sep 2026 04:39:05 -0000</lastBuildDate><item><title>K17 CTF 2026</title><link>https://ctftime.org/event/3145</link><description>
 Name: K17 CTF 2026 (an &lt;a href="/ctf/1385"&gt;K17 CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 11, 2026, 10 a.m. &amp;mdash; 13 Sept. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3145.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -363,7 +363,21 @@ Event organizers:
 &lt;a href="/team/16172"&gt;SharLike&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3432</guid><start_date>20261004T030000</start_date><finish_date>20261004T120000</finish_date><logo_url>/media/events/0_2_1.png</logo_url><url>https://university.altayctf.ru/2026</url><ctftime_url>/event/3432</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Academic</restrictions><location>Russia, Barnaul</location><onsite>True</onsite><organizers>[{"id": 16172, "name": "SharLike"}]</organizers><ctf_id>111</ctf_id><ctf_name>AltayCTF</ctf_name></item><item><title>GaianSpace CTF 2026</title><link>https://ctftime.org/event/3354</link><description>
+</description><guid>https://ctftime.org/event/3432</guid><start_date>20261004T030000</start_date><finish_date>20261004T120000</finish_date><logo_url>/media/events/0_2_1.png</logo_url><url>https://university.altayctf.ru/2026</url><ctftime_url>/event/3432</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Academic</restrictions><location>Russia, Barnaul</location><onsite>True</onsite><organizers>[{"id": 16172, "name": "SharLike"}]</organizers><ctf_id>111</ctf_id><ctf_name>AltayCTF</ctf_name></item><item><title>Narxoz CTF</title><link>https://ctftime.org/event/3437</link><description>
+Name: Narxoz CTF (an &lt;a href="/ctf/1686"&gt;Narxoz CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 10, 2026, 10 a.m. &amp;mdash; 10 Oct. 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3437.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Hack quest&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Almaty%2C%20Kazakhstan"&gt;Almaty, Kazakhstan&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://narxploit.narxoz.kz/register.html" rel="nofollow"&gt;https://narxploit.narxoz.kz/register.html&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/392547"&gt;NarXploit&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3437</guid><start_date>20261010T100000</start_date><finish_date>20261010T180000</finish_date><logo_url>/media/events/photo_2026-08-29_21-55-09.jpg</logo_url><url>https://narxploit.narxoz.kz/register.html</url><ctftime_url>/event/3437</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Almaty, Kazakhstan</location><onsite>True</onsite><organizers>[{"id": 392547, "name": "NarXploit"}]</organizers><ctf_id>1686</ctf_id><ctf_name>Narxoz CTF</ctf_name></item><item><title>GaianSpace CTF 2026</title><link>https://ctftime.org/event/3354</link><description>
 Name: GaianSpace CTF 2026 (an &lt;a href="/ctf/1284"&gt;GaianSpace CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 10, 2026, 9 p.m. &amp;mdash; 14 Oct. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3354.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -631,7 +645,21 @@ Event organizers:
 &lt;a href="/team/352250"&gt;Crate-CTF&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3336</guid><start_date>20261121T130000</start_date><finish_date>20261121T210000</finish_date><logo_url>/media/events/CTF_2026_2.png</logo_url><url>https://foi.se/cratectf</url><ctftime_url>/event/3336</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>37.00</weight><live_feed>https://ctftime.org/live/3336/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 352250, "name": "Crate-CTF"}]</organizers><ctf_id>1172</ctf_id><ctf_name>Crate-CTF</ctf_name></item><item><title>BlackHat MEA CTF Final 2026</title><link>https://ctftime.org/event/3386</link><description>
+</description><guid>https://ctftime.org/event/3336</guid><start_date>20261121T130000</start_date><finish_date>20261121T210000</finish_date><logo_url>/media/events/CTF_2026_2.png</logo_url><url>https://foi.se/cratectf</url><ctftime_url>/event/3336</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>37.00</weight><live_feed>https://ctftime.org/live/3336/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 352250, "name": "Crate-CTF"}]</organizers><ctf_id>1172</ctf_id><ctf_name>Crate-CTF</ctf_name></item><item><title>CyberSci Regional Qualifiers 2026-27</title><link>https://ctftime.org/event/3436</link><description>
+Name: CyberSci Regional Qualifiers 2026-27 (an &lt;a href="/ctf/643"&gt;CyberSci&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 21, 2026, 3 p.m. &amp;mdash; 21 Nov. 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3436.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Onsite%20at%206%20locations%20in%20Canada"&gt;Onsite at 6 locations in Canada&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://cybersecuritychallenge.ca/" rel="nofollow"&gt;https://cybersecuritychallenge.ca/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/157536"&gt;CyberSciOrganizers&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3436</guid><start_date>20261121T150000</start_date><finish_date>20261121T220000</finish_date><logo_url>/media/events/9f5bd4404f2ff231cca6e261cdcd0419.jpg</logo_url><url>https://cybersecuritychallenge.ca/</url><ctftime_url>/event/3436</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Academic</restrictions><location>Onsite at 6 locations in Canada</location><onsite>True</onsite><organizers>[{"id": 157536, "name": "CyberSciOrganizers"}]</organizers><ctf_id>643</ctf_id><ctf_name>CyberSci</ctf_name></item><item><title>BlackHat MEA CTF Final 2026</title><link>https://ctftime.org/event/3386</link><description>
 Name: BlackHat MEA CTF Final 2026 (an &lt;a href="/ctf/826"&gt;Blackhat MEA CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Dec. 1, 2026, 3:14 p.m. &amp;mdash; 03 Dec. 2026, 15:14 UTC &amp;nbsp;&lt;a href="/event/3386.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
