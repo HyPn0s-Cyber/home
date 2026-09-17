@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 17 Sep 2026 16:59:35 -0000</lastBuildDate><item><title>NullOrigin CTF Qualifiers</title><link>https://ctftime.org/event/3346</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 17 Sep 2026 21:19:23 -0000</lastBuildDate><item><title>NullOrigin CTF Qualifiers</title><link>https://ctftime.org/event/3346</link><description>
 Name: NullOrigin CTF Qualifiers (an &lt;a href="/ctf/1633"&gt;Null Origin&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 18, 2026, 4:30 a.m. &amp;mdash; 18 Sept. 2026, 16:30 UTC &amp;nbsp;&lt;a href="/event/3346.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -237,7 +237,21 @@ Event organizers:
 &lt;a href="/team/310109"&gt;D Asset Inc.&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3417</guid><start_date>20260928T010000</start_date><finish_date>20260928T080000</finish_date><logo_url>/media/events/32x32_icon_1.png</logo_url><url>https://scan.sx/</url><ctftime_url>/event/3417</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Seoul, Korea</location><onsite>True</onsite><organizers>[{"id": 310109, "name": "D Asset Inc."}]</organizers><ctf_id>1190</ctf_id><ctf_name>SCAN Digital Asset Tracing Challenge</ctf_name></item><item><title>Hacker's Gambit 2026 (Round 1 – Online Qualifier)</title><link>https://ctftime.org/event/3380</link><description>
+</description><guid>https://ctftime.org/event/3417</guid><start_date>20260928T010000</start_date><finish_date>20260928T080000</finish_date><logo_url>/media/events/32x32_icon_1.png</logo_url><url>https://scan.sx/</url><ctftime_url>/event/3417</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Seoul, Korea</location><onsite>True</onsite><organizers>[{"id": 310109, "name": "D Asset Inc."}]</organizers><ctf_id>1190</ctf_id><ctf_name>SCAN Digital Asset Tracing Challenge</ctf_name></item><item><title>CSS CTF 2026: Return of Nexus</title><link>https://ctftime.org/event/3434</link><description>
+Name: CSS CTF 2026: Return of Nexus (an &lt;a href="/ctf/1669"&gt;CSS CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Sept. 30, 2026, 6 a.m. &amp;mdash; 01 Oct. 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3434.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.cybersecurity.sydney/" rel="nofollow"&gt;https://ctf.cybersecurity.sydney/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/382153"&gt;suɐǝpodᴉʇuɐ&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3434</guid><start_date>20260930T060000</start_date><finish_date>20261001T220000</finish_date><logo_url>/media/events/dbdeeab4624f46479b54527337e9e860.png</logo_url><url>https://ctf.cybersecurity.sydney/</url><ctftime_url>/event/3434</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 382153, "name": "su\u0250\u01ddpod\u1d09\u0287u\u0250"}]</organizers><ctf_id>1669</ctf_id><ctf_name>CSS CTF</ctf_name></item><item><title>Hacker's Gambit 2026 (Round 1 – Online Qualifier)</title><link>https://ctftime.org/event/3380</link><description>
 Name: Hacker&amp;#39;s Gambit 2026 (Round 1 – Online Qualifier) (an &lt;a href="/ctf/1415"&gt;Hacker&amp;#39;s Gambit&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 2, 2026, 6:30 a.m. &amp;mdash; 04 Oct. 2026, 06:30 UTC &amp;nbsp;&lt;a href="/event/3380.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -307,7 +321,35 @@ Event organizers:
 &lt;a href="/team/16172"&gt;SharLike&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3432</guid><start_date>20261004T030000</start_date><finish_date>20261004T120000</finish_date><logo_url>/media/events/0_2_1.png</logo_url><url>https://university.altayctf.ru/2026</url><ctftime_url>/event/3432</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Academic</restrictions><location>Russia, Barnaul</location><onsite>True</onsite><organizers>[{"id": 16172, "name": "SharLike"}]</organizers><ctf_id>111</ctf_id><ctf_name>AltayCTF</ctf_name></item><item><title>Narxoz CTF</title><link>https://ctftime.org/event/3437</link><description>
+</description><guid>https://ctftime.org/event/3432</guid><start_date>20261004T030000</start_date><finish_date>20261004T120000</finish_date><logo_url>/media/events/0_2_1.png</logo_url><url>https://university.altayctf.ru/2026</url><ctftime_url>/event/3432</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Academic</restrictions><location>Russia, Barnaul</location><onsite>True</onsite><organizers>[{"id": 16172, "name": "SharLike"}]</organizers><ctf_id>111</ctf_id><ctf_name>AltayCTF</ctf_name></item><item><title>FortID CTF 2026</title><link>https://ctftime.org/event/3440</link><description>
+Name: FortID CTF 2026 (an &lt;a href="/ctf/951"&gt;TBTL CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 9, 2026, 6 p.m. &amp;mdash; 11 Oct. 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3440.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.fortid.com/" rel="nofollow"&gt;https://ctf.fortid.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 45.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/170112"&gt;TBTL&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3440</guid><start_date>20261009T180000</start_date><finish_date>20261011T180000</finish_date><logo_url>/media/events/fortid_ctf_logo.jpg</logo_url><url>https://ctf.fortid.com/</url><ctftime_url>/event/3440</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>45.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 170112, "name": "TBTL"}]</organizers><ctf_id>951</ctf_id><ctf_name>TBTL CTF</ctf_name></item><item><title>KubSTU CTF</title><link>https://ctftime.org/event/3446</link><description>
+Name: KubSTU CTF (an &lt;a href="/ctf/1499"&gt;KubSTU CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 10, 2026, 7 a.m. &amp;mdash; 11 Oct. 2026, 13:00 UTC &amp;nbsp;&lt;a href="/event/3446.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://kubstu-ctf.ru/" rel="nofollow"&gt;https://kubstu-ctf.ru/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/223931"&gt;Capybaras&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3446</guid><start_date>20261010T070000</start_date><finish_date>20261011T130000</finish_date><logo_url>/media/events/Logo_Kubstu.png</logo_url><url>https://kubstu-ctf.ru/</url><ctftime_url>/event/3446</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 223931, "name": "Capybaras"}]</organizers><ctf_id>1499</ctf_id><ctf_name>KubSTU CTF</ctf_name></item><item><title>Narxoz CTF</title><link>https://ctftime.org/event/3437</link><description>
 Name: Narxoz CTF (an &lt;a href="/ctf/1686"&gt;Narxoz CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 10, 2026, 10 a.m. &amp;mdash; 10 Oct. 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3437.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Hack quest&lt;br/&gt;
@@ -377,7 +419,21 @@ Event organizers:
 &lt;a href="/team/8299"&gt;HITCON&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3340</guid><start_date>20261023T140000</start_date><finish_date>20261025T140000</finish_date><logo_url>/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg</logo_url><url>https://ctf2026.hitcon.org/</url><ctftime_url>/event/3340</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>91.16</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 8299, "name": "HITCON"}]</organizers><ctf_id>79</ctf_id><ctf_name>HITCON CTF</ctf_name></item><item><title>Hack.lu CTF 2026</title><link>https://ctftime.org/event/3207</link><description>
+</description><guid>https://ctftime.org/event/3340</guid><start_date>20261023T140000</start_date><finish_date>20261025T140000</finish_date><logo_url>/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg</logo_url><url>https://ctf2026.hitcon.org/</url><ctftime_url>/event/3340</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>91.16</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 8299, "name": "HITCON"}]</organizers><ctf_id>79</ctf_id><ctf_name>HITCON CTF</ctf_name></item><item><title>RSTCON 2026 CTF</title><link>https://ctftime.org/event/3377</link><description>
+Name: RSTCON 2026 CTF (an &lt;a href="/ctf/1125"&gt;RSTCON CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 23, 2026, 5 p.m. &amp;mdash; 25 Oct. 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3377.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.rstcon.org/" rel="nofollow"&gt;https://ctf.rstcon.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 25.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/281202"&gt;RSTCON&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3377</guid><start_date>20261023T170000</start_date><finish_date>20261025T170000</finish_date><logo_url>/media/events/RSTCON-BLK_1.png</logo_url><url>https://ctf.rstcon.org/</url><ctftime_url>/event/3377</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 281202, "name": "RSTCON"}]</organizers><ctf_id>1125</ctf_id><ctf_name>RSTCON CTF</ctf_name></item><item><title>Hack.lu CTF 2026</title><link>https://ctftime.org/event/3207</link><description>
 Name: Hack.lu CTF 2026 (an &lt;a href="/ctf/8"&gt;Hack.lu CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 23, 2026, 6 p.m. &amp;mdash; 25 Oct. 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3207.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -405,7 +461,35 @@ Event organizers:
 &lt;a href="/team/281844"&gt;H7Tex&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3094</guid><start_date>20261024T063000</start_date><finish_date>20261025T063000</finish_date><logo_url>/media/events/87939ee617d4b7c6287bebf8cd7a620c.jpg</logo_url><url>https://2026.h7tex.com/</url><ctftime_url>/event/3094</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Chennai, Tamil Nadu</location><onsite>True</onsite><organizers>[{"id": 281844, "name": "H7Tex"}]</organizers><ctf_id>1169</ctf_id><ctf_name>H7CTF</ctf_name></item><item><title>Hacker's Gambit 2026 (Round 2 – Grand Finale)</title><link>https://ctftime.org/event/3381</link><description>
+</description><guid>https://ctftime.org/event/3094</guid><start_date>20261024T063000</start_date><finish_date>20261025T063000</finish_date><logo_url>/media/events/87939ee617d4b7c6287bebf8cd7a620c.jpg</logo_url><url>https://2026.h7tex.com/</url><ctftime_url>/event/3094</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Chennai, Tamil Nadu</location><onsite>True</onsite><organizers>[{"id": 281844, "name": "H7Tex"}]</organizers><ctf_id>1169</ctf_id><ctf_name>H7CTF</ctf_name></item><item><title>Sudocrypt v16.0</title><link>https://ctftime.org/event/3443</link><description>
+Name: Sudocrypt v16.0 (an &lt;a href="/ctf/869"&gt;Sudocrypt&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 27, 2026, 3:30 a.m. &amp;mdash; 28 Oct. 2026, 15:30 UTC &amp;nbsp;&lt;a href="/event/3443.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Hack quest&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://sudocrypt.com/" rel="nofollow"&gt;https://sudocrypt.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/83987"&gt;exunclan&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3443</guid><start_date>20261027T033000</start_date><finish_date>20261028T153000</finish_date><logo_url>/media/events/WhatsApp_Image_2026-09-14_at_12.17.30.jpeg</logo_url><url>https://sudocrypt.com/</url><ctftime_url>/event/3443</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3443/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 83987, "name": "exunclan"}]</organizers><ctf_id>869</ctf_id><ctf_name>Sudocrypt</ctf_name></item><item><title>Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)</title><link>https://ctftime.org/event/3444</link><description>
+Name: Srdnlen CTF 2026 Finals (Sardinia Cyber Camp) (an &lt;a href="/ctf/840"&gt;Srdnlen CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 29, 2026, 9 a.m. &amp;mdash; 29 Oct. 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3444.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Italy%2C%20Cagliari"&gt;Italy, Cagliari&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.srdnlen.it/" rel="nofollow"&gt;https://ctf.srdnlen.it/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 25.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/83421"&gt;Srdnlen&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3444</guid><start_date>20261029T090000</start_date><finish_date>20261029T170000</finish_date><logo_url>/media/events/e04b66f1d17c437f935e29d0fbe7beed_2.png</logo_url><url>https://ctf.srdnlen.it/</url><ctftime_url>/event/3444</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Italy, Cagliari</location><onsite>True</onsite><organizers>[{"id": 83421, "name": "Srdnlen"}]</organizers><ctf_id>840</ctf_id><ctf_name>Srdnlen CTF</ctf_name></item><item><title>Hacker's Gambit 2026 (Round 2 – Grand Finale)</title><link>https://ctftime.org/event/3381</link><description>
 Name: Hacker&amp;#39;s Gambit 2026 (Round 2 – Grand Finale) (an &lt;a href="/ctf/1415"&gt;Hacker&amp;#39;s Gambit&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 30, 2026, 6:30 a.m. &amp;mdash; 31 Oct. 2026, 06:30 UTC &amp;nbsp;&lt;a href="/event/3381.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -463,7 +547,21 @@ Event organizers:
 &lt;a href="/team/395297"&gt;Mirachron&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3333</guid><start_date>20261106T130000</start_date><finish_date>20261108T130000</finish_date><logo_url></logo_url><url>https://2026.chronos-security.ro/</url><ctftime_url>/event/3333</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 395297, "name": "Chronos Security"}]</organizers><ctf_id>1373</ctf_id><ctf_name>CSCTF</ctf_name></item><item><title>BlackAlps CTF 2026</title><link>https://ctftime.org/event/3242</link><description>
+</description><guid>https://ctftime.org/event/3333</guid><start_date>20261106T130000</start_date><finish_date>20261108T130000</finish_date><logo_url></logo_url><url>https://2026.chronos-security.ro/</url><ctftime_url>/event/3333</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 395297, "name": "Chronos Security"}]</organizers><ctf_id>1373</ctf_id><ctf_name>CSCTF</ctf_name></item><item><title>SpookyCTF 2026</title><link>https://ctftime.org/event/3339</link><description>
+Name: SpookyCTF 2026 (an &lt;a href="/ctf/987"&gt;SpookyCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 6, 2026, 5 p.m. &amp;mdash; 07 Nov. 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3339.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://spooky.ctfd.io/" rel="nofollow"&gt;https://spooky.ctfd.io/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/214936"&gt;NICC&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3339</guid><start_date>20261106T170000</start_date><finish_date>20261107T170000</finish_date><logo_url></logo_url><url>https://spooky.ctfd.io/</url><ctftime_url>/event/3339</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 214936, "name": "Cyber Security Network"}]</organizers><ctf_id>987</ctf_id><ctf_name>SpookyCTF</ctf_name></item><item><title>BlackAlps CTF 2026</title><link>https://ctftime.org/event/3242</link><description>
 Name: BlackAlps CTF 2026 (an &lt;a href="/ctf/375"&gt;BlackAlps&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 6, 2026, 6:15 p.m. &amp;mdash; 06 Nov. 2026, 22:30 UTC &amp;nbsp;&lt;a href="/event/3242.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -505,7 +603,21 @@ Event organizers:
 &lt;a href="/team/83621"&gt;w01verines&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3049</guid><start_date>20261113T230000</start_date><finish_date>20261115T230000</finish_date><logo_url>/media/events/wolverine-logo-square1_1.jpg</logo_url><url>https://wolvctf.io/</url><ctftime_url>/event/3049</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3049/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 83621, "name": "wolvsec"}]</organizers><ctf_id>766</ctf_id><ctf_name>WolvCTF</ctf_name></item><item><title>EyesOpenCTF 7th edition</title><link>https://ctftime.org/event/3419</link><description>
+</description><guid>https://ctftime.org/event/3049</guid><start_date>20261113T230000</start_date><finish_date>20261115T230000</finish_date><logo_url>/media/events/wolverine-logo-square1_1.jpg</logo_url><url>https://wolvctf.io/</url><ctftime_url>/event/3049</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3049/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 83621, "name": "wolvsec"}]</organizers><ctf_id>766</ctf_id><ctf_name>WolvCTF</ctf_name></item><item><title>International Battle of Hackers 2026</title><link>https://ctftime.org/event/3390</link><description>
+Name: International Battle of Hackers 2026 (an &lt;a href="/ctf/1613"&gt;International Battle of Hackers&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 14, 2026, 12:30 a.m. &amp;mdash; 14 Nov. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3390.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Kuala%20Lumpur%2C%20Malaysia"&gt;Kuala Lumpur, Malaysia&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://battleofhackers.com/" rel="nofollow"&gt;https://battleofhackers.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/436859"&gt;FSEC-SS&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3390</guid><start_date>20261114T003000</start_date><finish_date>20261114T100000</finish_date><logo_url>/media/events/BOH_LOGO_ONLY_1.png</logo_url><url>https://battleofhackers.com/</url><ctftime_url>/event/3390</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Academic</restrictions><location>Kuala Lumpur, Malaysia</location><onsite>False</onsite><organizers>[{"id": 436859, "name": "FSEC-SS"}]</organizers><ctf_id>1613</ctf_id><ctf_name>International Battle of Hackers</ctf_name></item><item><title>EyesOpenCTF 7th edition</title><link>https://ctftime.org/event/3419</link><description>
 Name: EyesOpenCTF 7th edition (an &lt;a href="/ctf/847"&gt;EyesOpenCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 20, 2026, 10 a.m. &amp;mdash; 22 Nov. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3419.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -547,7 +659,21 @@ Event organizers:
 &lt;a href="/team/397"&gt;Kernel Sanders&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3118</guid><start_date>20261120T210000</start_date><finish_date>20261122T210000</finish_date><logo_url></logo_url><url>https://ctf.swampctf.com/</url><ctftime_url>/event/3118</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 397, "name": "Kernel Sanders"}]</organizers><ctf_id>241</ctf_id><ctf_name>SwampCTF</ctf_name></item><item><title>Seize da Flaq</title><link>https://ctftime.org/event/3408</link><description>
+</description><guid>https://ctftime.org/event/3118</guid><start_date>20261120T210000</start_date><finish_date>20261122T210000</finish_date><logo_url></logo_url><url>https://ctf.swampctf.com/</url><ctftime_url>/event/3118</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 397, "name": "Kernel Sanders"}]</organizers><ctf_id>241</ctf_id><ctf_name>SwampCTF</ctf_name></item><item><title>Outback Overflow</title><link>https://ctftime.org/event/3425</link><description>
+Name: Outback Overflow (an &lt;a href="/ctf/1683"&gt;Outback Overflow&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 20, 2026, 11 p.m. &amp;mdash; 21 Nov. 2026, 23:00 UTC &amp;nbsp;&lt;a href="/event/3425.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="http://hscyber.org/" rel="nofollow"&gt;http://hscyber.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/446734"&gt;HSCC&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3425</guid><start_date>20261120T230000</start_date><finish_date>20261121T230000</finish_date><logo_url>/media/events/logo_137.png</logo_url><url>http://hscyber.org/</url><ctftime_url>/event/3425</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 446734, "name": "HSCC"}]</organizers><ctf_id>1683</ctf_id><ctf_name>Outback Overflow</ctf_name></item><item><title>Seize da Flaq</title><link>https://ctftime.org/event/3408</link><description>
 Name: Seize da Flaq (an &lt;a href="/ctf/1657"&gt;Seize da Flaq&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 21, 2026, 6:30 a.m. &amp;mdash; 22 Nov. 2026, 02:30 UTC &amp;nbsp;&lt;a href="/event/3408.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
