@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 17 Sep 2026 04:53:27 -0000</lastBuildDate><item><title>VolgaCTF 2026 Final</title><link>https://ctftime.org/event/3265</link><description>
-Name: VolgaCTF 2026 Final (an &lt;a href="/ctf/53"&gt;VolgaCTF Final&lt;/a&gt; event.)&lt;br/&gt;
-Date: Sept. 17, 2026, 5 a.m. &amp;mdash; 17 Sept. 2026, 15:00 UTC &amp;nbsp;&lt;a href="/event/3265.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Attack-Defense&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Russia%2C%20Samara"&gt;Russia, Samara&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://volgactf.ru/en/volgactf-2026/final/" rel="nofollow"&gt;https://volgactf.ru/en/volgactf-2026/final/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 25.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/27094"&gt;VolgaCTF.org&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3265</guid><start_date>20260917T050000</start_date><finish_date>20260917T150000</finish_date><logo_url>/media/events/volgactf_2026_logo.png</logo_url><url>https://volgactf.ru/en/volgactf-2026/final/</url><ctftime_url>/event/3265</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Russia, Samara</location><onsite>True</onsite><organizers>[{"id": 27094, "name": "VolgaCTF.org"}]</organizers><ctf_id>53</ctf_id><ctf_name>VolgaCTF Final</ctf_name></item><item><title>NullOrigin CTF Qualifiers</title><link>https://ctftime.org/event/3346</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 17 Sep 2026 11:43:23 -0000</lastBuildDate><item><title>NullOrigin CTF Qualifiers</title><link>https://ctftime.org/event/3346</link><description>
 Name: NullOrigin CTF Qualifiers (an &lt;a href="/ctf/1633"&gt;Null Origin&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 18, 2026, 4:30 a.m. &amp;mdash; 18 Sept. 2026, 16:30 UTC &amp;nbsp;&lt;a href="/event/3346.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
