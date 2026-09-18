@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 17 Sep 2026 21:19:23 -0000</lastBuildDate><item><title>NullOrigin CTF Qualifiers</title><link>https://ctftime.org/event/3346</link><description>
-Name: NullOrigin CTF Qualifiers (an &lt;a href="/ctf/1633"&gt;Null Origin&lt;/a&gt; event.)&lt;br/&gt;
-Date: Sept. 18, 2026, 4:30 a.m. &amp;mdash; 18 Sept. 2026, 16:30 UTC &amp;nbsp;&lt;a href="/event/3346.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=On-line"&gt;On-line&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://nullorigin.cyberhx.com/" rel="nofollow"&gt;https://nullorigin.cyberhx.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/374041"&gt;CyberXoX&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3346</guid><start_date>20260918T043000</start_date><finish_date>20260918T163000</finish_date><logo_url>/media/events/722217335_18086037686297664_317017320748858629_n.jpg</logo_url><url>https://nullorigin.cyberhx.com/</url><ctftime_url>/event/3346</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3346/</live_feed><restrictions>Open</restrictions><location>On-line</location><onsite>False</onsite><organizers>[{"id": 374041, "name": "CyberXoX"}]</organizers><ctf_id>1633</ctf_id><ctf_name>Null Origin</ctf_name></item><item><title>DefCamp Capture the Flag (D-CTF) 2026 Quals</title><link>https://ctftime.org/event/3392</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 18 Sep 2026 04:45:44 -0000</lastBuildDate><item><title>DefCamp Capture the Flag (D-CTF) 2026 Quals</title><link>https://ctftime.org/event/3392</link><description>
 Name: DefCamp Capture the Flag (D-CTF) 2026 Quals (an &lt;a href="/ctf/73"&gt;Defcamp CTF Qualification&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 18, 2026, 10 a.m. &amp;mdash; 20 Sept. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3392.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
