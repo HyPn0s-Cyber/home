@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 18 Sep 2026 04:45:44 -0000</lastBuildDate><item><title>DefCamp Capture the Flag (D-CTF) 2026 Quals</title><link>https://ctftime.org/event/3392</link><description>
-Name: DefCamp Capture the Flag (D-CTF) 2026 Quals (an &lt;a href="/ctf/73"&gt;Defcamp CTF Qualification&lt;/a&gt; event.)&lt;br/&gt;
-Date: Sept. 18, 2026, 10 a.m. &amp;mdash; 20 Sept. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3392.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://dctf26-quals.cyber-edu.co/" rel="nofollow"&gt;https://dctf26-quals.cyber-edu.co/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 69.75&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/9831"&gt;CCSIR.org&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3392</guid><start_date>20260918T100000</start_date><finish_date>20260920T100000</finish_date><logo_url>/media/events/2c31f15c30b130055d9133f2390adf6c.jpg</logo_url><url>https://dctf26-quals.cyber-edu.co/</url><ctftime_url>/event/3392</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>69.75</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 9831, "name": "CCSIR.org"}]</organizers><ctf_id>73</ctf_id><ctf_name>Defcamp CTF Qualification</ctf_name></item><item><title>CSAW CTF Qualification Round 2026</title><link>https://ctftime.org/event/3355</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 18 Sep 2026 11:18:09 -0000</lastBuildDate><item><title>CSAW CTF Qualification Round 2026</title><link>https://ctftime.org/event/3355</link><description>
 Name: CSAW CTF Qualification Round 2026 (an &lt;a href="/ctf/18"&gt;CSAW CTF Qualification Round &lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 18, 2026, 4 p.m. &amp;mdash; 20 Sept. 2026, 16:00 UTC &amp;nbsp;&lt;a href="/event/3355.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
