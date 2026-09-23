@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 22 Sep 2026 21:20:21 -0000</lastBuildDate><item><title>BreachPoint 2026</title><link>https://ctftime.org/event/3451</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 23 Sep 2026 04:45:06 -0000</lastBuildDate><item><title>BreachPoint 2026</title><link>https://ctftime.org/event/3451</link><description>
 Name: BreachPoint 2026 (an &lt;a href="/ctf/1703"&gt;BreachPoint&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 25, 2026, 4 a.m. &amp;mdash; 26 Sept. 2026, 08:30 UTC &amp;nbsp;&lt;a href="/event/3451.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -547,21 +547,7 @@ Event organizers:
 &lt;a href="/team/8323"&gt;LosFuzzys&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3337</guid><start_date>20261120T180000</start_date><finish_date>20261121T180000</finish_date><logo_url>/media/events/glacierlogo_1.png</logo_url><url>https://glacierctf.com/</url><ctftime_url>/event/3337</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>73.17</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 8323, "name": "LosFuzzys"}]</organizers><ctf_id>863</ctf_id><ctf_name>Glacier CTF</ctf_name></item><item><title>SwampCTF 2026</title><link>https://ctftime.org/event/3118</link><description>
-Name: SwampCTF 2026 (an &lt;a href="/ctf/241"&gt;SwampCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Nov. 20, 2026, 9 p.m. &amp;mdash; 22 Nov. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3118.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.swampctf.com/" rel="nofollow"&gt;https://ctf.swampctf.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/397"&gt;Kernel Sanders&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3118</guid><start_date>20261120T210000</start_date><finish_date>20261122T210000</finish_date><logo_url></logo_url><url>https://ctf.swampctf.com/</url><ctftime_url>/event/3118</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 397, "name": "Kernel Sanders"}]</organizers><ctf_id>241</ctf_id><ctf_name>SwampCTF</ctf_name></item><item><title>Outback Overflow</title><link>https://ctftime.org/event/3425</link><description>
+</description><guid>https://ctftime.org/event/3337</guid><start_date>20261120T180000</start_date><finish_date>20261121T180000</finish_date><logo_url>/media/events/glacierlogo_1.png</logo_url><url>https://glacierctf.com/</url><ctftime_url>/event/3337</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>73.17</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 8323, "name": "LosFuzzys"}]</organizers><ctf_id>863</ctf_id><ctf_name>Glacier CTF</ctf_name></item><item><title>Outback Overflow</title><link>https://ctftime.org/event/3425</link><description>
 Name: Outback Overflow (an &lt;a href="/ctf/1683"&gt;Outback Overflow&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 20, 2026, 11 p.m. &amp;mdash; 21 Nov. 2026, 23:00 UTC &amp;nbsp;&lt;a href="/event/3425.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
