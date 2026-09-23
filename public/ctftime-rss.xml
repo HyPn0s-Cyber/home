@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 23 Sep 2026 04:45:06 -0000</lastBuildDate><item><title>BreachPoint 2026</title><link>https://ctftime.org/event/3451</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 23 Sep 2026 11:37:39 -0000</lastBuildDate><item><title>BreachPoint 2026</title><link>https://ctftime.org/event/3451</link><description>
 Name: BreachPoint 2026 (an &lt;a href="/ctf/1703"&gt;BreachPoint&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 25, 2026, 4 a.m. &amp;mdash; 26 Sept. 2026, 08:30 UTC &amp;nbsp;&lt;a href="/event/3451.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -491,7 +491,21 @@ Event organizers:
 &lt;a href="/team/439"&gt;NYUSEC&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3410</guid><start_date>20261112T170000</start_date><finish_date>20261114T050000</finish_date><logo_url>/media/events/csawlogo_2.png</logo_url><url>https://ctf.csaw.io/</url><ctftime_url>/event/3410</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>1.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 439, "name": "NYUSEC"}]</organizers><ctf_id>19</ctf_id><ctf_name>CSAW CTF Final Round</ctf_name></item><item><title>WolvCTF 2026</title><link>https://ctftime.org/event/3049</link><description>
+</description><guid>https://ctftime.org/event/3410</guid><start_date>20261112T170000</start_date><finish_date>20261114T050000</finish_date><logo_url>/media/events/csawlogo_2.png</logo_url><url>https://ctf.csaw.io/</url><ctftime_url>/event/3410</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>1.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 439, "name": "NYUSEC"}]</organizers><ctf_id>19</ctf_id><ctf_name>CSAW CTF Final Round</ctf_name></item><item><title>Platypwn 2026</title><link>https://ctftime.org/event/3082</link><description>
+Name: Platypwn 2026 (an &lt;a href="/ctf/979"&gt;Platypwn&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 13, 2026, 5 p.m. &amp;mdash; 14 Nov. 2026, 11:00 UTC &amp;nbsp;&lt;a href="/event/3082.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://platypwnies.de/events/platypwn/" rel="nofollow"&gt;https://platypwnies.de/events/platypwn/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 37.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/112550"&gt;Platypwnies&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3082</guid><start_date>20261113T170000</start_date><finish_date>20261114T110000</finish_date><logo_url>/media/events/platypwnies-512_1_1.png</logo_url><url>https://platypwnies.de/events/platypwn/</url><ctftime_url>/event/3082</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>37.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 112550, "name": "Platypwnies"}]</organizers><ctf_id>979</ctf_id><ctf_name>Platypwn</ctf_name></item><item><title>WolvCTF 2026</title><link>https://ctftime.org/event/3049</link><description>
 Name: WolvCTF 2026 (an &lt;a href="/ctf/766"&gt;WolvCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 13, 2026, 11 p.m. &amp;mdash; 15 Nov. 2026, 23:00 UTC &amp;nbsp;&lt;a href="/event/3049.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
