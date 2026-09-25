@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 24 Sep 2026 21:28:59 -0000</lastBuildDate><item><title>BreachPoint 2026</title><link>https://ctftime.org/event/3451</link><description>
-Name: BreachPoint 2026 (an &lt;a href="/ctf/1703"&gt;BreachPoint&lt;/a&gt; event.)&lt;br/&gt;
-Date: Sept. 25, 2026, 4 a.m. &amp;mdash; 26 Sept. 2026, 08:30 UTC &amp;nbsp;&lt;a href="/event/3451.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=PSG%20College%20of%20Technology%2C%20Coimbatore%2C%20Tamil%20Nadu"&gt;PSG College of Technology, Coimbatore, Tamil Nadu&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://breachpoint.axios.live/" rel="nofollow"&gt;https://breachpoint.axios.live/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/448857"&gt;pulse_0x1337&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3451</guid><start_date>20260925T040000</start_date><finish_date>20260926T083000</finish_date><logo_url>/media/events/logo-brc.jpg</logo_url><url>https://breachpoint.axios.live/</url><ctftime_url>/event/3451</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>PSG College of Technology, Coimbatore, Tamil Nadu</location><onsite>True</onsite><organizers>[{"id": 448857, "name": "pulse_0x1337"}]</organizers><ctf_id>1703</ctf_id><ctf_name>BreachPoint</ctf_name></item><item><title>Null Origin CTF 2026: Grand finale </title><link>https://ctftime.org/event/3454</link><description>
-Name: Null Origin CTF 2026: Grand finale  (an &lt;a href="/ctf/1633"&gt;Null Origin&lt;/a&gt; event.)&lt;br/&gt;
-Date: Sept. 25, 2026, 4:30 a.m. &amp;mdash; 25 Sept. 2026, 16:30 UTC &amp;nbsp;&lt;a href="/event/3454.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://nullorigin.cyberhx.com/" rel="nofollow"&gt;https://nullorigin.cyberhx.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/374041"&gt;CyberXoX&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3454</guid><start_date>20260925T043000</start_date><finish_date>20260925T163000</finish_date><logo_url>/media/events/file_0000000065a081fa80a2e85b40506ca9.png</logo_url><url>https://nullorigin.cyberhx.com/</url><ctftime_url>/event/3454</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3454/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 374041, "name": "CyberXoX"}]</organizers><ctf_id>1633</ctf_id><ctf_name>Null Origin</ctf_name></item><item><title>NileCTF</title><link>https://ctftime.org/event/3449</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 25 Sep 2026 04:57:31 -0000</lastBuildDate><item><title>NileCTF</title><link>https://ctftime.org/event/3449</link><description>
 Name: NileCTF (an &lt;a href="/ctf/1634"&gt;NileCTF 2026&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 25, 2026, noon &amp;mdash; 27 Sept. 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3449.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -463,7 +435,7 @@ Event organizers:
 &lt;a href="/team/214936"&gt;NICC&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3339</guid><start_date>20261106T170000</start_date><finish_date>20261107T170000</finish_date><logo_url></logo_url><url>https://spooky.ctfd.io/</url><ctftime_url>/event/3339</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 214936, "name": "Cyber Security Network"}]</organizers><ctf_id>987</ctf_id><ctf_name>SpookyCTF</ctf_name></item><item><title>BlackAlps CTF 2026</title><link>https://ctftime.org/event/3242</link><description>
+</description><guid>https://ctftime.org/event/3339</guid><start_date>20261106T170000</start_date><finish_date>20261107T170000</finish_date><logo_url>/media/events/spookyctf_2026_1.PNG</logo_url><url>https://spooky.ctfd.io/</url><ctftime_url>/event/3339</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 214936, "name": "Cyber Security Network"}]</organizers><ctf_id>987</ctf_id><ctf_name>SpookyCTF</ctf_name></item><item><title>BlackAlps CTF 2026</title><link>https://ctftime.org/event/3242</link><description>
 Name: BlackAlps CTF 2026 (an &lt;a href="/ctf/375"&gt;BlackAlps&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 6, 2026, 6:15 p.m. &amp;mdash; 06 Nov. 2026, 22:30 UTC &amp;nbsp;&lt;a href="/event/3242.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
