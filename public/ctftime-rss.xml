@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 26 Sep 2026 11:26:02 -0000</lastBuildDate><item><title>FAUST CTF 2026</title><link>https://ctftime.org/event/3312</link><description>
-Name: FAUST CTF 2026 (an &lt;a href="/ctf/117"&gt;FAUST CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Sept. 26, 2026, noon &amp;mdash; 26 Sept. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3312.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Attack-Defense&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://2026.faustctf.net/" rel="nofollow"&gt;https://2026.faustctf.net/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 72.29&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/550"&gt;FAUST&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3312</guid><start_date>20260926T120000</start_date><finish_date>20260926T210000</finish_date><logo_url>/media/events/faustctf2026.png</logo_url><url>https://2026.faustctf.net/</url><ctftime_url>/event/3312</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>72.29</weight><live_feed>https://ctftime.org/live/3312/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 550, "name": "FAUST"}]</organizers><ctf_id>117</ctf_id><ctf_name>FAUST CTF</ctf_name></item><item><title>SunshineCTF 2026</title><link>https://ctftime.org/event/3399</link><description>
-Name: SunshineCTF 2026 (an &lt;a href="/ctf/137"&gt;SunshineCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Sept. 26, 2026, 2 p.m. &amp;mdash; 28 Sept. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3399.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://sunshinectf.org/" rel="nofollow"&gt;https://sunshinectf.org/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 51.63&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/2500"&gt;Knightsec&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3399</guid><start_date>20260926T140000</start_date><finish_date>20260928T140000</finish_date><logo_url>/media/events/sunshinectf25_logo.png</logo_url><url>https://sunshinectf.org/</url><ctftime_url>/event/3399</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>51.63</weight><live_feed>https://ctftime.org/live/3399/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 2500, "name": "Knightsec"}]</organizers><ctf_id>137</ctf_id><ctf_name>SunshineCTF</ctf_name></item><item><title>Pointer Overflow CTF - 2026</title><link>https://ctftime.org/event/3020</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 26 Sep 2026 16:24:32 -0000</lastBuildDate><item><title>Pointer Overflow CTF - 2026</title><link>https://ctftime.org/event/3020</link><description>
 Name: Pointer Overflow CTF - 2026 (an &lt;a href="/ctf/963"&gt;Pointer Overflow CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 27, 2026, 2 p.m. &amp;mdash; 06 Dec. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3020.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
