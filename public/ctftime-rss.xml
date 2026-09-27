@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 27 Sep 2026 12:05:16 -0000</lastBuildDate><item><title>Pointer Overflow CTF - 2026</title><link>https://ctftime.org/event/3020</link><description>
-Name: Pointer Overflow CTF - 2026 (an &lt;a href="/ctf/963"&gt;Pointer Overflow CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Sept. 27, 2026, 2 p.m. &amp;mdash; 06 Dec. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3020.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://pointeroverflowctf.com/" rel="nofollow"&gt;https://pointeroverflowctf.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/231536"&gt;UWSP Pointers&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3020</guid><start_date>20260927T140000</start_date><finish_date>20261206T140000</finish_date><logo_url>/media/events/logo-mini.png</logo_url><url>https://pointeroverflowctf.com/</url><ctftime_url>/event/3020</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 231536, "name": "UWSP Pointers"}]</organizers><ctf_id>963</ctf_id><ctf_name>Pointer Overflow CTF</ctf_name></item><item><title>SCAN 2026 Final</title><link>https://ctftime.org/event/3417</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 27 Sep 2026 16:58:52 -0000</lastBuildDate><item><title>SCAN 2026 Final</title><link>https://ctftime.org/event/3417</link><description>
 Name: SCAN 2026 Final (an &lt;a href="/ctf/1190"&gt;SCAN Digital Asset Tracing Challenge&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 28, 2026, 1 a.m. &amp;mdash; 28 Sept. 2026, 08:00 UTC &amp;nbsp;&lt;a href="/event/3417.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
