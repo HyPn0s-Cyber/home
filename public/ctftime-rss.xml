@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 28 Sep 2026 13:53:57 -0000</lastBuildDate><item><title>CSS CTF 2026: Return of Nexus</title><link>https://ctftime.org/event/3434</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 28 Sep 2026 23:13:57 -0000</lastBuildDate><item><title>CSS CTF 2026: Return of Nexus</title><link>https://ctftime.org/event/3434</link><description>
 Name: CSS CTF 2026: Return of Nexus (an &lt;a href="/ctf/1669"&gt;CSS CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Sept. 30, 2026, 6 a.m. &amp;mdash; 01 Oct. 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3434.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -27,21 +27,7 @@ Event organizers:
 &lt;a href="/team/405374"&gt;JCOE Cyber Sentinels&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3380</guid><start_date>20261002T063000</start_date><finish_date>20261004T063000</finish_date><logo_url>/media/events/tanmay.png</logo_url><url>https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293</url><ctftime_url>/event/3380</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 405374, "name": "JCOE Cyber Sentinels"}]</organizers><ctf_id>1415</ctf_id><ctf_name>Hacker's Gambit</ctf_name></item><item><title>Securinets CTF Quals 2026</title><link>https://ctftime.org/event/3364</link><description>
-Name: Securinets CTF Quals 2026 (an &lt;a href="/ctf/105"&gt;Securinets CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 3, 2026, 9 a.m. &amp;mdash; 04 Oct. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3364.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.securinets.tn/" rel="nofollow"&gt;https://ctf.securinets.tn/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 85.12&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/5084"&gt;Securinets&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3364</guid><start_date>20261003T090000</start_date><finish_date>20261004T210000</finish_date><logo_url>/media/events/logo_red_copy_1_2.jpg</logo_url><url>https://ctf.securinets.tn/</url><ctftime_url>/event/3364</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>85.12</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 5084, "name": "Securinets"}]</organizers><ctf_id>105</ctf_id><ctf_name>Securinets CTF</ctf_name></item><item><title>CubeCTF 2026</title><link>https://ctftime.org/event/3352</link><description>
+</description><guid>https://ctftime.org/event/3380</guid><start_date>20261002T063000</start_date><finish_date>20261004T063000</finish_date><logo_url>/media/events/tanmay.png</logo_url><url>https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293</url><ctftime_url>/event/3380</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 405374, "name": "JCOE Cyber Sentinels"}]</organizers><ctf_id>1415</ctf_id><ctf_name>Hacker's Gambit</ctf_name></item><item><title>CubeCTF 2026</title><link>https://ctftime.org/event/3352</link><description>
 Name: CubeCTF 2026 (an &lt;a href="/ctf/1277"&gt;CubeCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 3, 2026, 2 p.m. &amp;mdash; 03 Oct. 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3352.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Attack-Defense&lt;br/&gt;
@@ -139,7 +125,21 @@ Event organizers:
 &lt;a href="/team/373034"&gt;GaianSpace&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3354</guid><start_date>20261010T210000</start_date><finish_date>20261014T210000</finish_date><logo_url>/media/events/gaianspace-logo-new_1.png</logo_url><url>https://gaian.space/ctf</url><ctftime_url>/event/3354</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3354/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 373034, "name": "GaianSpace"}]</organizers><ctf_id>1284</ctf_id><ctf_name>GaianSpace CTF</ctf_name></item><item><title>DEADFACE CTF 2026</title><link>https://ctftime.org/event/3279</link><description>
+</description><guid>https://ctftime.org/event/3354</guid><start_date>20261010T210000</start_date><finish_date>20261014T210000</finish_date><logo_url>/media/events/gaianspace-logo-new_1.png</logo_url><url>https://gaian.space/ctf</url><ctftime_url>/event/3354</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3354/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 373034, "name": "GaianSpace"}]</organizers><ctf_id>1284</ctf_id><ctf_name>GaianSpace CTF</ctf_name></item><item><title>Securinets CTF Quals 2026</title><link>https://ctftime.org/event/3364</link><description>
+Name: Securinets CTF Quals 2026 (an &lt;a href="/ctf/105"&gt;Securinets CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 17, 2026, 9 a.m. &amp;mdash; 18 Oct. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3364.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.securinets.tn/" rel="nofollow"&gt;https://ctf.securinets.tn/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 85.12&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/5084"&gt;Securinets&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3364</guid><start_date>20261017T090000</start_date><finish_date>20261018T210000</finish_date><logo_url>/media/events/logo_red_copy_1_2.jpg</logo_url><url>https://ctf.securinets.tn/</url><ctftime_url>/event/3364</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>85.12</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 5084, "name": "Securinets"}]</organizers><ctf_id>105</ctf_id><ctf_name>Securinets CTF</ctf_name></item><item><title>DEADFACE CTF 2026</title><link>https://ctftime.org/event/3279</link><description>
 Name: DEADFACE CTF 2026 (an &lt;a href="/ctf/487"&gt;DEADFACE CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 17, 2026, 2 p.m. &amp;mdash; 19 Oct. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3279.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
