@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 03 Oct 2026 05:16:52 -0000</lastBuildDate><item><title>Lun4R CTF Final</title><link>https://ctftime.org/event/3465</link><description>
-Name: Lun4R CTF Final (an &lt;a href="/ctf/1685"&gt;Lun4R CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 3, 2026, 5:30 a.m. &amp;mdash; 04 Oct. 2026, 05:30 UTC &amp;nbsp;&lt;a href="/event/3465.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Thiruvananthapuram%2C%20India"&gt;Thiruvananthapuram, India&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://ctf.rootriet.in/" rel="nofollow"&gt;https://ctf.rootriet.in/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/380826"&gt;Root Riet&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3465</guid><start_date>20261003T053000</start_date><finish_date>20261004T053000</finish_date><logo_url></logo_url><url>https://ctf.rootriet.in/</url><ctftime_url>/event/3465</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3465/</live_feed><restrictions>Open</restrictions><location>Thiruvananthapuram, India</location><onsite>True</onsite><organizers>[{"id": 380826, "name": "b33tro0t"}]</organizers><ctf_id>1685</ctf_id><ctf_name>Lun4R CTF</ctf_name></item><item><title>CubeCTF 2026</title><link>https://ctftime.org/event/3352</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 03 Oct 2026 11:41:41 -0000</lastBuildDate><item><title>CubeCTF 2026</title><link>https://ctftime.org/event/3352</link><description>
 Name: CubeCTF 2026 (an &lt;a href="/ctf/1277"&gt;CubeCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 3, 2026, 2 p.m. &amp;mdash; 03 Oct. 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3352.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Attack-Defense&lt;br/&gt;
