@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 03 Oct 2026 11:41:41 -0000</lastBuildDate><item><title>CubeCTF 2026</title><link>https://ctftime.org/event/3352</link><description>
-Name: CubeCTF 2026 (an &lt;a href="/ctf/1277"&gt;CubeCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 3, 2026, 2 p.m. &amp;mdash; 03 Oct. 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3352.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Attack-Defense&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://cubectf.com/" rel="nofollow"&gt;https://cubectf.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 24.71&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/168744"&gt;CubeMastery&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3352</guid><start_date>20261003T140000</start_date><finish_date>20261003T220000</finish_date><logo_url>/media/events/5097d73fb21778d02f541a3fdef957f3_1.jpg</logo_url><url>https://cubectf.com/</url><ctftime_url>/event/3352</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>24.71</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 168744, "name": "CubeMastery"}]</organizers><ctf_id>1277</ctf_id><ctf_name>CubeCTF</ctf_name></item><item><title>CDCTF 2026</title><link>https://ctftime.org/event/3293</link><description>
-Name: CDCTF 2026 (an &lt;a href="/ctf/1363"&gt;CDCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 3, 2026, 3 p.m. &amp;mdash; 04 Oct. 2026, 03:00 UTC &amp;nbsp;&lt;a href="/event/3293.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://crimsondefense.org/cdctf/" rel="nofollow"&gt;https://crimsondefense.org/cdctf/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 25.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/65283"&gt;Crimson Defense&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3293</guid><start_date>20261003T150000</start_date><finish_date>20261004T030000</finish_date><logo_url>/media/events/cdctf_logo_square_1.png</logo_url><url>https://crimsondefense.org/cdctf/</url><ctftime_url>/event/3293</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 65283, "name": "Crimson Defense"}]</organizers><ctf_id>1363</ctf_id><ctf_name>CDCTF</ctf_name></item><item><title>AltayCTF 2026</title><link>https://ctftime.org/event/3432</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 03 Oct 2026 16:15:31 -0000</lastBuildDate><item><title>AltayCTF 2026</title><link>https://ctftime.org/event/3432</link><description>
 Name: AltayCTF 2026 (an &lt;a href="/ctf/111"&gt;AltayCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 4, 2026, 3 a.m. &amp;mdash; 04 Oct. 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3432.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Attack-Defense&lt;br/&gt;
