@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 02 Oct 2026 22:13:50 -0000</lastBuildDate><item><title>CubeCTF 2026</title><link>https://ctftime.org/event/3352</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 03 Oct 2026 05:16:52 -0000</lastBuildDate><item><title>Lun4R CTF Final</title><link>https://ctftime.org/event/3465</link><description>
+Name: Lun4R CTF Final (an &lt;a href="/ctf/1685"&gt;Lun4R CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 3, 2026, 5:30 a.m. &amp;mdash; 04 Oct. 2026, 05:30 UTC &amp;nbsp;&lt;a href="/event/3465.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Thiruvananthapuram%2C%20India"&gt;Thiruvananthapuram, India&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.rootriet.in/" rel="nofollow"&gt;https://ctf.rootriet.in/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/380826"&gt;Root Riet&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3465</guid><start_date>20261003T053000</start_date><finish_date>20261004T053000</finish_date><logo_url></logo_url><url>https://ctf.rootriet.in/</url><ctftime_url>/event/3465</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3465/</live_feed><restrictions>Open</restrictions><location>Thiruvananthapuram, India</location><onsite>True</onsite><organizers>[{"id": 380826, "name": "b33tro0t"}]</organizers><ctf_id>1685</ctf_id><ctf_name>Lun4R CTF</ctf_name></item><item><title>CubeCTF 2026</title><link>https://ctftime.org/event/3352</link><description>
 Name: CubeCTF 2026 (an &lt;a href="/ctf/1277"&gt;CubeCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 3, 2026, 2 p.m. &amp;mdash; 03 Oct. 2026, 22:00 UTC &amp;nbsp;&lt;a href="/event/3352.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Attack-Defense&lt;br/&gt;
@@ -69,7 +83,35 @@ Event organizers:
 &lt;a href="/team/170112"&gt;TBTL&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3440</guid><start_date>20261009T180000</start_date><finish_date>20261011T180000</finish_date><logo_url>/media/events/fortid_ctf_logo.jpg</logo_url><url>https://ctf.fortid.com/</url><ctftime_url>/event/3440</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>45.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 170112, "name": "TBTL"}]</organizers><ctf_id>951</ctf_id><ctf_name>TBTL CTF</ctf_name></item><item><title>KubSTU CTF</title><link>https://ctftime.org/event/3446</link><description>
+</description><guid>https://ctftime.org/event/3440</guid><start_date>20261009T180000</start_date><finish_date>20261011T180000</finish_date><logo_url>/media/events/fortid_ctf_logo.jpg</logo_url><url>https://ctf.fortid.com/</url><ctftime_url>/event/3440</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>45.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 170112, "name": "TBTL"}]</organizers><ctf_id>951</ctf_id><ctf_name>TBTL CTF</ctf_name></item><item><title>kBxAc CTF 2026</title><link>https://ctftime.org/event/3456</link><description>
+Name: kBxAc CTF 2026 (an &lt;a href="/ctf/1699"&gt;kBxAc CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 9, 2026, 6:30 p.m. &amp;mdash; 10 Oct. 2026, 18:30 UTC &amp;nbsp;&lt;a href="/event/3456.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.kbxac.xyz/" rel="nofollow"&gt;https://ctf.kbxac.xyz/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/358282"&gt;kBxAc&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3456</guid><start_date>20261009T183000</start_date><finish_date>20261010T183000</finish_date><logo_url>/media/events/kbxac_1.png</logo_url><url>https://ctf.kbxac.xyz/</url><ctftime_url>/event/3456</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 358282, "name": "kBxAc"}]</organizers><ctf_id>1699</ctf_id><ctf_name>kBxAc CTF</ctf_name></item><item><title>isfcr{ctf} 2026 Quals</title><link>https://ctftime.org/event/3441</link><description>
+Name: isfcr{ctf} 2026 Quals (an &lt;a href="/ctf/942"&gt;ISFCR PESU CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 10, 2026, 4:30 a.m. &amp;mdash; 11 Oct. 2026, 04:30 UTC &amp;nbsp;&lt;a href="/event/3441.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Online"&gt;Online&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://isfcr.xyz/" rel="nofollow"&gt;https://isfcr.xyz/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/166645"&gt;x6e.x65.x78.x75.x73&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3441</guid><start_date>20261010T043000</start_date><finish_date>20261011T043000</finish_date><logo_url>/media/events/v7_1.png</logo_url><url>https://isfcr.xyz/</url><ctftime_url>/event/3441</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Online</location><onsite>False</onsite><organizers>[{"id": 166645, "name": "ISFCR PESU"}]</organizers><ctf_id>942</ctf_id><ctf_name>ISFCR PESU CTF</ctf_name></item><item><title>KubSTU CTF</title><link>https://ctftime.org/event/3446</link><description>
 Name: KubSTU CTF (an &lt;a href="/ctf/1499"&gt;KubSTU CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 10, 2026, 7 a.m. &amp;mdash; 11 Oct. 2026, 13:00 UTC &amp;nbsp;&lt;a href="/event/3446.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -167,7 +209,21 @@ Event organizers:
 &lt;a href="/team/8299"&gt;HITCON&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3340</guid><start_date>20261023T140000</start_date><finish_date>20261025T140000</finish_date><logo_url>/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg</logo_url><url>https://ctf2026.hitcon.org/</url><ctftime_url>/event/3340</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>91.16</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 8299, "name": "HITCON"}]</organizers><ctf_id>79</ctf_id><ctf_name>HITCON CTF</ctf_name></item><item><title>RSTCON 2026 CTF</title><link>https://ctftime.org/event/3377</link><description>
+</description><guid>https://ctftime.org/event/3340</guid><start_date>20261023T140000</start_date><finish_date>20261025T140000</finish_date><logo_url>/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg</logo_url><url>https://ctf2026.hitcon.org/</url><ctftime_url>/event/3340</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>91.16</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 8299, "name": "HITCON"}]</organizers><ctf_id>79</ctf_id><ctf_name>HITCON CTF</ctf_name></item><item><title>h4ckc0n 2026</title><link>https://ctftime.org/event/3464</link><description>
+Name: h4ckc0n 2026 (an &lt;a href="/ctf/115"&gt;h4ckc0n&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 23, 2026, 3:30 p.m. &amp;mdash; 24 Oct. 2026, 15:30 UTC &amp;nbsp;&lt;a href="/event/3464.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="http://h4ckc0n.in/" rel="nofollow"&gt;http://h4ckc0n.in/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 24.23&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/15154"&gt;d4rkc0de&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3464</guid><start_date>20261023T153000</start_date><finish_date>20261024T153000</finish_date><logo_url>/media/events/images_1.jpeg</logo_url><url>http://h4ckc0n.in/</url><ctftime_url>/event/3464</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.23</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 15154, "name": "d4rkc0de"}]</organizers><ctf_id>115</ctf_id><ctf_name>h4ckc0n</ctf_name></item><item><title>RSTCON 2026 CTF</title><link>https://ctftime.org/event/3377</link><description>
 Name: RSTCON 2026 CTF (an &lt;a href="/ctf/1125"&gt;RSTCON CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 23, 2026, 5 p.m. &amp;mdash; 25 Oct. 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3377.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -195,7 +251,21 @@ Event organizers:
 &lt;a href="/team/551"&gt;FluxFingers&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3207</guid><start_date>20261023T180000</start_date><finish_date>20261025T180000</finish_date><logo_url>/media/events/hacklu25.jpg</logo_url><url>https://flu.xxx/</url><ctftime_url>/event/3207</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>94.74</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 551, "name": "FluxFingers"}]</organizers><ctf_id>8</ctf_id><ctf_name>Hack.lu CTF</ctf_name></item><item><title>H7CTF 2026 Finals</title><link>https://ctftime.org/event/3094</link><description>
+</description><guid>https://ctftime.org/event/3207</guid><start_date>20261023T180000</start_date><finish_date>20261025T180000</finish_date><logo_url>/media/events/hacklu25.jpg</logo_url><url>https://flu.xxx/</url><ctftime_url>/event/3207</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>94.74</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 551, "name": "FluxFingers"}]</organizers><ctf_id>8</ctf_id><ctf_name>Hack.lu CTF</ctf_name></item><item><title>isfcr{ctf} 2026 Finals</title><link>https://ctftime.org/event/3442</link><description>
+Name: isfcr{ctf} 2026 Finals (an &lt;a href="/ctf/942"&gt;ISFCR PESU CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 24, 2026, 3:30 a.m. &amp;mdash; 25 Oct. 2026, 06:30 UTC &amp;nbsp;&lt;a href="/event/3442.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Bengaluru%2C%20India"&gt;Bengaluru, India&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://isfcr.xyz/" rel="nofollow"&gt;https://isfcr.xyz/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/166645"&gt;x6e.x65.x78.x75.x73&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3442</guid><start_date>20261024T033000</start_date><finish_date>20261025T063000</finish_date><logo_url>/media/events/v7_2.png</logo_url><url>https://isfcr.xyz/</url><ctftime_url>/event/3442</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Bengaluru, India</location><onsite>True</onsite><organizers>[{"id": 166645, "name": "ISFCR PESU"}]</organizers><ctf_id>942</ctf_id><ctf_name>ISFCR PESU CTF</ctf_name></item><item><title>H7CTF 2026 Finals</title><link>https://ctftime.org/event/3094</link><description>
 Name: H7CTF 2026 Finals (an &lt;a href="/ctf/1169"&gt;H7CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 24, 2026, 6:30 a.m. &amp;mdash; 25 Oct. 2026, 06:30 UTC &amp;nbsp;&lt;a href="/event/3094.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Attack-Defense&lt;br/&gt;
@@ -251,7 +321,21 @@ Event organizers:
 &lt;a href="/team/405374"&gt;JCOE Cyber Sentinels&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3381</guid><start_date>20261030T063000</start_date><finish_date>20261031T063000</finish_date><logo_url>/media/events/tanmay_2.png</logo_url><url>https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293</url><ctftime_url>/event/3381</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Jaihind College of Engineering,At Post Kuran, Taluka Junnar, Pune - 410511, Maharashtra, India  (19°09'47.2"N 73°54'52.2"E)</location><onsite>True</onsite><organizers>[{"id": 405374, "name": "JCOE Cyber Sentinels"}]</organizers><ctf_id>1415</ctf_id><ctf_name>Hacker's Gambit</ctf_name></item><item><title>HKCERT CTF 2026 (Qualifying Round)</title><link>https://ctftime.org/event/3418</link><description>
+</description><guid>https://ctftime.org/event/3381</guid><start_date>20261030T063000</start_date><finish_date>20261031T063000</finish_date><logo_url>/media/events/tanmay_2.png</logo_url><url>https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293</url><ctftime_url>/event/3381</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Jaihind College of Engineering,At Post Kuran, Taluka Junnar, Pune - 410511, Maharashtra, India  (19°09'47.2"N 73°54'52.2"E)</location><onsite>True</onsite><organizers>[{"id": 405374, "name": "JCOE Cyber Sentinels"}]</organizers><ctf_id>1415</ctf_id><ctf_name>Hacker's Gambit</ctf_name></item><item><title>HI Cyber Con 2026 CTF</title><link>https://ctftime.org/event/3460</link><description>
+Name: HI Cyber Con 2026 CTF (an &lt;a href="/ctf/1704"&gt;HI Cyber Con CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 30, 2026, 2 p.m. &amp;mdash; 01 Nov. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3460.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.hiddeninvestigations.net/" rel="nofollow"&gt;https://ctf.hiddeninvestigations.net/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/188318"&gt;HiddenInvestigations&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3460</guid><start_date>20261030T140000</start_date><finish_date>20261101T140000</finish_date><logo_url>/media/events/HI_Cyber_Con_2026_CTFtime_Logo.png</logo_url><url>https://ctf.hiddeninvestigations.net/</url><ctftime_url>/event/3460</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 188318, "name": "Hidden Investigations"}]</organizers><ctf_id>1704</ctf_id><ctf_name>HI Cyber Con CTF</ctf_name></item><item><title>HKCERT CTF 2026 (Qualifying Round)</title><link>https://ctftime.org/event/3418</link><description>
 Name: HKCERT CTF 2026 (Qualifying Round) (an &lt;a href="/ctf/529"&gt;HKCERT CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 6, 2026, 10 a.m. &amp;mdash; 07 Nov. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3418.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
