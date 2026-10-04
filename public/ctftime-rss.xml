@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 04 Oct 2026 05:54:03 -0000</lastBuildDate><item><title>Africa battleCTF 2026 Qualifier</title><link>https://ctftime.org/event/3462</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 04 Oct 2026 12:21:49 -0000</lastBuildDate><item><title>Africa battleCTF 2026 Qualifier</title><link>https://ctftime.org/event/3462</link><description>
 Name: Africa battleCTF 2026 Qualifier (an &lt;a href="/ctf/968"&gt;Africa battleCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 4, 2026, 11 p.m. &amp;mdash; 04 Nov. 2026, 23:00 UTC &amp;nbsp;&lt;a href="/event/3462.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -251,21 +251,7 @@ Event organizers:
 &lt;a href="/team/281844"&gt;H7Tex&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3094</guid><start_date>20261024T063000</start_date><finish_date>20261025T063000</finish_date><logo_url>/media/events/87939ee617d4b7c6287bebf8cd7a620c.jpg</logo_url><url>https://2026.h7tex.com/</url><ctftime_url>/event/3094</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Chennai, Tamil Nadu</location><onsite>True</onsite><organizers>[{"id": 281844, "name": "H7Tex"}]</organizers><ctf_id>1169</ctf_id><ctf_name>H7CTF</ctf_name></item><item><title>VOID CTF Qualifiers</title><link>https://ctftime.org/event/3468</link><description>
-Name: VOID CTF Qualifiers (an &lt;a href="/ctf/1720"&gt;VOID CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 24, 2026, 6:30 p.m. &amp;mdash; 25 Oct. 2026, 18:30 UTC &amp;nbsp;&lt;a href="/event/3468.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=India%2C%20KIET%20Deemed%20to%20be%20University%2C%20Ghaziabad"&gt;India, KIET Deemed to be University, Ghaziabad&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://ctf.void-society.in/" rel="nofollow"&gt;https://ctf.void-society.in/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/407696"&gt;void-society&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3468</guid><start_date>20261024T183000</start_date><finish_date>20261025T183000</finish_date><logo_url>/media/events/void-ctf-logo.png</logo_url><url>https://ctf.void-society.in/</url><ctftime_url>/event/3468</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>India, KIET Deemed to be University, Ghaziabad</location><onsite>False</onsite><organizers>[{"id": 407696, "name": "void-society"}]</organizers><ctf_id>1720</ctf_id><ctf_name>VOID CTF</ctf_name></item><item><title>Sudocrypt v16.0</title><link>https://ctftime.org/event/3443</link><description>
+</description><guid>https://ctftime.org/event/3094</guid><start_date>20261024T063000</start_date><finish_date>20261025T063000</finish_date><logo_url>/media/events/87939ee617d4b7c6287bebf8cd7a620c.jpg</logo_url><url>https://2026.h7tex.com/</url><ctftime_url>/event/3094</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Chennai, Tamil Nadu</location><onsite>True</onsite><organizers>[{"id": 281844, "name": "H7Tex"}]</organizers><ctf_id>1169</ctf_id><ctf_name>H7CTF</ctf_name></item><item><title>Sudocrypt v16.0</title><link>https://ctftime.org/event/3443</link><description>
 Name: Sudocrypt v16.0 (an &lt;a href="/ctf/869"&gt;Sudocrypt&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 27, 2026, 3:30 a.m. &amp;mdash; 28 Oct. 2026, 15:30 UTC &amp;nbsp;&lt;a href="/event/3443.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Hack quest&lt;br/&gt;
