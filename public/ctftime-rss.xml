@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 04 Oct 2026 21:27:48 -0000</lastBuildDate><item><title>Africa battleCTF 2026 Qualifier</title><link>https://ctftime.org/event/3462</link><description>
-Name: Africa battleCTF 2026 Qualifier (an &lt;a href="/ctf/968"&gt;Africa battleCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 4, 2026, 11 p.m. &amp;mdash; 04 Nov. 2026, 23:00 UTC &amp;nbsp;&lt;a href="/event/3462.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.bugpwn.com/" rel="nofollow"&gt;https://ctf.bugpwn.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/182428"&gt;BUG PWN&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3462</guid><start_date>20261004T230000</start_date><finish_date>20261104T230000</finish_date><logo_url>/media/events/Blue_Cartoon_April_Fools_Day_Instagram_Post.png</logo_url><url>https://ctf.bugpwn.com/</url><ctftime_url>/event/3462</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Individual</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 182428, "name": "BUG PWN"}]</organizers><ctf_id>968</ctf_id><ctf_name>Africa battleCTF</ctf_name></item><item><title>ByteMe CTF 26</title><link>https://ctftime.org/event/3438</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 05 Oct 2026 05:40:47 -0000</lastBuildDate><item><title>ByteMe CTF 26</title><link>https://ctftime.org/event/3438</link><description>
 Name: ByteMe CTF 26 (an &lt;a href="/ctf/1678"&gt;ByteMe CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 9, 2026, 4:30 a.m. &amp;mdash; 09 Oct. 2026, 12:30 UTC &amp;nbsp;&lt;a href="/event/3438.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
