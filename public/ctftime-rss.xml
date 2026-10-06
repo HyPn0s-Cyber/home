@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 06 Oct 2026 06:20:25 -0000</lastBuildDate><item><title>ByteMe CTF 26</title><link>https://ctftime.org/event/3438</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 06 Oct 2026 18:20:52 -0000</lastBuildDate><item><title>ByteMe CTF 26</title><link>https://ctftime.org/event/3438</link><description>
 Name: ByteMe CTF 26 (an &lt;a href="/ctf/1678"&gt;ByteMe CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 9, 2026, 4:30 a.m. &amp;mdash; 09 Oct. 2026, 12:30 UTC &amp;nbsp;&lt;a href="/event/3438.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -47,7 +47,7 @@ Date: Oct. 10, 2026, 4:30 a.m. &amp;mdash; 11 Oct. 2026, 04:30 UTC &amp;nbsp;&lt
 Format: Jeopardy&lt;br/&gt;
 &lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
 Location: &lt;a href="http://maps.yandex.com/?text=Online"&gt;Online&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://isfcr.xyz/" rel="nofollow"&gt;https://isfcr.xyz/&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://isfcrpesu.ctfd.io/" rel="nofollow"&gt;https://isfcrpesu.ctfd.io/&lt;/a&gt;&lt;br/&gt;
 Rating weight: 0.00&lt;br/&gt;
 
 Event organizers: 
@@ -55,7 +55,7 @@ Event organizers:
 &lt;a href="/team/166645"&gt;x6e.x65.x78.x75.x73&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3441</guid><start_date>20261010T043000</start_date><finish_date>20261011T043000</finish_date><logo_url>/media/events/v7_1.jpg</logo_url><url>https://isfcr.xyz/</url><ctftime_url>/event/3441</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Online</location><onsite>False</onsite><organizers>[{"id": 166645, "name": "ISFCR PESU"}]</organizers><ctf_id>942</ctf_id><ctf_name>ISFCR PESU CTF</ctf_name></item><item><title>KubSTU CTF</title><link>https://ctftime.org/event/3446</link><description>
+</description><guid>https://ctftime.org/event/3441</guid><start_date>20261010T043000</start_date><finish_date>20261011T043000</finish_date><logo_url>/media/events/v7_1.jpg</logo_url><url>https://isfcrpesu.ctfd.io/</url><ctftime_url>/event/3441</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Online</location><onsite>False</onsite><organizers>[{"id": 166645, "name": "ISFCR PESU"}]</organizers><ctf_id>942</ctf_id><ctf_name>ISFCR PESU CTF</ctf_name></item><item><title>KubSTU CTF</title><link>https://ctftime.org/event/3446</link><description>
 Name: KubSTU CTF (an &lt;a href="/ctf/1499"&gt;KubSTU CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 10, 2026, 7 a.m. &amp;mdash; 11 Oct. 2026, 13:00 UTC &amp;nbsp;&lt;a href="/event/3446.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -229,7 +229,7 @@ Date: Oct. 24, 2026, 3:30 a.m. &amp;mdash; 25 Oct. 2026, 06:30 UTC &amp;nbsp;&lt
 Format: Jeopardy&lt;br/&gt;
 &lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
 Location: &lt;a href="http://maps.yandex.com/?text=Bengaluru%2C%20India"&gt;Bengaluru, India&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://isfcr.xyz/" rel="nofollow"&gt;https://isfcr.xyz/&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://isfcrpesu.ctfd.io/" rel="nofollow"&gt;https://isfcrpesu.ctfd.io/&lt;/a&gt;&lt;br/&gt;
 Rating weight: 0.00&lt;br/&gt;
 
 Event organizers: 
@@ -237,7 +237,7 @@ Event organizers:
 &lt;a href="/team/166645"&gt;x6e.x65.x78.x75.x73&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3442</guid><start_date>20261024T033000</start_date><finish_date>20261025T063000</finish_date><logo_url>/media/events/v7_2.jpg</logo_url><url>https://isfcr.xyz/</url><ctftime_url>/event/3442</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Bengaluru, India</location><onsite>True</onsite><organizers>[{"id": 166645, "name": "ISFCR PESU"}]</organizers><ctf_id>942</ctf_id><ctf_name>ISFCR PESU CTF</ctf_name></item><item><title>H7CTF 2026 Finals</title><link>https://ctftime.org/event/3094</link><description>
+</description><guid>https://ctftime.org/event/3442</guid><start_date>20261024T033000</start_date><finish_date>20261025T063000</finish_date><logo_url>/media/events/v7_2.jpg</logo_url><url>https://isfcrpesu.ctfd.io/</url><ctftime_url>/event/3442</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Bengaluru, India</location><onsite>True</onsite><organizers>[{"id": 166645, "name": "ISFCR PESU"}]</organizers><ctf_id>942</ctf_id><ctf_name>ISFCR PESU CTF</ctf_name></item><item><title>H7CTF 2026 Finals</title><link>https://ctftime.org/event/3094</link><description>
 Name: H7CTF 2026 Finals (an &lt;a href="/ctf/1169"&gt;H7CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 24, 2026, 6:30 a.m. &amp;mdash; 25 Oct. 2026, 06:30 UTC &amp;nbsp;&lt;a href="/event/3094.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Attack-Defense&lt;br/&gt;
