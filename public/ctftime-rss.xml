@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 08 Oct 2026 06:03:22 -0000</lastBuildDate><item><title>ByteMe CTF 26</title><link>https://ctftime.org/event/3438</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 08 Oct 2026 13:33:17 -0000</lastBuildDate><item><title>ByteMe CTF 26</title><link>https://ctftime.org/event/3438</link><description>
 Name: ByteMe CTF 26 (an &lt;a href="/ctf/1678"&gt;ByteMe CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 9, 2026, 4:30 a.m. &amp;mdash; 09 Oct. 2026, 12:30 UTC &amp;nbsp;&lt;a href="/event/3438.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -181,21 +181,7 @@ Event organizers:
 &lt;a href="/team/8299"&gt;HITCON&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3340</guid><start_date>20261023T140000</start_date><finish_date>20261025T140000</finish_date><logo_url>/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg</logo_url><url>https://ctf2026.hitcon.org/</url><ctftime_url>/event/3340</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>91.16</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 8299, "name": "HITCON"}]</organizers><ctf_id>79</ctf_id><ctf_name>HITCON CTF</ctf_name></item><item><title>h4ckc0n 2026</title><link>https://ctftime.org/event/3464</link><description>
-Name: h4ckc0n 2026 (an &lt;a href="/ctf/115"&gt;h4ckc0n&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 23, 2026, 3:30 p.m. &amp;mdash; 24 Oct. 2026, 15:30 UTC &amp;nbsp;&lt;a href="/event/3464.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="http://h4ckc0n.in/" rel="nofollow"&gt;http://h4ckc0n.in/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 24.23&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/15154"&gt;d4rkc0de&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3464</guid><start_date>20261023T153000</start_date><finish_date>20261024T153000</finish_date><logo_url>/media/events/images_1.jpeg</logo_url><url>http://h4ckc0n.in/</url><ctftime_url>/event/3464</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.23</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 15154, "name": "d4rkc0de"}]</organizers><ctf_id>115</ctf_id><ctf_name>h4ckc0n</ctf_name></item><item><title>RSTCON 2026 CTF</title><link>https://ctftime.org/event/3377</link><description>
+</description><guid>https://ctftime.org/event/3340</guid><start_date>20261023T140000</start_date><finish_date>20261025T140000</finish_date><logo_url>/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg</logo_url><url>https://ctf2026.hitcon.org/</url><ctftime_url>/event/3340</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>91.16</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 8299, "name": "HITCON"}]</organizers><ctf_id>79</ctf_id><ctf_name>HITCON CTF</ctf_name></item><item><title>RSTCON 2026 CTF</title><link>https://ctftime.org/event/3377</link><description>
 Name: RSTCON 2026 CTF (an &lt;a href="/ctf/1125"&gt;RSTCON CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 23, 2026, 5 p.m. &amp;mdash; 25 Oct. 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3377.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
