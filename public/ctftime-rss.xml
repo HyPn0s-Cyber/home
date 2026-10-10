@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 09 Oct 2026 22:40:09 -0000</lastBuildDate><item><title>Cryovault 2026 Quals</title><link>https://ctftime.org/event/3441</link><description>
-Name: Cryovault 2026 Quals (an &lt;a href="/ctf/942"&gt;ISFCR PESU CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 10, 2026, 4:30 a.m. &amp;mdash; 11 Oct. 2026, 04:30 UTC &amp;nbsp;&lt;a href="/event/3441.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Online"&gt;Online&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://isfcrpesu.ctfd.io/" rel="nofollow"&gt;https://isfcrpesu.ctfd.io/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/166645"&gt;x6e.x65.x78.x75.x73&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3441</guid><start_date>20261010T043000</start_date><finish_date>20261011T043000</finish_date><logo_url>/media/events/v7_1.jpg</logo_url><url>https://isfcrpesu.ctfd.io/</url><ctftime_url>/event/3441</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Online</location><onsite>False</onsite><organizers>[{"id": 166645, "name": "ISFCR PESU"}]</organizers><ctf_id>942</ctf_id><ctf_name>ISFCR PESU CTF</ctf_name></item><item><title>FooBar CTF 2026</title><link>https://ctftime.org/event/3445</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 10 Oct 2026 05:55:23 -0000</lastBuildDate><item><title>FooBar CTF 2026</title><link>https://ctftime.org/event/3445</link><description>
 Name: FooBar CTF 2026 (an &lt;a href="/ctf/611"&gt;FooBarCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 10, 2026, 6:30 a.m. &amp;mdash; 11 Oct. 2026, 06:30 UTC &amp;nbsp;&lt;a href="/event/3445.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
