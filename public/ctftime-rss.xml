@@ -1,47 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 10 Oct 2026 05:55:23 -0000</lastBuildDate><item><title>FooBar CTF 2026</title><link>https://ctftime.org/event/3445</link><description>
-Name: FooBar CTF 2026 (an &lt;a href="/ctf/611"&gt;FooBarCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 10, 2026, 6:30 a.m. &amp;mdash; 11 Oct. 2026, 06:30 UTC &amp;nbsp;&lt;a href="/event/3445.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://foobarctf.arhn.in/" rel="nofollow"&gt;https://foobarctf.arhn.in/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 25.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/130794"&gt;Alchemists of Kernel&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3445</guid><start_date>20261010T063000</start_date><finish_date>20261011T063000</finish_date><logo_url>/media/events/Foobar_logo_1_1.png</logo_url><url>https://foobarctf.arhn.in/</url><ctftime_url>/event/3445</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 130794, "name": "Alchemists of Kernel"}]</organizers><ctf_id>611</ctf_id><ctf_name>FooBarCTF</ctf_name></item><item><title>KubSTU CTF</title><link>https://ctftime.org/event/3446</link><description>
-Name: KubSTU CTF (an &lt;a href="/ctf/1499"&gt;KubSTU CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 10, 2026, 7 a.m. &amp;mdash; 11 Oct. 2026, 13:00 UTC &amp;nbsp;&lt;a href="/event/3446.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://kubstu-ctf.ru/" rel="nofollow"&gt;https://kubstu-ctf.ru/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/223931"&gt;Capybaras&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3446</guid><start_date>20261010T070000</start_date><finish_date>20261011T130000</finish_date><logo_url>/media/events/Logo_Kubstu.png</logo_url><url>https://kubstu-ctf.ru/</url><ctftime_url>/event/3446</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 223931, "name": "Capybaras"}]</organizers><ctf_id>1499</ctf_id><ctf_name>KubSTU CTF</ctf_name></item><item><title>Narxoz CTF</title><link>https://ctftime.org/event/3437</link><description>
-Name: Narxoz CTF (an &lt;a href="/ctf/1686"&gt;Narxoz CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 10, 2026, 10 a.m. &amp;mdash; 10 Oct. 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3437.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Hack quest&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Almaty%2C%20Kazakhstan"&gt;Almaty, Kazakhstan&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://narxploit.narxoz.kz/register.html" rel="nofollow"&gt;https://narxploit.narxoz.kz/register.html&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/392547"&gt;NarXploit&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3437</guid><start_date>20261010T100000</start_date><finish_date>20261010T180000</finish_date><logo_url>/media/events/photo_2026-08-29_21-55-09.jpg</logo_url><url>https://narxploit.narxoz.kz/register.html</url><ctftime_url>/event/3437</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Almaty, Kazakhstan</location><onsite>True</onsite><organizers>[{"id": 392547, "name": "NarXploit"}]</organizers><ctf_id>1686</ctf_id><ctf_name>Narxoz CTF</ctf_name></item><item><title>GaianSpace CTF 2026</title><link>https://ctftime.org/event/3354</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 10 Oct 2026 12:33:08 -0000</lastBuildDate><item><title>GaianSpace CTF 2026</title><link>https://ctftime.org/event/3354</link><description>
 Name: GaianSpace CTF 2026 (an &lt;a href="/ctf/1284"&gt;GaianSpace CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 10, 2026, 9 p.m. &amp;mdash; 14 Oct. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3354.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
