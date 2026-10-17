@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 17 Oct 2026 15:36:06 -0000</lastBuildDate><item><title>SAS CTF 2026 Finals</title><link>https://ctftime.org/event/3409</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 17 Oct 2026 20:33:19 -0000</lastBuildDate><item><title>SAS CTF 2026 Finals</title><link>https://ctftime.org/event/3409</link><description>
 Name: SAS CTF 2026 Finals (an &lt;a href="/ctf/1081"&gt;SAS CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 20, 2026, 3 a.m. &amp;mdash; 20 Oct. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3409.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Attack-Defense&lt;br/&gt;
@@ -167,7 +167,21 @@ Event organizers:
 &lt;a href="/team/405374"&gt;JCOE Cyber Sentinels&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3381</guid><start_date>20261030T063000</start_date><finish_date>20261031T063000</finish_date><logo_url>/media/events/tanmay_2.png</logo_url><url>https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293</url><ctftime_url>/event/3381</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Jaihind College of Engineering,At Post Kuran, Taluka Junnar, Pune - 410511, Maharashtra, India  (19°09'47.2"N 73°54'52.2"E)</location><onsite>True</onsite><organizers>[{"id": 405374, "name": "JCOE Cyber Sentinels"}]</organizers><ctf_id>1415</ctf_id><ctf_name>Hacker's Gambit</ctf_name></item><item><title>HI Cyber Con 2026 CTF</title><link>https://ctftime.org/event/3460</link><description>
+</description><guid>https://ctftime.org/event/3381</guid><start_date>20261030T063000</start_date><finish_date>20261031T063000</finish_date><logo_url>/media/events/tanmay_2.png</logo_url><url>https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293</url><ctftime_url>/event/3381</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Jaihind College of Engineering,At Post Kuran, Taluka Junnar, Pune - 410511, Maharashtra, India  (19°09'47.2"N 73°54'52.2"E)</location><onsite>True</onsite><organizers>[{"id": 405374, "name": "JCOE Cyber Sentinels"}]</organizers><ctf_id>1415</ctf_id><ctf_name>Hacker's Gambit</ctf_name></item><item><title>CTF@AC26 - Finals</title><link>https://ctftime.org/event/3463</link><description>
+Name: CTF@AC26 - Finals (an &lt;a href="/ctf/1337"&gt;CTF@AC&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 30, 2026, 10 a.m. &amp;mdash; 01 Nov. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3463.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Faculty%20of%20Automation%20%26%20Computer%20Science%2C%20Timisoara%2C%20Romania"&gt;Faculty of Automation &amp;amp; Computer Science, Timisoara, Romania&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.ac.upt.ro/" rel="nofollow"&gt;https://ctf.ac.upt.ro/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 25.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/276942"&gt;UPT-CTF&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3463</guid><start_date>20261030T100000</start_date><finish_date>20261101T100000</finish_date><logo_url>/media/events/CTFAC26_1.png</logo_url><url>https://ctf.ac.upt.ro/</url><ctftime_url>/event/3463</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Faculty of Automation &amp; Computer Science, Timisoara, Romania</location><onsite>True</onsite><organizers>[{"id": 276942, "name": "UPT-CTF"}]</organizers><ctf_id>1337</ctf_id><ctf_name>CTF@AC</ctf_name></item><item><title>HI Cyber Con 2026 CTF</title><link>https://ctftime.org/event/3460</link><description>
 Name: HI Cyber Con 2026 CTF (an &lt;a href="/ctf/1704"&gt;HI Cyber Con CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 30, 2026, 2 p.m. &amp;mdash; 01 Nov. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3460.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -209,7 +223,21 @@ Event organizers:
 &lt;a href="/team/203499"&gt;ctfcup&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3469</guid><start_date>20261031T090000</start_date><finish_date>20261101T090000</finish_date><logo_url></logo_url><url>https://ctfcup.ru/</url><ctftime_url>/event/3469</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 203499, "name": "ctfcup"}]</organizers><ctf_id>864</ctf_id><ctf_name>Russian CTF Cup</ctf_name></item><item><title>HKCERT CTF 2026 (Qualifying Round)</title><link>https://ctftime.org/event/3418</link><description>
+</description><guid>https://ctftime.org/event/3469</guid><start_date>20261031T090000</start_date><finish_date>20261101T090000</finish_date><logo_url></logo_url><url>https://ctfcup.ru/</url><ctftime_url>/event/3469</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 203499, "name": "ctfcup"}]</organizers><ctf_id>864</ctf_id><ctf_name>Russian CTF Cup</ctf_name></item><item><title>StealthCup 2026</title><link>https://ctftime.org/event/3482</link><description>
+Name: StealthCup 2026 (an &lt;a href="/ctf/1248"&gt;Stealth-Cup&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 31, 2026, 1 p.m. &amp;mdash; 31 Oct. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3482.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Hack quest&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=On-site%2C%20Quebec%20City%2C%20Canada%20%28Hackfest%2C%20Quebec%20City%20Convention%20Centre%29.%20Remote%20participation%20only%20on%20request."&gt;On-site, Quebec City, Canada (Hackfest, Quebec City Convention Centre). Remote participation only on request.&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://stealth.ait.ac.at/" rel="nofollow"&gt;https://stealth.ait.ac.at/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/104949"&gt;0x01DA&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3482</guid><start_date>20261031T130000</start_date><finish_date>20261031T210000</finish_date><logo_url></logo_url><url>https://stealth.ait.ac.at/</url><ctftime_url>/event/3482</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>On-site, Quebec City, Canada (Hackfest, Quebec City Convention Centre). Remote participation only on request.</location><onsite>True</onsite><organizers>[{"id": 104949, "name": "0x01DA"}]</organizers><ctf_id>1248</ctf_id><ctf_name>Stealth-Cup</ctf_name></item><item><title>HKCERT CTF 2026 (Qualifying Round)</title><link>https://ctftime.org/event/3418</link><description>
 Name: HKCERT CTF 2026 (Qualifying Round) (an &lt;a href="/ctf/529"&gt;HKCERT CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 6, 2026, 10 a.m. &amp;mdash; 07 Nov. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3418.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -477,7 +505,21 @@ Event organizers:
 &lt;a href="/team/309820"&gt;x3CTF&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3450</guid><start_date>20261204T180000</start_date><finish_date>20261206T180000</finish_date><logo_url>/media/events/786e257b702d338e92f52ec66515ba53.png</logo_url><url>https://x3c.tf/</url><ctftime_url>/event/3450</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 309820, "name": "x3CTF"}]</organizers><ctf_id>1153</ctf_id><ctf_name>x3ctf</ctf_name></item><item><title>niteCTF 2026</title><link>https://ctftime.org/event/3367</link><description>
+</description><guid>https://ctftime.org/event/3450</guid><start_date>20261204T180000</start_date><finish_date>20261206T180000</finish_date><logo_url>/media/events/786e257b702d338e92f52ec66515ba53.png</logo_url><url>https://x3c.tf/</url><ctftime_url>/event/3450</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 309820, "name": "x3CTF"}]</organizers><ctf_id>1153</ctf_id><ctf_name>x3ctf</ctf_name></item><item><title>bi0sCTF 2026</title><link>https://ctftime.org/event/3480</link><description>
+Name: bi0sCTF 2026 (an &lt;a href="/ctf/31"&gt;bi0sCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Dec. 5, 2026, 5 a.m. &amp;mdash; 06 Dec. 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3480.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.bi0s.in/" rel="nofollow"&gt;https://ctf.bi0s.in/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 79.51&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/662"&gt;bi0s&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3480</guid><start_date>20261205T050000</start_date><finish_date>20261206T170000</finish_date><logo_url>/media/events/dark-logo_1.png</logo_url><url>https://ctf.bi0s.in/</url><ctftime_url>/event/3480</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>79.51</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 662, "name": "bi0s"}]</organizers><ctf_id>31</ctf_id><ctf_name>bi0sCTF</ctf_name></item><item><title>niteCTF 2026</title><link>https://ctftime.org/event/3367</link><description>
 Name: niteCTF 2026 (an &lt;a href="/ctf/663"&gt;niteCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Dec. 11, 2026, noon &amp;mdash; 13 Dec. 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3367.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -547,4 +589,18 @@ Event organizers:
 &lt;a href="/team/173925"&gt;Highlander Hackers&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3458</guid><start_date>20270313T170000</start_date><finish_date>20270314T160000</finish_date><logo_url>/media/events/mono-side-jerseyctf.png</logo_url><url>https://ctf.jerseyctf.com/</url><ctftime_url>/event/3458</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>47.14</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 173925, "name": "Highlander Hackers"}]</organizers><ctf_id>724</ctf_id><ctf_name>JerseyCTF</ctf_name></item></channel></rss>
+</description><guid>https://ctftime.org/event/3458</guid><start_date>20270313T170000</start_date><finish_date>20270314T160000</finish_date><logo_url>/media/events/mono-side-jerseyctf.png</logo_url><url>https://ctf.jerseyctf.com/</url><ctftime_url>/event/3458</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>47.14</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 173925, "name": "Highlander Hackers"}]</organizers><ctf_id>724</ctf_id><ctf_name>JerseyCTF</ctf_name></item><item><title>Undutmaning 2027</title><link>https://ctftime.org/event/3481</link><description>
+Name: Undutmaning 2027 (an &lt;a href="/ctf/885"&gt;Undutmaning&lt;/a&gt; event.)&lt;br/&gt;
+Date: March 20, 2027, 11 a.m. &amp;mdash; 20 March 2027, 19:00 UTC &amp;nbsp;&lt;a href="/event/3481.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://undutmaning.se/" rel="nofollow"&gt;https://undutmaning.se/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 44.75&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/212504"&gt;Undutmaning&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3481</guid><start_date>20270320T110000</start_date><finish_date>20270320T190000</finish_date><logo_url>/media/events/Undutmaning_ctfd_1.jpg</logo_url><url>https://undutmaning.se/</url><ctftime_url>/event/3481</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>44.75</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 212504, "name": "Undutmaning"}]</organizers><ctf_id>885</ctf_id><ctf_name>Undutmaning</ctf_name></item></channel></rss>
