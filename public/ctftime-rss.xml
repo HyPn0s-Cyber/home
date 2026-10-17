@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 17 Oct 2026 10:45:35 -0000</lastBuildDate><item><title>DEADFACE CTF 2026</title><link>https://ctftime.org/event/3279</link><description>
-Name: DEADFACE CTF 2026 (an &lt;a href="/ctf/487"&gt;DEADFACE CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 17, 2026, 2 p.m. &amp;mdash; 19 Oct. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3279.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.deadface.io/" rel="nofollow"&gt;https://ctf.deadface.io/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 35.39&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/127017"&gt;Cyber Hacktics&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3279</guid><start_date>20261017T140000</start_date><finish_date>20261019T000000</finish_date><logo_url>/media/events/logo_deadface_ctf_2026.png</logo_url><url>https://ctf.deadface.io/</url><ctftime_url>/event/3279</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>35.39</weight><live_feed>https://ctftime.org/live/3279/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 127017, "name": "Cyber Hacktics"}]</organizers><ctf_id>487</ctf_id><ctf_name>DEADFACE CTF</ctf_name></item><item><title>SAS CTF 2026 Finals</title><link>https://ctftime.org/event/3409</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 17 Oct 2026 15:36:06 -0000</lastBuildDate><item><title>SAS CTF 2026 Finals</title><link>https://ctftime.org/event/3409</link><description>
 Name: SAS CTF 2026 Finals (an &lt;a href="/ctf/1081"&gt;SAS CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 20, 2026, 3 a.m. &amp;mdash; 20 Oct. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3409.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Attack-Defense&lt;br/&gt;
