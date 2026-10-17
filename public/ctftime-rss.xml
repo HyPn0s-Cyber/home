@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 17 Oct 2026 04:25:51 -0000</lastBuildDate><item><title>Securinets CTF Quals 2026</title><link>https://ctftime.org/event/3364</link><description>
-Name: Securinets CTF Quals 2026 (an &lt;a href="/ctf/105"&gt;Securinets CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 17, 2026, 9 a.m. &amp;mdash; 18 Oct. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3364.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.securinets.tn/" rel="nofollow"&gt;https://ctf.securinets.tn/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 85.12&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/5084"&gt;Securinets&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3364</guid><start_date>20261017T090000</start_date><finish_date>20261018T210000</finish_date><logo_url>/media/events/logo_red_copy_1_2.jpg</logo_url><url>https://ctf.securinets.tn/</url><ctftime_url>/event/3364</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>85.12</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 5084, "name": "Securinets"}]</organizers><ctf_id>105</ctf_id><ctf_name>Securinets CTF</ctf_name></item><item><title>SOLAR CTF 2026</title><link>https://ctftime.org/event/3471</link><description>
-Name: SOLAR CTF 2026 (an &lt;a href="/ctf/1723"&gt;SOLAR CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 17, 2026, 9 a.m. &amp;mdash; 18 Oct. 2026, 09:00 UTC &amp;nbsp;&lt;a href="/event/3471.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://solarctf.ru/" rel="nofollow"&gt;https://solarctf.ru/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/451200"&gt;SOLARCTF&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3471</guid><start_date>20261017T090000</start_date><finish_date>20261018T090000</finish_date><logo_url>/media/events/ctf_time_4.png</logo_url><url>https://solarctf.ru/</url><ctftime_url>/event/3471</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Academic</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 451200, "name": "SOLARCTF"}]</organizers><ctf_id>1723</ctf_id><ctf_name>SOLAR CTF</ctf_name></item><item><title>DEADFACE CTF 2026</title><link>https://ctftime.org/event/3279</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 17 Oct 2026 10:45:35 -0000</lastBuildDate><item><title>DEADFACE CTF 2026</title><link>https://ctftime.org/event/3279</link><description>
 Name: DEADFACE CTF 2026 (an &lt;a href="/ctf/487"&gt;DEADFACE CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 17, 2026, 2 p.m. &amp;mdash; 19 Oct. 2026, 00:00 UTC &amp;nbsp;&lt;a href="/event/3279.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
