@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 19 Oct 2026 22:20:28 -0000</lastBuildDate><item><title>SAS CTF 2026 Finals</title><link>https://ctftime.org/event/3409</link><description>
-Name: SAS CTF 2026 Finals (an &lt;a href="/ctf/1081"&gt;SAS CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 20, 2026, 3 a.m. &amp;mdash; 20 Oct. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3409.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Attack-Defense&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Indonesia%2C%20Bali"&gt;Indonesia, Bali&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://ctf.thesascon.com/" rel="nofollow"&gt;https://ctf.thesascon.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 49.50&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/283057"&gt;SAS CREW&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3409</guid><start_date>20261020T030000</start_date><finish_date>20261020T140000</finish_date><logo_url>/media/events/SAS26_temp_1.png</logo_url><url>https://ctf.thesascon.com/</url><ctftime_url>/event/3409</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>49.50</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Indonesia, Bali</location><onsite>True</onsite><organizers>[{"id": 283057, "name": "SAS CREW"}]</organizers><ctf_id>1081</ctf_id><ctf_name>SAS CTF</ctf_name></item><item><title>cruXipher 2026 - ATMoS '26, BITS Hyderabad</title><link>https://ctftime.org/event/3369</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 20 Oct 2026 04:52:46 -0000</lastBuildDate><item><title>cruXipher 2026 - ATMoS '26, BITS Hyderabad</title><link>https://ctftime.org/event/3369</link><description>
 Name: cruXipher 2026 - ATMoS &amp;#39;26, BITS Hyderabad (an &lt;a href="/ctf/1004"&gt;cruXipher&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 23, 2026, 12:30 a.m. &amp;mdash; 25 Oct. 2026, 00:30 UTC &amp;nbsp;&lt;a href="/event/3369.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
