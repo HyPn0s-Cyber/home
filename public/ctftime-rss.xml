@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 23 Oct 2026 04:49:25 -0000</lastBuildDate><item><title>CREST CTF 2.0</title><link>https://ctftime.org/event/3477</link><description>
-Name: CREST CTF 2.0 (an &lt;a href="/ctf/1469"&gt;CREST CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 23, 2026, 5:30 a.m. &amp;mdash; 23 Oct. 2026, 11:30 UTC &amp;nbsp;&lt;a href="/event/3477.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://crest.ctf7.com/" rel="nofollow"&gt;https://crest.ctf7.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/418000"&gt;CREST&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3477</guid><start_date>20261023T053000</start_date><finish_date>20261023T113000</finish_date><logo_url>/media/events/WhatsApp_Image_2026-10-11_at_14.32.54.jpeg</logo_url><url>https://crest.ctf7.com/</url><ctftime_url>/event/3477</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed>https://ctftime.org/live/3477/</live_feed><restrictions>Individual</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 418000, "name": "CREST"}]</organizers><ctf_id>1469</ctf_id><ctf_name>CREST CTF</ctf_name></item><item><title>HITCON CTF 2026</title><link>https://ctftime.org/event/3340</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 23 Oct 2026 11:40:54 -0000</lastBuildDate><item><title>HITCON CTF 2026</title><link>https://ctftime.org/event/3340</link><description>
 Name: HITCON CTF 2026 (an &lt;a href="/ctf/79"&gt;HITCON CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 23, 2026, 2 p.m. &amp;mdash; 25 Oct. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3340.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
