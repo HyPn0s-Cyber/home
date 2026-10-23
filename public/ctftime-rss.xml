@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 23 Oct 2026 11:40:54 -0000</lastBuildDate><item><title>HITCON CTF 2026</title><link>https://ctftime.org/event/3340</link><description>
-Name: HITCON CTF 2026 (an &lt;a href="/ctf/79"&gt;HITCON CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 23, 2026, 2 p.m. &amp;mdash; 25 Oct. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3340.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf2026.hitcon.org/" rel="nofollow"&gt;https://ctf2026.hitcon.org/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 91.16&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/8299"&gt;HITCON&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3340</guid><start_date>20261023T140000</start_date><finish_date>20261025T140000</finish_date><logo_url>/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg</logo_url><url>https://ctf2026.hitcon.org/</url><ctftime_url>/event/3340</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>91.16</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 8299, "name": "HITCON"}]</organizers><ctf_id>79</ctf_id><ctf_name>HITCON CTF</ctf_name></item><item><title>RSTCON 2026 CTF</title><link>https://ctftime.org/event/3377</link><description>
-Name: RSTCON 2026 CTF (an &lt;a href="/ctf/1125"&gt;RSTCON CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 23, 2026, 5 p.m. &amp;mdash; 25 Oct. 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3377.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.rstcon.org/" rel="nofollow"&gt;https://ctf.rstcon.org/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 25.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/281202"&gt;RSTCON&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3377</guid><start_date>20261023T170000</start_date><finish_date>20261025T170000</finish_date><logo_url>/media/events/RSTCON-BLK_1.png</logo_url><url>https://ctf.rstcon.org/</url><ctftime_url>/event/3377</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 281202, "name": "RSTCON"}]</organizers><ctf_id>1125</ctf_id><ctf_name>RSTCON CTF</ctf_name></item><item><title>Hack.lu CTF 2026</title><link>https://ctftime.org/event/3207</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 23 Oct 2026 17:08:14 -0000</lastBuildDate><item><title>Hack.lu CTF 2026</title><link>https://ctftime.org/event/3207</link><description>
 Name: Hack.lu CTF 2026 (an &lt;a href="/ctf/8"&gt;Hack.lu CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 23, 2026, 6 p.m. &amp;mdash; 25 Oct. 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3207.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
