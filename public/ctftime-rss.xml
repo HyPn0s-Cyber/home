@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 23 Oct 2026 17:08:14 -0000</lastBuildDate><item><title>Hack.lu CTF 2026</title><link>https://ctftime.org/event/3207</link><description>
-Name: Hack.lu CTF 2026 (an &lt;a href="/ctf/8"&gt;Hack.lu CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 23, 2026, 6 p.m. &amp;mdash; 25 Oct. 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3207.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://flu.xxx/" rel="nofollow"&gt;https://flu.xxx/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 94.74&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/551"&gt;FluxFingers&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3207</guid><start_date>20261023T180000</start_date><finish_date>20261025T180000</finish_date><logo_url>/media/events/hacklu25.jpg</logo_url><url>https://flu.xxx/</url><ctftime_url>/event/3207</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>94.74</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 551, "name": "FluxFingers"}]</organizers><ctf_id>8</ctf_id><ctf_name>Hack.lu CTF</ctf_name></item><item><title>Cryovault 2026 Finals</title><link>https://ctftime.org/event/3442</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 23 Oct 2026 21:21:28 -0000</lastBuildDate><item><title>Cryovault 2026 Finals</title><link>https://ctftime.org/event/3442</link><description>
 Name: Cryovault 2026 Finals (an &lt;a href="/ctf/942"&gt;ISFCR PESU CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 24, 2026, 3:30 a.m. &amp;mdash; 25 Oct. 2026, 06:30 UTC &amp;nbsp;&lt;a href="/event/3442.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -365,7 +351,21 @@ Event organizers:
 &lt;a href="/team/442848"&gt;Seize da Flaq&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3408</guid><start_date>20261121T063000</start_date><finish_date>20261122T023000</finish_date><logo_url>/media/events/SDF_1.jpeg</logo_url><url>https://seizedaflaq.cyberonites.com/</url><ctftime_url>/event/3408</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Casual</restrictions><location>Mathura, Uttar Pradesh, India</location><onsite>True</onsite><organizers>[{"id": 442848, "name": "Seize da Flaq"}]</organizers><ctf_id>1657</ctf_id><ctf_name>Seize da Flaq</ctf_name></item><item><title>Crate-CTF 2026</title><link>https://ctftime.org/event/3336</link><description>
+</description><guid>https://ctftime.org/event/3408</guid><start_date>20261121T063000</start_date><finish_date>20261122T023000</finish_date><logo_url>/media/events/SDF_1.jpeg</logo_url><url>https://seizedaflaq.cyberonites.com/</url><ctftime_url>/event/3408</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Casual</restrictions><location>Mathura, Uttar Pradesh, India</location><onsite>True</onsite><organizers>[{"id": 442848, "name": "Seize da Flaq"}]</organizers><ctf_id>1657</ctf_id><ctf_name>Seize da Flaq</ctf_name></item><item><title>Cyber Ninja CTF 2026 - BLACKOUT</title><link>https://ctftime.org/event/3490</link><description>
+Name: Cyber Ninja CTF 2026 - BLACKOUT (an &lt;a href="/ctf/1739"&gt;Cyber Ninja CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 21, 2026, 9 a.m. &amp;mdash; 22 Nov. 2026, 09:00 UTC &amp;nbsp;&lt;a href="/event/3490.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://www.cyber-ninja-ctf.fr/" rel="nofollow"&gt;https://www.cyber-ninja-ctf.fr/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/190074"&gt;OteriHack&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3490</guid><start_date>20261121T090000</start_date><finish_date>20261122T090000</finish_date><logo_url>/media/events/66a76ec5022678cdd16d2d5a_Design_sans_titre_14.png</logo_url><url>https://www.cyber-ninja-ctf.fr/</url><ctftime_url>/event/3490</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Individual</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 190074, "name": "OteriHack"}]</organizers><ctf_id>1739</ctf_id><ctf_name>Cyber Ninja CTF</ctf_name></item><item><title>Crate-CTF 2026</title><link>https://ctftime.org/event/3336</link><description>
 Name: Crate-CTF 2026 (an &lt;a href="/ctf/1172"&gt;Crate-CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 21, 2026, 1 p.m. &amp;mdash; 21 Nov. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3336.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
