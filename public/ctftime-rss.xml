@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 24 Oct 2026 04:37:01 -0000</lastBuildDate><item><title>H7CTF 2026 Finals</title><link>https://ctftime.org/event/3094</link><description>
-Name: H7CTF 2026 Finals (an &lt;a href="/ctf/1169"&gt;H7CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 24, 2026, 6:30 a.m. &amp;mdash; 25 Oct. 2026, 06:30 UTC &amp;nbsp;&lt;a href="/event/3094.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Attack-Defense&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Chennai%2C%20Tamil%20Nadu"&gt;Chennai, Tamil Nadu&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://2026.h7tex.com/" rel="nofollow"&gt;https://2026.h7tex.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/281844"&gt;H7Tex&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3094</guid><start_date>20261024T063000</start_date><finish_date>20261025T063000</finish_date><logo_url>/media/events/87939ee617d4b7c6287bebf8cd7a620c.jpg</logo_url><url>https://2026.h7tex.com/</url><ctftime_url>/event/3094</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Chennai, Tamil Nadu</location><onsite>True</onsite><organizers>[{"id": 281844, "name": "H7Tex"}]</organizers><ctf_id>1169</ctf_id><ctf_name>H7CTF</ctf_name></item><item><title>BSides Peoria CTF 2026</title><link>https://ctftime.org/event/3473</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 24 Oct 2026 11:03:51 -0000</lastBuildDate><item><title>BSides Peoria CTF 2026</title><link>https://ctftime.org/event/3473</link><description>
 Name: BSides Peoria CTF 2026 (an &lt;a href="/ctf/1718"&gt;BSides Peoria CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 24, 2026, 2:45 p.m. &amp;mdash; 24 Oct. 2026, 20:45 UTC &amp;nbsp;&lt;a href="/event/3473.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
