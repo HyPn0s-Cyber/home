@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 24 Oct 2026 20:49:55 -0000</lastBuildDate><item><title>Sudocrypt v16.0</title><link>https://ctftime.org/event/3443</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 25 Oct 2026 04:41:16 -0000</lastBuildDate><item><title>Sudocrypt v16.0</title><link>https://ctftime.org/event/3443</link><description>
 Name: Sudocrypt v16.0 (an &lt;a href="/ctf/869"&gt;Sudocrypt&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 27, 2026, 3:30 a.m. &amp;mdash; 28 Oct. 2026, 15:30 UTC &amp;nbsp;&lt;a href="/event/3443.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Hack quest&lt;br/&gt;
@@ -83,7 +83,21 @@ Event organizers:
 &lt;a href="/team/364644"&gt;LoveFromMimic&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3459</guid><start_date>20261031T020000</start_date><finish_date>20261101T020000</finish_date><logo_url>/media/events/logo_139.png</logo_url><url>https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration</url><ctftime_url>/event/3459</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 364644, "name": "LoveFromMimic"}]</organizers><ctf_id>1212</ctf_id><ctf_name>Qiangwang Challenge on Cyber Mimic Defense</ctf_name></item><item><title>Russian CTF Cup X Qualifier</title><link>https://ctftime.org/event/3469</link><description>
+</description><guid>https://ctftime.org/event/3459</guid><start_date>20261031T020000</start_date><finish_date>20261101T020000</finish_date><logo_url>/media/events/logo_139.png</logo_url><url>https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration</url><ctftime_url>/event/3459</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 364644, "name": "LoveFromMimic"}]</organizers><ctf_id>1212</ctf_id><ctf_name>Qiangwang Challenge on Cyber Mimic Defense</ctf_name></item><item><title>HAM-DEFCON</title><link>https://ctftime.org/event/3491</link><description>
+Name: HAM-DEFCON (an &lt;a href="/ctf/1742"&gt;HAM-DEFCON&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 31, 2026, 3:30 a.m. &amp;mdash; 31 Oct. 2026, 07:30 UTC &amp;nbsp;&lt;a href="/event/3491.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Attack-Defense&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=National%20Institute%20Of%20Technology%20Warangal%2C%20Hanamkonda%2C%20Telangana%2C%20India%2C%20505004"&gt;National Institute Of Technology Warangal, Hanamkonda, Telangana, India, 505004&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="http://defcon.hamarc.tech/" rel="nofollow"&gt;http://defcon.hamarc.tech/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/452464"&gt;HAMARC&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3491</guid><start_date>20261031T033000</start_date><finish_date>20261031T073000</finish_date><logo_url>/media/events/hamarc.png</logo_url><url>http://defcon.hamarc.tech/</url><ctftime_url>/event/3491</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>False</public_votable><weight>0</weight><live_feed>https://ctftime.org/live/3491/</live_feed><restrictions>Casual</restrictions><location>National Institute Of Technology Warangal, Hanamkonda, Telangana, India, 505004</location><onsite>True</onsite><organizers>[{"id": 452464, "name": "HAMARC"}]</organizers><ctf_id>1742</ctf_id><ctf_name>HAM-DEFCON</ctf_name></item><item><title>Russian CTF Cup X Qualifier</title><link>https://ctftime.org/event/3469</link><description>
 Name: Russian CTF Cup X Qualifier (an &lt;a href="/ctf/864"&gt;Russian CTF Cup&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 31, 2026, 9 a.m. &amp;mdash; 01 Nov. 2026, 09:00 UTC &amp;nbsp;&lt;a href="/event/3469.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -211,7 +225,21 @@ Event organizers:
 &lt;a href="/team/439"&gt;NYUSEC&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3410</guid><start_date>20261112T170000</start_date><finish_date>20261114T050000</finish_date><logo_url>/media/events/csawlogo_2.png</logo_url><url>https://ctf.csaw.io/</url><ctftime_url>/event/3410</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>1.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 439, "name": "NYUSEC"}]</organizers><ctf_id>19</ctf_id><ctf_name>CSAW CTF Final Round</ctf_name></item><item><title>Platypwn 2026</title><link>https://ctftime.org/event/3082</link><description>
+</description><guid>https://ctftime.org/event/3410</guid><start_date>20261112T170000</start_date><finish_date>20261114T050000</finish_date><logo_url>/media/events/csawlogo_2.png</logo_url><url>https://ctf.csaw.io/</url><ctftime_url>/event/3410</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>1.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 439, "name": "NYUSEC"}]</organizers><ctf_id>19</ctf_id><ctf_name>CSAW CTF Final Round</ctf_name></item><item><title>TVX CTF 2026</title><link>https://ctftime.org/event/3486</link><description>
+Name: TVX CTF 2026 (an &lt;a href="/ctf/1738"&gt;TVX CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 13, 2026, 10 a.m. &amp;mdash; 13 Nov. 2026, 20:00 UTC &amp;nbsp;&lt;a href="/event/3486.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf-techvisions.com/" rel="nofollow"&gt;https://ctf-techvisions.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/452398"&gt;Tech Visions&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3486</guid><start_date>20261113T100000</start_date><finish_date>20261113T200000</finish_date><logo_url>/media/events/photo_2026-10-17_18-01-04.jpg</logo_url><url>https://ctf-techvisions.com/</url><ctftime_url>/event/3486</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Casual</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 452398, "name": "Tech Visions"}]</organizers><ctf_id>1738</ctf_id><ctf_name>TVX CTF</ctf_name></item><item><title>Platypwn 2026</title><link>https://ctftime.org/event/3082</link><description>
 Name: Platypwn 2026 (an &lt;a href="/ctf/979"&gt;Platypwn&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 13, 2026, 5 p.m. &amp;mdash; 14 Nov. 2026, 11:00 UTC &amp;nbsp;&lt;a href="/event/3082.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -379,7 +407,21 @@ Event organizers:
 &lt;a href="/team/417627"&gt;L3m0n CTF&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3485</guid><start_date>20261128T043000</start_date><finish_date>20261128T163000</finish_date><logo_url>/media/events/logo_4.jpeg</logo_url><url>https://l3m0nctf.xyz/</url><ctftime_url>/event/3485</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3485/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 417627, "name": "L3m0n CTF"}]</organizers><ctf_id>1468</ctf_id><ctf_name>L3m0n CTF</ctf_name></item><item><title>BlackHat MEA CTF Final 2026</title><link>https://ctftime.org/event/3386</link><description>
+</description><guid>https://ctftime.org/event/3485</guid><start_date>20261128T043000</start_date><finish_date>20261128T163000</finish_date><logo_url>/media/events/logo_4.jpeg</logo_url><url>https://l3m0nctf.xyz/</url><ctftime_url>/event/3485</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3485/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 417627, "name": "L3m0n CTF"}]</organizers><ctf_id>1468</ctf_id><ctf_name>L3m0n CTF</ctf_name></item><item><title>CyberNSK2027-Qualifier</title><link>https://ctftime.org/event/3489</link><description>
+Name: CyberNSK2027-Qualifier (an &lt;a href="/ctf/1525"&gt;CyberNSK&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 28, 2026, 9 a.m. &amp;mdash; 28 Nov. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3489.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Russia"&gt;Russia&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://quals.sslctf.ru/" rel="nofollow"&gt;https://quals.sslctf.ru/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/425775"&gt;siberiansecurityleague&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3489</guid><start_date>20261128T090000</start_date><finish_date>20261128T210000</finish_date><logo_url>/media/events/photo_2024-09-18_12-55-46_4.jpg</logo_url><url>https://quals.sslctf.ru/</url><ctftime_url>/event/3489</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed>https://ctftime.org/live/3489/</live_feed><restrictions>Academic</restrictions><location>Russia</location><onsite>False</onsite><organizers>[{"id": 425775, "name": "siberiansecurityleague"}]</organizers><ctf_id>1525</ctf_id><ctf_name>CyberNSK</ctf_name></item><item><title>BlackHat MEA CTF Final 2026</title><link>https://ctftime.org/event/3386</link><description>
 Name: BlackHat MEA CTF Final 2026 (an &lt;a href="/ctf/826"&gt;Blackhat MEA CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Dec. 1, 2026, 3:14 p.m. &amp;mdash; 03 Dec. 2026, 15:14 UTC &amp;nbsp;&lt;a href="/event/3386.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -477,7 +519,21 @@ Event organizers:
 &lt;a href="/team/4140"&gt;ASIS&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3062</guid><start_date>20261227T140000</start_date><finish_date>20261228T140000</finish_date><logo_url>/media/events/asis_logo_2.png</logo_url><url>https://asisctf.com/</url><ctftime_url>/event/3062</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>99.38</weight><live_feed>https://ctftime.org/live/3062/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 4140, "name": "ASIS"}]</organizers><ctf_id>59</ctf_id><ctf_name>ASIS CTF Finals</ctf_name></item><item><title>JerseyCTF VII</title><link>https://ctftime.org/event/3458</link><description>
+</description><guid>https://ctftime.org/event/3062</guid><start_date>20261227T140000</start_date><finish_date>20261228T140000</finish_date><logo_url>/media/events/asis_logo_2.png</logo_url><url>https://asisctf.com/</url><ctftime_url>/event/3062</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>99.38</weight><live_feed>https://ctftime.org/live/3062/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 4140, "name": "ASIS"}]</organizers><ctf_id>59</ctf_id><ctf_name>ASIS CTF Finals</ctf_name></item><item><title>GaianSpace Perihelion CTF 2027</title><link>https://ctftime.org/event/3492</link><description>
+Name: GaianSpace Perihelion CTF 2027 (an &lt;a href="/ctf/1284"&gt;GaianSpace CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Jan. 2, 2027, 6 p.m. &amp;mdash; 03 Jan. 2027, 18:00 UTC &amp;nbsp;&lt;a href="/event/3492.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://gaian.space/ctf" rel="nofollow"&gt;https://gaian.space/ctf&lt;/a&gt;&lt;br/&gt;
+Rating weight: 25.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/373034"&gt;GaianSpace&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3492</guid><start_date>20270102T180000</start_date><finish_date>20270103T180000</finish_date><logo_url>/media/events/gaianspace-logo-new_1_1.png</logo_url><url>https://gaian.space/ctf</url><ctftime_url>/event/3492</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed>https://ctftime.org/live/3492/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 373034, "name": "GaianSpace"}]</organizers><ctf_id>1284</ctf_id><ctf_name>GaianSpace CTF</ctf_name></item><item><title>JerseyCTF VII</title><link>https://ctftime.org/event/3458</link><description>
 Name: JerseyCTF VII (an &lt;a href="/ctf/724"&gt;JerseyCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: March 13, 2027, 5 p.m. &amp;mdash; 14 March 2027, 16:00 UTC &amp;nbsp;&lt;a href="/event/3458.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
