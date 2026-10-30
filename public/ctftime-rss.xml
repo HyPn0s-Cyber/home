@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 30 Oct 2026 12:56:16 -0000</lastBuildDate><item><title>HI Cyber Con 2026 CTF</title><link>https://ctftime.org/event/3460</link><description>
-Name: HI Cyber Con 2026 CTF (an &lt;a href="/ctf/1704"&gt;HI Cyber Con CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 30, 2026, 2 p.m. &amp;mdash; 01 Nov. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3460.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.hiddeninvestigations.net/" rel="nofollow"&gt;https://ctf.hiddeninvestigations.net/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/188318"&gt;HiddenInvestigations&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3460</guid><start_date>20261030T140000</start_date><finish_date>20261101T140000</finish_date><logo_url>/media/events/HI_Cyber_Con_2026__CTFtime_Logo__Transparent.png</logo_url><url>https://ctf.hiddeninvestigations.net/</url><ctftime_url>/event/3460</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 188318, "name": "Hidden Investigations"}]</organizers><ctf_id>1704</ctf_id><ctf_name>HI Cyber Con CTF</ctf_name></item><item><title>2026 Qiangwang Challenge on Cyber Mimic Defense Qualification</title><link>https://ctftime.org/event/3459</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 30 Oct 2026 22:22:54 -0000</lastBuildDate><item><title>2026 Qiangwang Challenge on Cyber Mimic Defense Qualification</title><link>https://ctftime.org/event/3459</link><description>
 Name: 2026 Qiangwang Challenge on Cyber Mimic Defense Qualification (an &lt;a href="/ctf/1212"&gt;Qiangwang Challenge on Cyber Mimic Defense&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 31, 2026, 2 a.m. &amp;mdash; 01 Nov. 2026, 02:00 UTC &amp;nbsp;&lt;a href="/event/3459.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
