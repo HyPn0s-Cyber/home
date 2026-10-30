@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 30 Oct 2026 05:51:25 -0000</lastBuildDate><item><title>Hacker's Gambit 2026 (Round 2 – Grand Finale)</title><link>https://ctftime.org/event/3381</link><description>
-Name: Hacker&amp;#39;s Gambit 2026 (Round 2 – Grand Finale) (an &lt;a href="/ctf/1415"&gt;Hacker&amp;#39;s Gambit&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 30, 2026, 6:30 a.m. &amp;mdash; 31 Oct. 2026, 06:30 UTC &amp;nbsp;&lt;a href="/event/3381.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Jaihind%20College%20of%20Engineering%2CAt%20Post%20Kuran%2C%20Taluka%20Junnar%2C%20Pune%20-%20410511%2C%20Maharashtra%2C%20India%20%20%2819%C2%B009%2747.2%22N%2073%C2%B054%2752.2%22E%29"&gt;Jaihind College of Engineering,At Post Kuran, Taluka Junnar, Pune - 410511, Maharashtra, India  (19°09&amp;#39;47.2&amp;quot;N 73°54&amp;#39;52.2&amp;quot;E)&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293" rel="nofollow"&gt;https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/405374"&gt;JCOE Cyber Sentinels&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3381</guid><start_date>20261030T063000</start_date><finish_date>20261031T063000</finish_date><logo_url>/media/events/tanmay_2.png</logo_url><url>https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293</url><ctftime_url>/event/3381</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Jaihind College of Engineering,At Post Kuran, Taluka Junnar, Pune - 410511, Maharashtra, India  (19°09'47.2"N 73°54'52.2"E)</location><onsite>True</onsite><organizers>[{"id": 405374, "name": "JCOE Cyber Sentinels"}]</organizers><ctf_id>1415</ctf_id><ctf_name>Hacker's Gambit</ctf_name></item><item><title>CTF@AC26 - Finals</title><link>https://ctftime.org/event/3463</link><description>
-Name: CTF@AC26 - Finals (an &lt;a href="/ctf/1337"&gt;CTF@AC&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 30, 2026, 10 a.m. &amp;mdash; 01 Nov. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3463.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Faculty%20of%20Automation%20%26%20Computer%20Science%2C%20Timisoara%2C%20Romania"&gt;Faculty of Automation &amp;amp; Computer Science, Timisoara, Romania&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://ctf.ac.upt.ro/" rel="nofollow"&gt;https://ctf.ac.upt.ro/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 25.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/276942"&gt;UPT-CTF&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3463</guid><start_date>20261030T100000</start_date><finish_date>20261101T100000</finish_date><logo_url>/media/events/CTFAC26_1.png</logo_url><url>https://ctf.ac.upt.ro/</url><ctftime_url>/event/3463</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Faculty of Automation &amp; Computer Science, Timisoara, Romania</location><onsite>True</onsite><organizers>[{"id": 276942, "name": "UPT-CTF"}]</organizers><ctf_id>1337</ctf_id><ctf_name>CTF@AC</ctf_name></item><item><title>HI Cyber Con 2026 CTF</title><link>https://ctftime.org/event/3460</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 30 Oct 2026 12:56:16 -0000</lastBuildDate><item><title>HI Cyber Con 2026 CTF</title><link>https://ctftime.org/event/3460</link><description>
 Name: HI Cyber Con 2026 CTF (an &lt;a href="/ctf/1704"&gt;HI Cyber Con CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 30, 2026, 2 p.m. &amp;mdash; 01 Nov. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3460.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -309,21 +281,7 @@ Event organizers:
 &lt;a href="/team/442848"&gt;Seize da Flaq&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3408</guid><start_date>20261121T063000</start_date><finish_date>20261122T023000</finish_date><logo_url>/media/events/SDF_1.jpeg</logo_url><url>https://seizedaflaq.cyberonites.com/</url><ctftime_url>/event/3408</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Casual</restrictions><location>Mathura, Uttar Pradesh, India</location><onsite>True</onsite><organizers>[{"id": 442848, "name": "Seize da Flaq"}]</organizers><ctf_id>1657</ctf_id><ctf_name>Seize da Flaq</ctf_name></item><item><title>Cyber Ninja CTF 2026 - BLACKOUT</title><link>https://ctftime.org/event/3490</link><description>
-Name: Cyber Ninja CTF 2026 - BLACKOUT (an &lt;a href="/ctf/1739"&gt;Cyber Ninja CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Nov. 21, 2026, 9 a.m. &amp;mdash; 22 Nov. 2026, 09:00 UTC &amp;nbsp;&lt;a href="/event/3490.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://www.cyber-ninja-ctf.fr/" rel="nofollow"&gt;https://www.cyber-ninja-ctf.fr/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/190074"&gt;OteriHack&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3490</guid><start_date>20261121T090000</start_date><finish_date>20261122T090000</finish_date><logo_url>/media/events/66a76ec5022678cdd16d2d5a_Design_sans_titre_14.png</logo_url><url>https://www.cyber-ninja-ctf.fr/</url><ctftime_url>/event/3490</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Individual</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 190074, "name": "OteriHack"}]</organizers><ctf_id>1739</ctf_id><ctf_name>Cyber Ninja CTF</ctf_name></item><item><title>Crate-CTF 2026</title><link>https://ctftime.org/event/3336</link><description>
+</description><guid>https://ctftime.org/event/3408</guid><start_date>20261121T063000</start_date><finish_date>20261122T023000</finish_date><logo_url>/media/events/SDF_1.jpeg</logo_url><url>https://seizedaflaq.cyberonites.com/</url><ctftime_url>/event/3408</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Casual</restrictions><location>Mathura, Uttar Pradesh, India</location><onsite>True</onsite><organizers>[{"id": 442848, "name": "Seize da Flaq"}]</organizers><ctf_id>1657</ctf_id><ctf_name>Seize da Flaq</ctf_name></item><item><title>Crate-CTF 2026</title><link>https://ctftime.org/event/3336</link><description>
 Name: Crate-CTF 2026 (an &lt;a href="/ctf/1172"&gt;Crate-CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 21, 2026, 1 p.m. &amp;mdash; 21 Nov. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3336.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
