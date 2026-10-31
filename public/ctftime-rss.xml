@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 30 Oct 2026 22:22:54 -0000</lastBuildDate><item><title>2026 Qiangwang Challenge on Cyber Mimic Defense Qualification</title><link>https://ctftime.org/event/3459</link><description>
-Name: 2026 Qiangwang Challenge on Cyber Mimic Defense Qualification (an &lt;a href="/ctf/1212"&gt;Qiangwang Challenge on Cyber Mimic Defense&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 31, 2026, 2 a.m. &amp;mdash; 01 Nov. 2026, 02:00 UTC &amp;nbsp;&lt;a href="/event/3459.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration" rel="nofollow"&gt;https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/364644"&gt;LoveFromMimic&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3459</guid><start_date>20261031T020000</start_date><finish_date>20261101T020000</finish_date><logo_url>/media/events/logo_139.png</logo_url><url>https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration</url><ctftime_url>/event/3459</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 364644, "name": "LoveFromMimic"}]</organizers><ctf_id>1212</ctf_id><ctf_name>Qiangwang Challenge on Cyber Mimic Defense</ctf_name></item><item><title>HAM-DEFCON</title><link>https://ctftime.org/event/3491</link><description>
-Name: HAM-DEFCON (an &lt;a href="/ctf/1742"&gt;HAM-DEFCON&lt;/a&gt; event.)&lt;br/&gt;
-Date: Oct. 31, 2026, 3:30 a.m. &amp;mdash; 31 Oct. 2026, 07:30 UTC &amp;nbsp;&lt;a href="/event/3491.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Attack-Defense&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=National%20Institute%20Of%20Technology%20Warangal%2C%20Hanamkonda%2C%20Telangana%2C%20India%2C%20505004"&gt;National Institute Of Technology Warangal, Hanamkonda, Telangana, India, 505004&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="http://defcon.hamarc.tech/" rel="nofollow"&gt;http://defcon.hamarc.tech/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/452464"&gt;HAMARC&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3491</guid><start_date>20261031T033000</start_date><finish_date>20261031T073000</finish_date><logo_url>/media/events/hamarc.png</logo_url><url>http://defcon.hamarc.tech/</url><ctftime_url>/event/3491</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>False</public_votable><weight>0</weight><live_feed>https://ctftime.org/live/3491/</live_feed><restrictions>Casual</restrictions><location>National Institute Of Technology Warangal, Hanamkonda, Telangana, India, 505004</location><onsite>True</onsite><organizers>[{"id": 452464, "name": "HAMARC"}]</organizers><ctf_id>1742</ctf_id><ctf_name>HAM-DEFCON</ctf_name></item><item><title>Russian CTF Cup X Qualifier</title><link>https://ctftime.org/event/3469</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 31 Oct 2026 05:45:10 -0000</lastBuildDate><item><title>Russian CTF Cup X Qualifier</title><link>https://ctftime.org/event/3469</link><description>
 Name: Russian CTF Cup X Qualifier (an &lt;a href="/ctf/864"&gt;Russian CTF Cup&lt;/a&gt; event.)&lt;br/&gt;
 Date: Oct. 31, 2026, 9 a.m. &amp;mdash; 01 Nov. 2026, 09:00 UTC &amp;nbsp;&lt;a href="/event/3469.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
