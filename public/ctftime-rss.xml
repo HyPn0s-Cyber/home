@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 03 Nov 2026 00:59:31 -0000</lastBuildDate><item><title>HKCERT CTF 2026 (Qualifying Round)</title><link>https://ctftime.org/event/3418</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 03 Nov 2026 14:17:55 -0000</lastBuildDate><item><title>HKCERT CTF 2026 (Qualifying Round)</title><link>https://ctftime.org/event/3418</link><description>
 Name: HKCERT CTF 2026 (Qualifying Round) (an &lt;a href="/ctf/529"&gt;HKCERT CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 6, 2026, 10 a.m. &amp;mdash; 07 Nov. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3418.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -189,7 +189,7 @@ Date: Nov. 20, 2026, 11 p.m. &amp;mdash; 21 Nov. 2026, 23:00 UTC &amp;nbsp;&lt;a
 Format: Jeopardy&lt;br/&gt;
 &lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
 
-Offical URL: &lt;a href="https://outbackoverflow26.hscyber.org/" rel="nofollow"&gt;https://outbackoverflow26.hscyber.org/&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="http://ctf.hscyber.org/" rel="nofollow"&gt;http://ctf.hscyber.org/&lt;/a&gt;&lt;br/&gt;
 Rating weight: 0.00&lt;br/&gt;
 
 Event organizers: 
@@ -197,7 +197,7 @@ Event organizers:
 &lt;a href="/team/446734"&gt;HSCC&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3425</guid><start_date>20261120T230000</start_date><finish_date>20261121T230000</finish_date><logo_url>/media/events/logo_137.png</logo_url><url>https://outbackoverflow26.hscyber.org/</url><ctftime_url>/event/3425</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 446734, "name": "HSCC"}]</organizers><ctf_id>1683</ctf_id><ctf_name>Outback Overflow</ctf_name></item><item><title>Seize da Flaq</title><link>https://ctftime.org/event/3408</link><description>
+</description><guid>https://ctftime.org/event/3425</guid><start_date>20261120T230000</start_date><finish_date>20261121T230000</finish_date><logo_url>/media/events/logo_137.png</logo_url><url>http://ctf.hscyber.org/</url><ctftime_url>/event/3425</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 446734, "name": "HSCC"}]</organizers><ctf_id>1683</ctf_id><ctf_name>Outback Overflow</ctf_name></item><item><title>Seize da Flaq</title><link>https://ctftime.org/event/3408</link><description>
 Name: Seize da Flaq (an &lt;a href="/ctf/1657"&gt;Seize da Flaq&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 21, 2026, 6:30 a.m. &amp;mdash; 22 Nov. 2026, 02:30 UTC &amp;nbsp;&lt;a href="/event/3408.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -323,7 +323,21 @@ Event organizers:
 &lt;a href="/team/662"&gt;bi0s&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3480</guid><start_date>20261205T050000</start_date><finish_date>20261206T170000</finish_date><logo_url>/media/events/dark-logo_1.png</logo_url><url>https://ctf.bi0s.in/</url><ctftime_url>/event/3480</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>79.51</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 662, "name": "bi0s"}]</organizers><ctf_id>31</ctf_id><ctf_name>bi0sCTF</ctf_name></item><item><title>niteCTF 2026</title><link>https://ctftime.org/event/3367</link><description>
+</description><guid>https://ctftime.org/event/3480</guid><start_date>20261205T050000</start_date><finish_date>20261206T170000</finish_date><logo_url>/media/events/dark-logo_1.png</logo_url><url>https://ctf.bi0s.in/</url><ctftime_url>/event/3480</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>79.51</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 662, "name": "bi0s"}]</organizers><ctf_id>31</ctf_id><ctf_name>bi0sCTF</ctf_name></item><item><title>OTERIA Cyber Cup #4</title><link>https://ctftime.org/event/3493</link><description>
+Name: OTERIA Cyber Cup #4 (an &lt;a href="/ctf/1740"&gt;OTERIA Cyber Cup&lt;/a&gt; event.)&lt;br/&gt;
+Date: Dec. 5, 2026, 9 a.m. &amp;mdash; 05 Dec. 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3493.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=France%2C%20Gennevilliers"&gt;France, Gennevilliers&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://www.oteria-cyber-cup.fr/" rel="nofollow"&gt;https://www.oteria-cyber-cup.fr/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/190074"&gt;OteriHack&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3493</guid><start_date>20261205T090000</start_date><finish_date>20261205T170000</finish_date><logo_url></logo_url><url>https://www.oteria-cyber-cup.fr/</url><ctftime_url>/event/3493</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Academic</restrictions><location>France, Gennevilliers</location><onsite>True</onsite><organizers>[{"id": 190074, "name": "OteriHack"}]</organizers><ctf_id>1740</ctf_id><ctf_name>OTERIA Cyber Cup</ctf_name></item><item><title>niteCTF 2026</title><link>https://ctftime.org/event/3367</link><description>
 Name: niteCTF 2026 (an &lt;a href="/ctf/663"&gt;niteCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Dec. 11, 2026, noon &amp;mdash; 13 Dec. 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3367.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
