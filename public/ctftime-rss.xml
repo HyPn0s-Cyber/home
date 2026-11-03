@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 03 Nov 2026 14:17:55 -0000</lastBuildDate><item><title>HKCERT CTF 2026 (Qualifying Round)</title><link>https://ctftime.org/event/3418</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 03 Nov 2026 23:20:53 -0000</lastBuildDate><item><title>HKCERT CTF 2026 (Qualifying Round)</title><link>https://ctftime.org/event/3418</link><description>
 Name: HKCERT CTF 2026 (Qualifying Round) (an &lt;a href="/ctf/529"&gt;HKCERT CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 6, 2026, 10 a.m. &amp;mdash; 07 Nov. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3418.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -43,7 +43,7 @@ Event organizers:
 &lt;a href="/team/395297"&gt;Mirachron&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3333</guid><start_date>20261106T130000</start_date><finish_date>20261108T130000</finish_date><logo_url></logo_url><url>https://2026.chronos-security.ro/</url><ctftime_url>/event/3333</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 395297, "name": "Chronos Security"}]</organizers><ctf_id>1373</ctf_id><ctf_name>CSCTF</ctf_name></item><item><title>SpookyCTF 2026</title><link>https://ctftime.org/event/3339</link><description>
+</description><guid>https://ctftime.org/event/3333</guid><start_date>20261106T130000</start_date><finish_date>20261108T130000</finish_date><logo_url></logo_url><url>https://2026.chronos-security.ro/</url><ctftime_url>/event/3333</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3333/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 395297, "name": "Chronos Security"}]</organizers><ctf_id>1373</ctf_id><ctf_name>CSCTF</ctf_name></item><item><title>SpookyCTF 2026</title><link>https://ctftime.org/event/3339</link><description>
 Name: SpookyCTF 2026 (an &lt;a href="/ctf/987"&gt;SpookyCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 6, 2026, 5 p.m. &amp;mdash; 07 Nov. 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3339.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -141,7 +141,21 @@ Event organizers:
 &lt;a href="/team/83621"&gt;w01verines&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3049</guid><start_date>20261113T230000</start_date><finish_date>20261115T230000</finish_date><logo_url>/media/events/wolverine-logo-square1_1.jpg</logo_url><url>https://wolvctf.io/</url><ctftime_url>/event/3049</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3049/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 83621, "name": "wolvsec"}]</organizers><ctf_id>766</ctf_id><ctf_name>WolvCTF</ctf_name></item><item><title>InIt CTF</title><link>https://ctftime.org/event/3467</link><description>
+</description><guid>https://ctftime.org/event/3049</guid><start_date>20261113T230000</start_date><finish_date>20261115T230000</finish_date><logo_url>/media/events/wolverine-logo-square1_1.jpg</logo_url><url>https://wolvctf.io/</url><ctftime_url>/event/3049</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3049/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 83621, "name": "wolvsec"}]</organizers><ctf_id>766</ctf_id><ctf_name>WolvCTF</ctf_name></item><item><title>h4ckc0n 2026</title><link>https://ctftime.org/event/3464</link><description>
+Name: h4ckc0n 2026 (an &lt;a href="/ctf/115"&gt;h4ckc0n&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 14, 2026, 3:30 p.m. &amp;mdash; 15 Nov. 2026, 15:30 UTC &amp;nbsp;&lt;a href="/event/3464.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://h4ckc0n.in/" rel="nofollow"&gt;https://h4ckc0n.in/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 24.23&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/15154"&gt;d4rkc0de&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3464</guid><start_date>20261114T153000</start_date><finish_date>20261115T153000</finish_date><logo_url>/media/events/images_1.jpeg</logo_url><url>https://h4ckc0n.in/</url><ctftime_url>/event/3464</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.23</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 15154, "name": "d4rkc0de"}]</organizers><ctf_id>115</ctf_id><ctf_name>h4ckc0n</ctf_name></item><item><title>InIt CTF</title><link>https://ctftime.org/event/3467</link><description>
 Name: InIt CTF (an &lt;a href="/ctf/1716"&gt;InIt CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 14, 2026, 3:30 p.m. &amp;mdash; 14 Nov. 2026, 23:30 UTC &amp;nbsp;&lt;a href="/event/3467.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
