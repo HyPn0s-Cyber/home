@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 06 Nov 2026 19:25:40 -0000</lastBuildDate><item><title>Mimic</title><link>https://ctftime.org/event/3455</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 07 Nov 2026 05:59:33 -0000</lastBuildDate><item><title>Mimic</title><link>https://ctftime.org/event/3455</link><description>
 Name: Mimic (an &lt;a href="/ctf/1707"&gt;Mimic&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 7, 2026, noon &amp;mdash; 08 Nov. 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3455.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -13,7 +13,21 @@ Event organizers:
 &lt;a href="/team/445438"&gt;Rare Byte Hub&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3455</guid><start_date>20261107T120000</start_date><finish_date>20261108T120000</finish_date><logo_url>/media/events/rare-byte-hub_1.png</logo_url><url>https://ctf.rarebytehub.com/events/mimic</url><ctftime_url>/event/3455</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Casual</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 445438, "name": "Rare Byte Hub"}]</organizers><ctf_id>1707</ctf_id><ctf_name>Mimic</ctf_name></item><item><title>CSAW CTF Final Round 2026</title><link>https://ctftime.org/event/3410</link><description>
+</description><guid>https://ctftime.org/event/3455</guid><start_date>20261107T120000</start_date><finish_date>20261108T120000</finish_date><logo_url>/media/events/rare-byte-hub_1.png</logo_url><url>https://ctf.rarebytehub.com/events/mimic</url><ctftime_url>/event/3455</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Casual</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 445438, "name": "Rare Byte Hub"}]</organizers><ctf_id>1707</ctf_id><ctf_name>Mimic</ctf_name></item><item><title>CyberZerk CTF 2026</title><link>https://ctftime.org/event/3499</link><description>
+Name: CyberZerk CTF 2026 (an &lt;a href="/ctf/1754"&gt;CTF CyberZerk&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 9, 2026, 1 p.m. &amp;mdash; 22 Nov. 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3499.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.cyberzerk.fr/" rel="nofollow"&gt;https://ctf.cyberzerk.fr/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/453537"&gt;CyberZerk&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3499</guid><start_date>20261109T130000</start_date><finish_date>20261122T170000</finish_date><logo_url>/media/events/cyberzerk-logo-complet-blanc.png</logo_url><url>https://ctf.cyberzerk.fr/</url><ctftime_url>/event/3499</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Individual</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 453537, "name": "CyberZerk"}]</organizers><ctf_id>1754</ctf_id><ctf_name>CTF CyberZerk</ctf_name></item><item><title>CSAW CTF Final Round 2026</title><link>https://ctftime.org/event/3410</link><description>
 Name: CSAW CTF Final Round 2026 (an &lt;a href="/ctf/19"&gt;CSAW CTF Final Round&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 12, 2026, 5 p.m. &amp;mdash; 14 Nov. 2026, 05:00 UTC &amp;nbsp;&lt;a href="/event/3410.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -293,7 +307,21 @@ Event organizers:
 &lt;a href="/team/62713"&gt;Cryptonite&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3367</guid><start_date>20261211T120000</start_date><finish_date>20261213T120000</finish_date><logo_url>/media/events/nitectf_2.png</logo_url><url>https://nitectf.cryptonitemit.in/</url><ctftime_url>/event/3367</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>59.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 62713, "name": "Cryptonite"}]</organizers><ctf_id>663</ctf_id><ctf_name>niteCTF</ctf_name></item><item><title>BSides Algiers 2026</title><link>https://ctftime.org/event/3475</link><description>
+</description><guid>https://ctftime.org/event/3367</guid><start_date>20261211T120000</start_date><finish_date>20261213T120000</finish_date><logo_url>/media/events/nitectf_2.png</logo_url><url>https://nitectf.cryptonitemit.in/</url><ctftime_url>/event/3367</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>59.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 62713, "name": "Cryptonite"}]</organizers><ctf_id>663</ctf_id><ctf_name>niteCTF</ctf_name></item><item><title>Leo's 20th Birthday Bash</title><link>https://ctftime.org/event/3498</link><description>
+Name: Leo&amp;#39;s 20th Birthday Bash (an &lt;a href="/ctf/1757"&gt;Leo&amp;#39;s Birthday Bash&lt;/a&gt; event.)&lt;br/&gt;
+Date: Dec. 12, 2026, 1 a.m. &amp;mdash; 13 Dec. 2026, 01:00 UTC &amp;nbsp;&lt;a href="/event/3498.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Hack quest&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://dmoj.ca/contest/leo20" rel="nofollow"&gt;https://dmoj.ca/contest/leo20&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/453781"&gt;SanguineChameleon&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3498</guid><start_date>20261212T010000</start_date><finish_date>20261213T010000</finish_date><logo_url>/media/events/this-is-not-a-clue.png</logo_url><url>https://dmoj.ca/contest/leo20</url><ctftime_url>/event/3498</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Casual</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 453781, "name": "SanguineChameleon"}]</organizers><ctf_id>1757</ctf_id><ctf_name>Leo's Birthday Bash</ctf_name></item><item><title>BSides Algiers 2026</title><link>https://ctftime.org/event/3475</link><description>
 Name: BSides Algiers 2026 (an &lt;a href="/ctf/527"&gt;BSides Algiers&lt;/a&gt; event.)&lt;br/&gt;
 Date: Dec. 17, 2026, 7 p.m. &amp;mdash; 19 Dec. 2026, 07:00 UTC &amp;nbsp;&lt;a href="/event/3475.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
