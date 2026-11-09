@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 09 Nov 2026 06:33:53 -0000</lastBuildDate><item><title>CyberZerk CTF 2026</title><link>https://ctftime.org/event/3499</link><description>
-Name: CyberZerk CTF 2026 (an &lt;a href="/ctf/1754"&gt;CTF CyberZerk&lt;/a&gt; event.)&lt;br/&gt;
-Date: Nov. 9, 2026, 1 p.m. &amp;mdash; 22 Nov. 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3499.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf.cyberzerk.fr/" rel="nofollow"&gt;https://ctf.cyberzerk.fr/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/453537"&gt;CyberZerk&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3499</guid><start_date>20261109T130000</start_date><finish_date>20261122T170000</finish_date><logo_url>/media/events/cyberzerk-logo-complet-blanc.png</logo_url><url>https://ctf.cyberzerk.fr/</url><ctftime_url>/event/3499</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Individual</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 453537, "name": "CyberZerk"}]</organizers><ctf_id>1754</ctf_id><ctf_name>CTF CyberZerk</ctf_name></item><item><title>CSAW CTF Final Round 2026</title><link>https://ctftime.org/event/3410</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 09 Nov 2026 22:22:22 -0000</lastBuildDate><item><title>CSAW CTF Final Round 2026</title><link>https://ctftime.org/event/3410</link><description>
 Name: CSAW CTF Final Round 2026 (an &lt;a href="/ctf/19"&gt;CSAW CTF Final Round&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 12, 2026, 5 p.m. &amp;mdash; 14 Nov. 2026, 05:00 UTC &amp;nbsp;&lt;a href="/event/3410.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -75,7 +61,7 @@ Date: Nov. 14, 2026, 3:30 p.m. &amp;mdash; 15 Nov. 2026, 15:30 UTC &amp;nbsp;&lt
 Format: Jeopardy&lt;br/&gt;
 &lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
 
-Offical URL: &lt;a href="https://h4ckc0n.in/" rel="nofollow"&gt;https://h4ckc0n.in/&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://h4ckc0n.ctfd.io/" rel="nofollow"&gt;https://h4ckc0n.ctfd.io/&lt;/a&gt;&lt;br/&gt;
 Rating weight: 24.23&lt;br/&gt;
 
 Event organizers: 
@@ -83,7 +69,7 @@ Event organizers:
 &lt;a href="/team/15154"&gt;d4rkc0de&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3464</guid><start_date>20261114T153000</start_date><finish_date>20261115T153000</finish_date><logo_url>/media/events/images_1.jpeg</logo_url><url>https://h4ckc0n.in/</url><ctftime_url>/event/3464</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.23</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 15154, "name": "d4rkc0de"}]</organizers><ctf_id>115</ctf_id><ctf_name>h4ckc0n</ctf_name></item><item><title>InIt CTF</title><link>https://ctftime.org/event/3467</link><description>
+</description><guid>https://ctftime.org/event/3464</guid><start_date>20261114T153000</start_date><finish_date>20261115T153000</finish_date><logo_url>/media/events/images_1.jpeg</logo_url><url>https://h4ckc0n.ctfd.io/</url><ctftime_url>/event/3464</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>24.23</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 15154, "name": "d4rkc0de"}]</organizers><ctf_id>115</ctf_id><ctf_name>h4ckc0n</ctf_name></item><item><title>InIt CTF</title><link>https://ctftime.org/event/3467</link><description>
 Name: InIt CTF (an &lt;a href="/ctf/1716"&gt;InIt CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 14, 2026, 3:30 p.m. &amp;mdash; 14 Nov. 2026, 23:30 UTC &amp;nbsp;&lt;a href="/event/3467.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -265,21 +251,7 @@ Event organizers:
 &lt;a href="/team/662"&gt;bi0s&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3480</guid><start_date>20261205T050000</start_date><finish_date>20261206T170000</finish_date><logo_url>/media/events/dark-logo_1.png</logo_url><url>https://ctf.bi0s.in/</url><ctftime_url>/event/3480</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>79.51</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 662, "name": "bi0s"}]</organizers><ctf_id>31</ctf_id><ctf_name>bi0sCTF</ctf_name></item><item><title>OTERIA Cyber Cup #4</title><link>https://ctftime.org/event/3493</link><description>
-Name: OTERIA Cyber Cup #4 (an &lt;a href="/ctf/1740"&gt;OTERIA Cyber Cup&lt;/a&gt; event.)&lt;br/&gt;
-Date: Dec. 5, 2026, 9 a.m. &amp;mdash; 05 Dec. 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3493.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=France%2C%20Gennevilliers"&gt;France, Gennevilliers&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://www.oteria-cyber-cup.fr/" rel="nofollow"&gt;https://www.oteria-cyber-cup.fr/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/190074"&gt;OteriHack&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3493</guid><start_date>20261205T090000</start_date><finish_date>20261205T170000</finish_date><logo_url></logo_url><url>https://www.oteria-cyber-cup.fr/</url><ctftime_url>/event/3493</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Academic</restrictions><location>France, Gennevilliers</location><onsite>True</onsite><organizers>[{"id": 190074, "name": "OteriHack"}]</organizers><ctf_id>1740</ctf_id><ctf_name>OTERIA Cyber Cup</ctf_name></item><item><title>niteCTF 2026</title><link>https://ctftime.org/event/3367</link><description>
+</description><guid>https://ctftime.org/event/3480</guid><start_date>20261205T050000</start_date><finish_date>20261206T170000</finish_date><logo_url>/media/events/dark-logo_1.png</logo_url><url>https://ctf.bi0s.in/</url><ctftime_url>/event/3480</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>79.51</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 662, "name": "bi0s"}]</organizers><ctf_id>31</ctf_id><ctf_name>bi0sCTF</ctf_name></item><item><title>niteCTF 2026</title><link>https://ctftime.org/event/3367</link><description>
 Name: niteCTF 2026 (an &lt;a href="/ctf/663"&gt;niteCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Dec. 11, 2026, noon &amp;mdash; 13 Dec. 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3367.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
