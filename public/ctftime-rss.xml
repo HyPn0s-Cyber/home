@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 13 Nov 2026 06:47:30 -0000</lastBuildDate><item><title>TVX CTF 2026</title><link>https://ctftime.org/event/3486</link><description>
-Name: TVX CTF 2026 (an &lt;a href="/ctf/1738"&gt;TVX CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Nov. 13, 2026, 10 a.m. &amp;mdash; 13 Nov. 2026, 20:00 UTC &amp;nbsp;&lt;a href="/event/3486.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://ctf-techvisions.com/" rel="nofollow"&gt;https://ctf-techvisions.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/452398"&gt;Tech Visions&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3486</guid><start_date>20261113T100000</start_date><finish_date>20261113T200000</finish_date><logo_url>/media/events/photo_2026-10-17_18-01-04.jpg</logo_url><url>https://ctf-techvisions.com/</url><ctftime_url>/event/3486</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Casual</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 452398, "name": "Tech Visions"}]</organizers><ctf_id>1738</ctf_id><ctf_name>TVX CTF</ctf_name></item><item><title>Platypwn 2026</title><link>https://ctftime.org/event/3082</link><description>
-Name: Platypwn 2026 (an &lt;a href="/ctf/979"&gt;Platypwn&lt;/a&gt; event.)&lt;br/&gt;
-Date: Nov. 13, 2026, 5 p.m. &amp;mdash; 14 Nov. 2026, 11:00 UTC &amp;nbsp;&lt;a href="/event/3082.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://platypwnies.de/events/platypwn/" rel="nofollow"&gt;https://platypwnies.de/events/platypwn/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 37.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/112550"&gt;Platypwnies&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3082</guid><start_date>20261113T170000</start_date><finish_date>20261114T110000</finish_date><logo_url>/media/events/platypwnies-512_1_1.png</logo_url><url>https://platypwnies.de/events/platypwn/</url><ctftime_url>/event/3082</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>37.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 112550, "name": "Platypwnies"}]</organizers><ctf_id>979</ctf_id><ctf_name>Platypwn</ctf_name></item><item><title>WolvCTF 2026</title><link>https://ctftime.org/event/3049</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 13 Nov 2026 19:43:03 -0000</lastBuildDate><item><title>WolvCTF 2026</title><link>https://ctftime.org/event/3049</link><description>
 Name: WolvCTF 2026 (an &lt;a href="/ctf/766"&gt;WolvCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 13, 2026, 11 p.m. &amp;mdash; 15 Nov. 2026, 23:00 UTC &amp;nbsp;&lt;a href="/event/3049.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
