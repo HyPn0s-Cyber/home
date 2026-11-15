@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 14 Nov 2026 22:23:55 -0000</lastBuildDate><item><title>EyesOpenCTF 7th edition</title><link>https://ctftime.org/event/3419</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 15 Nov 2026 06:36:30 -0000</lastBuildDate><item><title>EyesOpenCTF 7th edition</title><link>https://ctftime.org/event/3419</link><description>
 Name: EyesOpenCTF 7th edition (an &lt;a href="/ctf/847"&gt;EyesOpenCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 20, 2026, 10 a.m. &amp;mdash; 22 Nov. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3419.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -27,7 +27,21 @@ Event organizers:
 &lt;a href="/team/8323"&gt;LosFuzzys&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3337</guid><start_date>20261120T180000</start_date><finish_date>20261121T180000</finish_date><logo_url>/media/events/glacierlogo_1.png</logo_url><url>https://glacierctf.com/</url><ctftime_url>/event/3337</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>73.17</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 8323, "name": "LosFuzzys"}]</organizers><ctf_id>863</ctf_id><ctf_name>Glacier CTF</ctf_name></item><item><title>Outback Overflow</title><link>https://ctftime.org/event/3425</link><description>
+</description><guid>https://ctftime.org/event/3337</guid><start_date>20261120T180000</start_date><finish_date>20261121T180000</finish_date><logo_url>/media/events/glacierlogo_1.png</logo_url><url>https://glacierctf.com/</url><ctftime_url>/event/3337</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>73.17</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 8323, "name": "LosFuzzys"}]</organizers><ctf_id>863</ctf_id><ctf_name>Glacier CTF</ctf_name></item><item><title>WolvCTF 2026</title><link>https://ctftime.org/event/3049</link><description>
+Name: WolvCTF 2026 (an &lt;a href="/ctf/766"&gt;WolvCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 20, 2026, 11 p.m. &amp;mdash; 22 Nov. 2026, 23:00 UTC &amp;nbsp;&lt;a href="/event/3049.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://wolvctf.io/" rel="nofollow"&gt;https://wolvctf.io/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/83621"&gt;w01verines&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3049</guid><start_date>20261120T230000</start_date><finish_date>20261122T230000</finish_date><logo_url>/media/events/wolverine-logo-square1_1.jpg</logo_url><url>https://wolvctf.io/</url><ctftime_url>/event/3049</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3049/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 83621, "name": "wolvsec"}]</organizers><ctf_id>766</ctf_id><ctf_name>WolvCTF</ctf_name></item><item><title>Outback Overflow</title><link>https://ctftime.org/event/3425</link><description>
 Name: Outback Overflow (an &lt;a href="/ctf/1683"&gt;Outback Overflow&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 20, 2026, 11 p.m. &amp;mdash; 21 Nov. 2026, 23:00 UTC &amp;nbsp;&lt;a href="/event/3425.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -83,7 +97,21 @@ Event organizers:
 &lt;a href="/team/157536"&gt;CyberSciOrganizers&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3436</guid><start_date>20261121T150000</start_date><finish_date>20261121T220000</finish_date><logo_url>/media/events/9f5bd4404f2ff231cca6e261cdcd0419.jpg</logo_url><url>https://cybersecuritychallenge.ca/</url><ctftime_url>/event/3436</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Academic</restrictions><location>Onsite at 6 locations in Canada</location><onsite>True</onsite><organizers>[{"id": 157536, "name": "CyberSciOrganizers"}]</organizers><ctf_id>643</ctf_id><ctf_name>CyberSci</ctf_name></item><item><title>LakeCTF Quals 26-27</title><link>https://ctftime.org/event/3474</link><description>
+</description><guid>https://ctftime.org/event/3436</guid><start_date>20261121T150000</start_date><finish_date>20261121T220000</finish_date><logo_url>/media/events/9f5bd4404f2ff231cca6e261cdcd0419.jpg</logo_url><url>https://cybersecuritychallenge.ca/</url><ctftime_url>/event/3436</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Academic</restrictions><location>Onsite at 6 locations in Canada</location><onsite>True</onsite><organizers>[{"id": 157536, "name": "CyberSciOrganizers"}]</organizers><ctf_id>643</ctf_id><ctf_name>CyberSci</ctf_name></item><item><title>RedReaper CTF</title><link>https://ctftime.org/event/3502</link><description>
+Name: RedReaper CTF (an &lt;a href="/ctf/1753"&gt;RedReaper CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 27, 2026, 11 a.m. &amp;mdash; 27 Nov. 2026, 19:00 UTC &amp;nbsp;&lt;a href="/event/3502.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://qualification.redx.site/" rel="nofollow"&gt;https://qualification.redx.site/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/453520"&gt;RedReaper&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3502</guid><start_date>20261127T110000</start_date><finish_date>20261127T190000</finish_date><logo_url>/media/events/Gemini_Generated_Image_ayukqbayukqbayuk.jpg</logo_url><url>https://qualification.redx.site/</url><ctftime_url>/event/3502</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 453520, "name": "RedReaper"}]</organizers><ctf_id>1753</ctf_id><ctf_name>RedReaper CTF</ctf_name></item><item><title>LakeCTF Quals 26-27</title><link>https://ctftime.org/event/3474</link><description>
 Name: LakeCTF Quals 26-27 (an &lt;a href="/ctf/818"&gt;LakeCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 27, 2026, 6 p.m. &amp;mdash; 28 Nov. 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3474.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -125,7 +153,21 @@ Event organizers:
 &lt;a href="/team/425775"&gt;siberiansecurityleague&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3489</guid><start_date>20261128T090000</start_date><finish_date>20261128T210000</finish_date><logo_url>/media/events/photo_2024-09-18_12-55-46_4.jpg</logo_url><url>https://quals.sslctf.ru/</url><ctftime_url>/event/3489</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed>https://ctftime.org/live/3489/</live_feed><restrictions>Academic</restrictions><location>Russia</location><onsite>False</onsite><organizers>[{"id": 425775, "name": "siberiansecurityleague"}]</organizers><ctf_id>1525</ctf_id><ctf_name>CyberNSK</ctf_name></item><item><title>BlackHat MEA CTF Final 2026</title><link>https://ctftime.org/event/3386</link><description>
+</description><guid>https://ctftime.org/event/3489</guid><start_date>20261128T090000</start_date><finish_date>20261128T210000</finish_date><logo_url>/media/events/photo_2024-09-18_12-55-46_4.jpg</logo_url><url>https://quals.sslctf.ru/</url><ctftime_url>/event/3489</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed>https://ctftime.org/live/3489/</live_feed><restrictions>Academic</restrictions><location>Russia</location><onsite>False</onsite><organizers>[{"id": 425775, "name": "siberiansecurityleague"}]</organizers><ctf_id>1525</ctf_id><ctf_name>CyberNSK</ctf_name></item><item><title>Black Hat India 2026 Official CTF</title><link>https://ctftime.org/event/3510</link><description>
+Name: Black Hat India 2026 Official CTF (an &lt;a href="/ctf/1713"&gt;BlackHat India CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 28, 2026, 2 p.m. &amp;mdash; 29 Nov. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3510.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.blackhat-india.com/" rel="nofollow"&gt;https://ctf.blackhat-india.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/445464"&gt;CTF7&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3510</guid><start_date>20261128T140000</start_date><finish_date>20261129T140000</finish_date><logo_url></logo_url><url>https://ctf.blackhat-india.com/</url><ctftime_url>/event/3510</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 445464, "name": "CTF7"}]</organizers><ctf_id>1713</ctf_id><ctf_name>BlackHat India CTF</ctf_name></item><item><title>BlackHat MEA CTF Final 2026</title><link>https://ctftime.org/event/3386</link><description>
 Name: BlackHat MEA CTF Final 2026 (an &lt;a href="/ctf/826"&gt;Blackhat MEA CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Dec. 1, 2026, 3:14 p.m. &amp;mdash; 03 Dec. 2026, 15:14 UTC &amp;nbsp;&lt;a href="/event/3386.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -139,7 +181,21 @@ Event organizers:
 &lt;a href="/team/54707"&gt;SAFCSP&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3386</guid><start_date>20261201T151459</start_date><finish_date>20261203T151459</finish_date><logo_url>/media/events/9f419586e0dedbff0130e6f487ddc54c_1.png</logo_url><url>https://blackhatmea.com/capture-the-flag</url><ctftime_url>/event/3386</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Riyadh, Saudi Arabia</location><onsite>True</onsite><organizers>[{"id": 54707, "name": "SAFCSP"}]</organizers><ctf_id>826</ctf_id><ctf_name>Blackhat MEA CTF</ctf_name></item><item><title>x3CTF 2026</title><link>https://ctftime.org/event/3450</link><description>
+</description><guid>https://ctftime.org/event/3386</guid><start_date>20261201T151459</start_date><finish_date>20261203T151459</finish_date><logo_url>/media/events/9f419586e0dedbff0130e6f487ddc54c_1.png</logo_url><url>https://blackhatmea.com/capture-the-flag</url><ctftime_url>/event/3386</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Prequalified</restrictions><location>Riyadh, Saudi Arabia</location><onsite>True</onsite><organizers>[{"id": 54707, "name": "SAFCSP"}]</organizers><ctf_id>826</ctf_id><ctf_name>Blackhat MEA CTF</ctf_name></item><item><title>2026 Qiangwang Challenge on Cyber Mimic Defense Finals</title><link>https://ctftime.org/event/3509</link><description>
+Name: 2026 Qiangwang Challenge on Cyber Mimic Defense Finals (an &lt;a href="/ctf/1212"&gt;Qiangwang Challenge on Cyber Mimic Defense&lt;/a&gt; event.)&lt;br/&gt;
+Date: Dec. 3, 2026, 4 a.m. &amp;mdash; 06 Dec. 2026, 04:00 UTC &amp;nbsp;&lt;a href="/event/3509.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Hack quest&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Nanjing%2C%20China"&gt;Nanjing, China&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration" rel="nofollow"&gt;https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/364644"&gt;LoveFromMimic&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3509</guid><start_date>20261203T040000</start_date><finish_date>20261206T040000</finish_date><logo_url></logo_url><url>https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration</url><ctftime_url>/event/3509</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Nanjing, China</location><onsite>True</onsite><organizers>[{"id": 364644, "name": "LoveFromMimic"}]</organizers><ctf_id>1212</ctf_id><ctf_name>Qiangwang Challenge on Cyber Mimic Defense</ctf_name></item><item><title>x3CTF 2026</title><link>https://ctftime.org/event/3450</link><description>
 Name: x3CTF 2026 (an &lt;a href="/ctf/1153"&gt;x3ctf&lt;/a&gt; event.)&lt;br/&gt;
 Date: Dec. 4, 2026, 6 p.m. &amp;mdash; 06 Dec. 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3450.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -195,7 +251,21 @@ Event organizers:
 &lt;a href="/team/453781"&gt;SanguineChameleon&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3498</guid><start_date>20261212T010000</start_date><finish_date>20261213T010000</finish_date><logo_url>/media/events/this-is-not-a-clue.png</logo_url><url>https://dmoj.ca/contest/leo20</url><ctftime_url>/event/3498</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Casual</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 453781, "name": "SanguineChameleon"}]</organizers><ctf_id>1757</ctf_id><ctf_name>Leo's Birthday Bash</ctf_name></item><item><title>BSides Algiers 2026</title><link>https://ctftime.org/event/3475</link><description>
+</description><guid>https://ctftime.org/event/3498</guid><start_date>20261212T010000</start_date><finish_date>20261213T010000</finish_date><logo_url>/media/events/this-is-not-a-clue.png</logo_url><url>https://dmoj.ca/contest/leo20</url><ctftime_url>/event/3498</ctftime_url><format>3</format><format_text>Hack quest</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Casual</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 453781, "name": "SanguineChameleon"}]</organizers><ctf_id>1757</ctf_id><ctf_name>Leo's Birthday Bash</ctf_name></item><item><title>OTERIA Cyber Cup #4</title><link>https://ctftime.org/event/3505</link><description>
+Name: OTERIA Cyber Cup #4 (an &lt;a href="/ctf/1740"&gt;OTERIA Cyber Cup&lt;/a&gt; event.)&lt;br/&gt;
+Date: Dec. 12, 2026, 9 a.m. &amp;mdash; 12 Dec. 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3505.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=France%2C%20Gennevilliers"&gt;France, Gennevilliers&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://www.oteria-cyber-cup.fr/" rel="nofollow"&gt;https://www.oteria-cyber-cup.fr/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/190074"&gt;OteriHack&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3505</guid><start_date>20261212T090000</start_date><finish_date>20261212T170000</finish_date><logo_url></logo_url><url>https://www.oteria-cyber-cup.fr/</url><ctftime_url>/event/3505</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Academic</restrictions><location>France, Gennevilliers</location><onsite>True</onsite><organizers>[{"id": 190074, "name": "OteriHack"}]</organizers><ctf_id>1740</ctf_id><ctf_name>OTERIA Cyber Cup</ctf_name></item><item><title>BSides Algiers 2026</title><link>https://ctftime.org/event/3475</link><description>
 Name: BSides Algiers 2026 (an &lt;a href="/ctf/527"&gt;BSides Algiers&lt;/a&gt; event.)&lt;br/&gt;
 Date: Dec. 17, 2026, 7 p.m. &amp;mdash; 19 Dec. 2026, 07:00 UTC &amp;nbsp;&lt;a href="/event/3475.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -237,7 +307,21 @@ Event organizers:
 &lt;a href="/team/4140"&gt;ASIS&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3062</guid><start_date>20261227T140000</start_date><finish_date>20261228T140000</finish_date><logo_url>/media/events/asis_logo_2.png</logo_url><url>https://asisctf.com/</url><ctftime_url>/event/3062</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>99.38</weight><live_feed>https://ctftime.org/live/3062/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 4140, "name": "ASIS"}]</organizers><ctf_id>59</ctf_id><ctf_name>ASIS CTF Finals</ctf_name></item><item><title>GaianSpace Perihelion CTF 2027</title><link>https://ctftime.org/event/3492</link><description>
+</description><guid>https://ctftime.org/event/3062</guid><start_date>20261227T140000</start_date><finish_date>20261228T140000</finish_date><logo_url>/media/events/asis_logo_2.png</logo_url><url>https://asisctf.com/</url><ctftime_url>/event/3062</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>99.38</weight><live_feed>https://ctftime.org/live/3062/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 4140, "name": "ASIS"}]</organizers><ctf_id>59</ctf_id><ctf_name>ASIS CTF Finals</ctf_name></item><item><title>THE FINAL EXPLOIT CTF 2026—QUALIFIERS</title><link>https://ctftime.org/event/3511</link><description>
+Name: THE FINAL EXPLOIT CTF 2026—QUALIFIERS (an &lt;a href="/ctf/1766"&gt;THE FINAL EXPLOIT CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Dec. 29, 2026, noon &amp;mdash; 31 Dec. 2026, 12:00 UTC &amp;nbsp;&lt;a href="/event/3511.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://0xv01d-ctf.xyz/" rel="nofollow"&gt;https://0xv01d-ctf.xyz/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/427687"&gt;OxV01D&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3511</guid><start_date>20261229T120000</start_date><finish_date>20261231T120000</finish_date><logo_url>/media/events/Neon_CTF_Qualifiers__The_Final_Exploit.png</logo_url><url>https://0xv01d-ctf.xyz/</url><ctftime_url>/event/3511</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 427687, "name": "OxV01D"}]</organizers><ctf_id>1766</ctf_id><ctf_name>THE FINAL EXPLOIT CTF</ctf_name></item><item><title>GaianSpace Perihelion CTF 2027</title><link>https://ctftime.org/event/3492</link><description>
 Name: GaianSpace Perihelion CTF 2027 (an &lt;a href="/ctf/1284"&gt;GaianSpace CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Jan. 2, 2027, 6 p.m. &amp;mdash; 03 Jan. 2027, 18:00 UTC &amp;nbsp;&lt;a href="/event/3492.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -251,7 +335,21 @@ Event organizers:
 &lt;a href="/team/373034"&gt;GaianSpace&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3492</guid><start_date>20270102T180000</start_date><finish_date>20270103T180000</finish_date><logo_url>/media/events/gaianspace-logo-new_1_1.png</logo_url><url>https://gaian.space/ctf</url><ctftime_url>/event/3492</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed>https://ctftime.org/live/3492/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 373034, "name": "GaianSpace"}]</organizers><ctf_id>1284</ctf_id><ctf_name>GaianSpace CTF</ctf_name></item><item><title>JerseyCTF VII</title><link>https://ctftime.org/event/3458</link><description>
+</description><guid>https://ctftime.org/event/3492</guid><start_date>20270102T180000</start_date><finish_date>20270103T180000</finish_date><logo_url>/media/events/gaianspace-logo-new_1_1.png</logo_url><url>https://gaian.space/ctf</url><ctftime_url>/event/3492</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed>https://ctftime.org/live/3492/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 373034, "name": "GaianSpace"}]</organizers><ctf_id>1284</ctf_id><ctf_name>GaianSpace CTF</ctf_name></item><item><title>UofTCTF 2027</title><link>https://ctftime.org/event/3508</link><description>
+Name: UofTCTF 2027 (an &lt;a href="/ctf/1052"&gt;UofTCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Jan. 9, 2027, midnight &amp;mdash; 11 Jan. 2027, 00:00 UTC &amp;nbsp;&lt;a href="/event/3508.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.uoftctf.org/" rel="nofollow"&gt;https://ctf.uoftctf.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 50.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/139261"&gt;UofTCTF&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3508</guid><start_date>20270109T000000</start_date><finish_date>20270111T000000</finish_date><logo_url>/media/events/7b576d2f44aeac3b063383d70b37d407.jpg</logo_url><url>https://ctf.uoftctf.org/</url><ctftime_url>/event/3508</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>50.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 139261, "name": "UofTCTF"}]</organizers><ctf_id>1052</ctf_id><ctf_name>UofTCTF</ctf_name></item><item><title>JerseyCTF VII</title><link>https://ctftime.org/event/3458</link><description>
 Name: JerseyCTF VII (an &lt;a href="/ctf/724"&gt;JerseyCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: March 13, 2027, 5 p.m. &amp;mdash; 14 March 2027, 16:00 UTC &amp;nbsp;&lt;a href="/event/3458.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
