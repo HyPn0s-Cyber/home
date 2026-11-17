@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 17 Nov 2026 07:52:54 -0000</lastBuildDate><item><title>EyesOpenCTF 7th edition</title><link>https://ctftime.org/event/3419</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 17 Nov 2026 20:56:20 -0000</lastBuildDate><item><title>EyesOpenCTF 7th edition</title><link>https://ctftime.org/event/3419</link><description>
 Name: EyesOpenCTF 7th edition (an &lt;a href="/ctf/847"&gt;EyesOpenCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 20, 2026, 10 a.m. &amp;mdash; 22 Nov. 2026, 10:00 UTC &amp;nbsp;&lt;a href="/event/3419.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -111,7 +111,21 @@ Event organizers:
 &lt;a href="/team/453520"&gt;RedReaper&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3502</guid><start_date>20261127T110000</start_date><finish_date>20261127T190000</finish_date><logo_url>/media/events/Gemini_Generated_Image_ayukqbayukqbayuk.jpg</logo_url><url>https://qualification.redx.site/</url><ctftime_url>/event/3502</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 453520, "name": "RedReaper"}]</organizers><ctf_id>1753</ctf_id><ctf_name>RedReaper CTF</ctf_name></item><item><title>LakeCTF Quals 26-27</title><link>https://ctftime.org/event/3474</link><description>
+</description><guid>https://ctftime.org/event/3502</guid><start_date>20261127T110000</start_date><finish_date>20261127T190000</finish_date><logo_url>/media/events/Gemini_Generated_Image_ayukqbayukqbayuk.jpg</logo_url><url>https://qualification.redx.site/</url><ctftime_url>/event/3502</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 453520, "name": "RedReaper"}]</organizers><ctf_id>1753</ctf_id><ctf_name>RedReaper CTF</ctf_name></item><item><title>N0v4CTF 2026</title><link>https://ctftime.org/event/3512</link><description>
+Name: N0v4CTF 2026 (an &lt;a href="/ctf/1771"&gt;N0v4CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 27, 2026, 5 p.m. &amp;mdash; 28 Nov. 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3512.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://n0v4ctf.devs.surf/" rel="nofollow"&gt;https://n0v4ctf.devs.surf/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/435904"&gt;NovaRun&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3512</guid><start_date>20261127T170000</start_date><finish_date>20261128T170000</finish_date><logo_url>/media/events/7b7122f8-2612-4678-b769-2d5ef3630813.png</logo_url><url>https://n0v4ctf.devs.surf/</url><ctftime_url>/event/3512</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 435904, "name": "NovaRun"}]</organizers><ctf_id>1771</ctf_id><ctf_name>N0v4CTF</ctf_name></item><item><title>LakeCTF Quals 26-27</title><link>https://ctftime.org/event/3474</link><description>
 Name: LakeCTF Quals 26-27 (an &lt;a href="/ctf/818"&gt;LakeCTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 27, 2026, 6 p.m. &amp;mdash; 28 Nov. 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3474.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
@@ -293,7 +307,21 @@ Event organizers:
 &lt;a href="/team/16691"&gt;InfoSecIITR&lt;/a&gt; 
 
 
-</description><guid>https://ctftime.org/event/3472</guid><start_date>20261219T120000</start_date><finish_date>20261220T120000</finish_date><logo_url>/media/events/0b4a317ba84bb2bd6e871c5eec6fdb00_1_1.png</logo_url><url>https://backdoor.infoseciitr.in/</url><ctftime_url>/event/3472</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>77.38</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 16691, "name": "InfoSecIITR"}]</organizers><ctf_id>49</ctf_id><ctf_name>BackdoorCTF</ctf_name></item><item><title>ASIS CTF Finals 2026</title><link>https://ctftime.org/event/3062</link><description>
+</description><guid>https://ctftime.org/event/3472</guid><start_date>20261219T120000</start_date><finish_date>20261220T120000</finish_date><logo_url>/media/events/0b4a317ba84bb2bd6e871c5eec6fdb00_1_1.png</logo_url><url>https://backdoor.infoseciitr.in/</url><ctftime_url>/event/3472</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>77.38</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 16691, "name": "InfoSecIITR"}]</organizers><ctf_id>49</ctf_id><ctf_name>BackdoorCTF</ctf_name></item><item><title>idktheCTF 2026</title><link>https://ctftime.org/event/3429</link><description>
+Name: idktheCTF 2026 (an &lt;a href="/ctf/1607"&gt;idktheCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Dec. 26, 2026, 1 a.m. &amp;mdash; 28 Dec. 2026, 04:59 UTC &amp;nbsp;&lt;a href="/event/3429.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="http://ctf.idktheflag.sh/" rel="nofollow"&gt;http://ctf.idktheflag.sh/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/419270"&gt;idktheflag&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/3429</guid><start_date>20261226T010000</start_date><finish_date>20261228T045959</finish_date><logo_url>/media/events/f80d057ee038a0fa050cfbe48060411f_1.png</logo_url><url>http://ctf.idktheflag.sh/</url><ctftime_url>/event/3429</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 419270, "name": "idktheflag"}]</organizers><ctf_id>1607</ctf_id><ctf_name>idktheCTF</ctf_name></item><item><title>ASIS CTF Finals 2026</title><link>https://ctftime.org/event/3062</link><description>
 Name: ASIS CTF Finals 2026 (an &lt;a href="/ctf/59"&gt;ASIS CTF Finals&lt;/a&gt; event.)&lt;br/&gt;
 Date: Dec. 27, 2026, 2 p.m. &amp;mdash; 28 Dec. 2026, 14:00 UTC &amp;nbsp;&lt;a href="/event/3062.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
