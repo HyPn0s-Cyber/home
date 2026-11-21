@@ -1,47 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 20 Nov 2026 20:23:01 -0000</lastBuildDate><item><title>WolvCTF 2026</title><link>https://ctftime.org/event/3049</link><description>
-Name: WolvCTF 2026 (an &lt;a href="/ctf/766"&gt;WolvCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Nov. 20, 2026, 11 p.m. &amp;mdash; 22 Nov. 2026, 23:00 UTC &amp;nbsp;&lt;a href="/event/3049.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://wolvctf.io/" rel="nofollow"&gt;https://wolvctf.io/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/83621"&gt;w01verines&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3049</guid><start_date>20261120T230000</start_date><finish_date>20261122T230000</finish_date><logo_url>/media/events/wolverine-logo-square1_1.jpg</logo_url><url>https://wolvctf.io/</url><ctftime_url>/event/3049</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/3049/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 83621, "name": "wolvsec"}]</organizers><ctf_id>766</ctf_id><ctf_name>WolvCTF</ctf_name></item><item><title>Outback Overflow</title><link>https://ctftime.org/event/3425</link><description>
-Name: Outback Overflow (an &lt;a href="/ctf/1683"&gt;Outback Overflow&lt;/a&gt; event.)&lt;br/&gt;
-Date: Nov. 20, 2026, 11 p.m. &amp;mdash; 21 Nov. 2026, 23:00 UTC &amp;nbsp;&lt;a href="/event/3425.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="http://ctf.hscyber.org/" rel="nofollow"&gt;http://ctf.hscyber.org/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/446734"&gt;HSCC&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3425</guid><start_date>20261120T230000</start_date><finish_date>20261121T230000</finish_date><logo_url>/media/events/logo_137.png</logo_url><url>http://ctf.hscyber.org/</url><ctftime_url>/event/3425</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 446734, "name": "HSCC"}]</organizers><ctf_id>1683</ctf_id><ctf_name>Outback Overflow</ctf_name></item><item><title>Seize da Flaq</title><link>https://ctftime.org/event/3408</link><description>
-Name: Seize da Flaq (an &lt;a href="/ctf/1657"&gt;Seize da Flaq&lt;/a&gt; event.)&lt;br/&gt;
-Date: Nov. 21, 2026, 6:30 a.m. &amp;mdash; 22 Nov. 2026, 02:30 UTC &amp;nbsp;&lt;a href="/event/3408.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
-Location: &lt;a href="http://maps.yandex.com/?text=Mathura%2C%20Uttar%20Pradesh%2C%20India"&gt;Mathura, Uttar Pradesh, India&lt;/a&gt;&lt;br/&gt;
-Offical URL: &lt;a href="https://seizedaflaq.cyberonites.com/" rel="nofollow"&gt;https://seizedaflaq.cyberonites.com/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/442848"&gt;Seize da Flaq&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3408</guid><start_date>20261121T063000</start_date><finish_date>20261122T023000</finish_date><logo_url>/media/events/SDF_1.jpeg</logo_url><url>https://seizedaflaq.cyberonites.com/</url><ctftime_url>/event/3408</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0</weight><live_feed></live_feed><restrictions>Casual</restrictions><location>Mathura, Uttar Pradesh, India</location><onsite>True</onsite><organizers>[{"id": 442848, "name": "Seize da Flaq"}]</organizers><ctf_id>1657</ctf_id><ctf_name>Seize da Flaq</ctf_name></item><item><title>Crate-CTF 2026</title><link>https://ctftime.org/event/3336</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 21 Nov 2026 07:11:44 -0000</lastBuildDate><item><title>Crate-CTF 2026</title><link>https://ctftime.org/event/3336</link><description>
 Name: Crate-CTF 2026 (an &lt;a href="/ctf/1172"&gt;Crate-CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 21, 2026, 1 p.m. &amp;mdash; 21 Nov. 2026, 21:00 UTC &amp;nbsp;&lt;a href="/event/3336.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
