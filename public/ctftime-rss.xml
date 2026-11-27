@@ -1,47 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 27 Nov 2026 08:32:57 -0000</lastBuildDate><item><title>RedReaper CTF</title><link>https://ctftime.org/event/3502</link><description>
-Name: RedReaper CTF (an &lt;a href="/ctf/1753"&gt;RedReaper CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Nov. 27, 2026, 11 a.m. &amp;mdash; 27 Nov. 2026, 19:00 UTC &amp;nbsp;&lt;a href="/event/3502.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://qualification.redx.site/" rel="nofollow"&gt;https://qualification.redx.site/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/453520"&gt;RedReaper&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3502</guid><start_date>20261127T110000</start_date><finish_date>20261127T190000</finish_date><logo_url>/media/events/Gemini_Generated_Image_ayukqbayukqbayuk.jpg</logo_url><url>https://qualification.redx.site/</url><ctftime_url>/event/3502</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 453520, "name": "RedReaper"}]</organizers><ctf_id>1753</ctf_id><ctf_name>RedReaper CTF</ctf_name></item><item><title>N0v4CTF 2026</title><link>https://ctftime.org/event/3512</link><description>
-Name: N0v4CTF 2026 (an &lt;a href="/ctf/1771"&gt;N0v4CTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Nov. 27, 2026, 5 p.m. &amp;mdash; 28 Nov. 2026, 17:00 UTC &amp;nbsp;&lt;a href="/event/3512.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://n0v4ctf.devs.surf/" rel="nofollow"&gt;https://n0v4ctf.devs.surf/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 0.00&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/435904"&gt;NovaRun&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3512</guid><start_date>20261127T170000</start_date><finish_date>20261128T170000</finish_date><logo_url>/media/events/7b7122f8-2612-4678-b769-2d5ef3630813.png</logo_url><url>https://n0v4ctf.devs.surf/</url><ctftime_url>/event/3512</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 435904, "name": "NovaRun"}]</organizers><ctf_id>1771</ctf_id><ctf_name>N0v4CTF</ctf_name></item><item><title>LakeCTF Quals 26-27</title><link>https://ctftime.org/event/3474</link><description>
-Name: LakeCTF Quals 26-27 (an &lt;a href="/ctf/818"&gt;LakeCTF&lt;/a&gt; event.)&lt;br/&gt;
-Date: Nov. 27, 2026, 6 p.m. &amp;mdash; 28 Nov. 2026, 18:00 UTC &amp;nbsp;&lt;a href="/event/3474.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
-Format: Jeopardy&lt;br/&gt;
-&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
-
-Offical URL: &lt;a href="https://lakectf.epfl.ch/" rel="nofollow"&gt;https://lakectf.epfl.ch/&lt;/a&gt;&lt;br/&gt;
-Rating weight: 45.76&lt;br/&gt;
-
-Event organizers: 
-
-&lt;a href="/team/53791"&gt;polygl0ts&lt;/a&gt; 
-
-
-</description><guid>https://ctftime.org/event/3474</guid><start_date>20261127T180000</start_date><finish_date>20261128T180000</finish_date><logo_url></logo_url><url>https://lakectf.epfl.ch/</url><ctftime_url>/event/3474</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>45.76</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 53791, "name": "polygl0ts"}]</organizers><ctf_id>818</ctf_id><ctf_name>LakeCTF</ctf_name></item><item><title>L3m0n CTF 2026 (Quals)</title><link>https://ctftime.org/event/3485</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 27 Nov 2026 21:19:08 -0000</lastBuildDate><item><title>L3m0n CTF 2026 (Quals)</title><link>https://ctftime.org/event/3485</link><description>
 Name: L3m0n CTF 2026 (Quals) (an &lt;a href="/ctf/1468"&gt;L3m0n CTF&lt;/a&gt; event.)&lt;br/&gt;
 Date: Nov. 28, 2026, 4:30 a.m. &amp;mdash; 28 Nov. 2026, 16:30 UTC &amp;nbsp;&lt;a href="/event/3485.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
 Format: Jeopardy&lt;br/&gt;
